@@ -1,0 +1,148 @@
+openapi: 3.0.0
+info:
+  title: Garmin Backend API
+  description: Garmin cihazından aktiviteleri işleyen ve analiz eden API
+  version: 1.0.0
+servers:
+  - url: http://localhost:3000
+paths:
+  /api/activity/{fileName}:
+    get:
+      summary: Belirli bir FIT dosyasını işle
+      parameters:
+        - in: path
+          name: fileName
+          required: true
+          schema:
+            type: string
+          description: İşlenecek FIT dosyasının adı
+      responses:
+        '200':
+          description: İşlenmiş aktivite verileri
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  fileName:
+                    type: string
+                    description: FIT dosyasının adı
+                  processedData:
+                    type: object
+                    description: İşlenen aktivite verileri
+        '404':
+          description: FIT dosyası bulunamadı
+        '500':
+          description: Sunucu hatası
+
+  /api/activities:
+    get:
+      summary: Tüm aktiviteleri işle ve listele
+      responses:
+        '200':
+          description: Tüm aktiviteler
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    fileName:
+                      type: string
+                      description: FIT dosyasının adı
+                    processedData:
+                      type: object
+                      description: İşlenen aktivite verileri
+        '500':
+          description: Sunucu hatası
+
+  /api/activities/analyze:
+    get:
+      summary: Tüm aktiviteleri analiz et ve sonuçları döndür
+      responses:
+        '200':
+          description: Analiz sonuçları
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  totalActivities:
+                    type: integer
+                    description: Toplam aktivite sayısı
+                  averageHeartRate:
+                    type: number
+                    description: Ortalama kalp atış hızı
+                  totalDistance:
+                    type: number
+                    description: Toplam mesafe (kilometre)
+                  totalTime:
+                    type: string
+                    description: Toplam süre (saat/dakika/saniye formatında)
+        '500':
+          description: Sunucu hatası
+
+  /api/activity/upload:
+    post:
+      summary: Yeni bir FIT dosyasını yükle ve işle
+      requestBody:
+        required: true
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              properties:
+                file:
+                  type: string
+                  format: binary
+                  description: Yüklenecek FIT dosyası
+      responses:
+        '201':
+          description: FIT dosyası başarıyla yüklendi ve işlendi
+        '400':
+          description: Geçersiz dosya formatı
+        '500':
+          description: Sunucu hatası
+
+  /api/activity/delete/{fileName}:
+    delete:
+      summary: Belirli bir FIT dosyasını sil
+      parameters:
+        - in: path
+          name: fileName
+          required: true
+          schema:
+            type: string
+          description: Silinecek FIT dosyasının adı
+      responses:
+        '200':
+          description: FIT dosyası başarıyla silindi
+        '404':
+          description: FIT dosyası bulunamadı
+        '500':
+          description: Sunucu hatası
+
+  /api/activity/download/{fileName}:
+    get:
+      summary: Belirli bir FIT dosyasını indir
+      parameters:
+        - in: path
+          name: fileName
+          required: true
+          schema:
+            type: string
+          description: İndirilecek FIT dosyasının adı
+      responses:
+        '200':
+          description: FIT dosyası başarıyla indirildi
+          content:
+            application/octet-stream:
+              schema:
+                type: string
+                format: binary
+        '404':
+          description: FIT dosyası bulunamadı
+        '500':
+          description: Sunucu hatası
+
