@@ -4,7 +4,6 @@ import YAML from 'yamljs';
 import garminRoutes from './routes/garminRoutes.js';
 import connectDB from './config/connectDB.js';
 import dotenv from 'dotenv';
-import logger from "../utils/logger.js";
 
 // Dotenv ayarlarını yükle
 dotenv.config();
