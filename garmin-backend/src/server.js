@@ -1,27 +1,30 @@
-const express = require('express');
-const swaggerUi = require('swagger-ui-express');
-const YAML = require('yamljs');
-const garminRoutes = require('./routes/garminRoutes');
-const mongoose = require('mongoose');
+import express from 'express';
+import swaggerUi from 'swagger-ui-express';
+import YAML from 'yamljs';
+import garminRoutes from './routes/garminRoutes.js';
+import connectDB from './config/connectDB.js';
+import dotenv from 'dotenv';
+import logger from "../utils/logger.js";
+
+// Dotenv ayarlarını yükle
+dotenv.config();
 
 // Swagger dökümantasyonunu yükle
 const swaggerDocument = YAML.load('./src/docs/swagger.yaml');
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3001;
 
 // MongoDB bağlantısını başlat
-mongoose.connect('mongodb://localhost:27017/garminDB', { useNewUrlParser: true, useUnifiedTopology: true })
-    .then(() => console.log('MongoDB bağlantısı başarılı'))
-    .catch(err => console.error('MongoDB bağlantısı başarısız:', err));
+connectDB();
 
 // Middleware
 app.use(express.json());
 
-// Swagger UI'yı başlat
+// Swagger UI yapılandırması
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
-// API rotalarını kullan
+// Garmin API rotalarını yükle
 app.use('/api', garminRoutes);
 
 // Sunucuyu başlat
@@ -29,4 +32,3 @@ app.listen(port, () => {
     console.log(`Sunucu ${port} portunda çalışıyor`);
     console.log(`Swagger UI: http://localhost:${port}/api-docs`);
 });
-

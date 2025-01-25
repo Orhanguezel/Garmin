@@ -1,0 +1,6350 @@
+{
+  "fileName": "2024-09-26-18-39-57.fit",
+  "messages": {
+    "fileIdMesgs": [
+      {
+        "serialNumber": 3311454252,
+        "timeCreated": "2024-09-26T16:39:57.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "type": "activity",
+        "garminProduct": "fenix6"
+      }
+    ],
+    "fileCreatorMesgs": [
+      {
+        "softwareVersion": 2700
+      }
+    ],
+    "eventMesgs": [
+      {
+        "timestamp": "2024-09-26T16:39:57.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-26T17:39:58.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-26T17:41:58.000Z",
+        "data": 113,
+        "event": "recoveryHr",
+        "eventType": "marker"
+      }
+    ],
+    "deviceInfoMesgs": [
+      {
+        "timestamp": "2024-09-26T16:39:57.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-26T16:39:57.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-26T16:39:57.000Z",
+        "deviceIndex": 2,
+        "deviceType": 8,
+        "sourceType": "local",
+        "localDeviceType": 8
+      },
+      {
+        "timestamp": "2024-09-26T16:39:57.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 3,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-26T16:39:57.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 4,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-26T17:39:58.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-26T17:39:58.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-26T17:39:58.000Z",
+        "deviceIndex": 2,
+        "deviceType": 8,
+        "sourceType": "local",
+        "localDeviceType": 8
+      },
+      {
+        "timestamp": "2024-09-26T17:39:58.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 3,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-26T17:39:58.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 4,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      }
+    ],
+    "deviceSettingsMesgs": [
+      {
+        "utcOffset": 0,
+        "timeOffset": 7200,
+        "autoActivityDetect": 2147483647,
+        "autosyncMinSteps": 2000,
+        "autosyncMinTime": 240,
+        "activeTimeZone": 0,
+        "timeMode": "hour12",
+        "timeZoneOffset": 0,
+        "backlightMode": "autoBrightness",
+        "activityTrackerEnabled": 1,
+        "moveAlertEnabled": 0,
+        "dateMode": "dayMonth",
+        "mountingSide": "left",
+        "lactateThresholdAutodetectEnabled": 1
+      }
+    ],
+    "userProfileMesgs": [
+      {
+        "wakeTime": 32400,
+        "sleepTime": 3600,
+        "weight": 101,
+        "gender": "male",
+        "height": 1.89,
+        "language": "turkish",
+        "elevSetting": "metric",
+        "weightSetting": "metric",
+        "restingHeartRate": 68,
+        "hrSetting": "max",
+        "speedSetting": "metric",
+        "distSetting": "metric",
+        "activityClass": "levelMax",
+        "positionSetting": "degreeMinuteSecond",
+        "temperatureSetting": "metric",
+        "heightSetting": "metric",
+        "depthSetting": "statute"
+      }
+    ],
+    "sportMesgs": [
+      {
+        "name": "İç Mkn Bsklet",
+        "sport": "cycling",
+        "subSport": "indoorCycling"
+      }
+    ],
+    "zonesTargetMesgs": [
+      {
+        "functionalThresholdPower": 255,
+        "maxHeartRate": 181,
+        "thresholdHeartRate": 0,
+        "hrCalcType": "percentMaxHr",
+        "pwrCalcType": "percentFtp"
+      }
+    ],
+    "recordMesgs": [
+      {
+        "timestamp": "2024-09-26T16:39:57.000Z",
+        "distance": 0,
+        "heartRate": 75,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:39:58.000Z",
+        "distance": 0,
+        "heartRate": 75,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:39:59.000Z",
+        "distance": 0,
+        "heartRate": 76,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:00.000Z",
+        "distance": 0,
+        "heartRate": 77,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:01.000Z",
+        "distance": 0,
+        "heartRate": 75,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:02.000Z",
+        "distance": 0,
+        "heartRate": 80,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:04.000Z",
+        "distance": 0,
+        "heartRate": 81,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:05.000Z",
+        "distance": 0,
+        "heartRate": 82,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:06.000Z",
+        "distance": 0,
+        "heartRate": 84,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:07.000Z",
+        "distance": 0,
+        "heartRate": 85,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:08.000Z",
+        "distance": 0,
+        "heartRate": 87,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:09.000Z",
+        "distance": 0,
+        "heartRate": 85,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:10.000Z",
+        "distance": 0,
+        "heartRate": 87,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:15.000Z",
+        "distance": 0,
+        "heartRate": 88,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:17.000Z",
+        "distance": 0,
+        "heartRate": 89,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:18.000Z",
+        "distance": 0,
+        "heartRate": 88,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:19.000Z",
+        "distance": 0,
+        "heartRate": 91,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:20.000Z",
+        "distance": 0,
+        "heartRate": 88,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:21.000Z",
+        "distance": 0,
+        "heartRate": 86,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:22.000Z",
+        "distance": 0,
+        "heartRate": 84,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:23.000Z",
+        "distance": 0,
+        "heartRate": 85,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:25.000Z",
+        "distance": 0,
+        "heartRate": 84,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:26.000Z",
+        "distance": 0,
+        "heartRate": 81,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:28.000Z",
+        "distance": 0,
+        "heartRate": 78,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:29.000Z",
+        "distance": 0,
+        "heartRate": 77,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:30.000Z",
+        "distance": 0,
+        "heartRate": 76,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:31.000Z",
+        "distance": 0,
+        "heartRate": 77,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:35.000Z",
+        "distance": 0,
+        "heartRate": 78,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T16:40:38.000Z",
+        "distance": 0,
+        "heartRate": 79,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:40.000Z",
+        "distance": 0,
+        "heartRate": 80,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:41.000Z",
+        "distance": 0,
+        "heartRate": 79,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:43.000Z",
+        "distance": 0,
+        "heartRate": 76,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:44.000Z",
+        "distance": 0,
+        "heartRate": 74,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:45.000Z",
+        "distance": 0,
+        "heartRate": 73,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:46.000Z",
+        "distance": 0,
+        "heartRate": 72,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:47.000Z",
+        "distance": 0,
+        "heartRate": 71,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:48.000Z",
+        "distance": 0,
+        "heartRate": 70,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:49.000Z",
+        "distance": 0,
+        "heartRate": 69,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:50.000Z",
+        "distance": 0,
+        "heartRate": 68,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:52.000Z",
+        "distance": 0,
+        "heartRate": 67,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:55.000Z",
+        "distance": 0,
+        "heartRate": 66,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:57.000Z",
+        "distance": 0,
+        "heartRate": 65,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:40:59.000Z",
+        "distance": 0,
+        "heartRate": 66,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:02.000Z",
+        "distance": 0,
+        "heartRate": 67,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:07.000Z",
+        "distance": 0,
+        "heartRate": 70,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:08.000Z",
+        "distance": 0,
+        "heartRate": 68,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:09.000Z",
+        "distance": 0,
+        "heartRate": 70,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:10.000Z",
+        "distance": 0,
+        "heartRate": 71,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:11.000Z",
+        "distance": 0,
+        "heartRate": 72,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:15.000Z",
+        "distance": 0,
+        "heartRate": 73,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:16.000Z",
+        "distance": 0,
+        "heartRate": 74,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:19.000Z",
+        "distance": 0,
+        "heartRate": 75,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:20.000Z",
+        "distance": 0,
+        "heartRate": 76,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:23.000Z",
+        "distance": 0,
+        "heartRate": 77,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:26.000Z",
+        "distance": 0,
+        "heartRate": 78,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:27.000Z",
+        "distance": 0,
+        "heartRate": 77,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:28.000Z",
+        "distance": 0,
+        "heartRate": 79,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:29.000Z",
+        "distance": 0,
+        "heartRate": 77,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:30.000Z",
+        "distance": 0,
+        "heartRate": 78,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:31.000Z",
+        "distance": 0,
+        "heartRate": 77,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:36.000Z",
+        "distance": 0,
+        "heartRate": 76,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:40.000Z",
+        "distance": 0,
+        "heartRate": 75,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:46.000Z",
+        "distance": 0,
+        "heartRate": 76,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:47.000Z",
+        "distance": 0,
+        "heartRate": 77,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:48.000Z",
+        "distance": 0,
+        "heartRate": 75,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:51.000Z",
+        "distance": 0,
+        "heartRate": 76,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:41:52.000Z",
+        "distance": 0,
+        "heartRate": 77,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:01.000Z",
+        "distance": 0,
+        "heartRate": 76,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:04.000Z",
+        "distance": 0,
+        "heartRate": 75,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:06.000Z",
+        "distance": 0,
+        "heartRate": 74,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:07.000Z",
+        "distance": 0,
+        "heartRate": 75,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:10.000Z",
+        "distance": 0,
+        "heartRate": 76,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:11.000Z",
+        "distance": 0,
+        "heartRate": 77,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:12.000Z",
+        "distance": 0,
+        "heartRate": 78,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:13.000Z",
+        "distance": 0,
+        "heartRate": 82,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:14.000Z",
+        "distance": 0,
+        "heartRate": 84,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:15.000Z",
+        "distance": 0,
+        "heartRate": 86,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:16.000Z",
+        "distance": 0,
+        "heartRate": 91,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:17.000Z",
+        "distance": 0,
+        "heartRate": 94,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:18.000Z",
+        "distance": 0,
+        "heartRate": 97,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:19.000Z",
+        "distance": 0,
+        "heartRate": 103,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:20.000Z",
+        "distance": 0,
+        "heartRate": 105,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:21.000Z",
+        "distance": 0,
+        "heartRate": 108,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:22.000Z",
+        "distance": 0,
+        "heartRate": 114,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:23.000Z",
+        "distance": 0,
+        "heartRate": 119,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:24.000Z",
+        "distance": 0,
+        "heartRate": 122,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:25.000Z",
+        "distance": 0,
+        "heartRate": 123,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:26.000Z",
+        "distance": 0,
+        "heartRate": 124,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:28.000Z",
+        "distance": 0,
+        "heartRate": 125,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:29.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:30.000Z",
+        "distance": 0,
+        "heartRate": 125,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:33.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:35.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:37.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:39.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:41.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:42:46.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:43:02.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:43:04.000Z",
+        "distance": 0,
+        "heartRate": 125,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:43:08.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:43:23.000Z",
+        "distance": 0,
+        "heartRate": 125,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:43:42.000Z",
+        "distance": 0,
+        "heartRate": 124,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:43:45.000Z",
+        "distance": 0,
+        "heartRate": 122,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:43:46.000Z",
+        "distance": 0,
+        "heartRate": 123,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:43:48.000Z",
+        "distance": 0,
+        "heartRate": 122,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:43:51.000Z",
+        "distance": 0,
+        "heartRate": 123,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:44:09.000Z",
+        "distance": 0,
+        "heartRate": 124,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:44:22.000Z",
+        "distance": 0,
+        "heartRate": 125,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:44:24.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:44:27.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:44:30.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:44:34.000Z",
+        "distance": 0,
+        "heartRate": 129,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:44:36.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:44:46.000Z",
+        "distance": 0,
+        "heartRate": 129,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:01.000Z",
+        "distance": 0,
+        "heartRate": 130,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:03.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:08.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:09.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:19.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:30.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:34.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:39.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:40.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:41.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:48.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:49.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:50.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:45:51.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:46:03.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T16:46:07.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:46:15.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:46:22.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:46:23.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:46:27.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:46:33.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:46:39.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:03.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:09.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:10.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:23.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:28.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:30.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:33.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:37.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:40.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:43.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:45.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:47:51.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:48:00.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:48:13.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:48:20.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:48:29.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:48:35.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:48:45.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:48:52.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:48:54.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:48:57.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:48:58.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:49:04.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:49:20.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:49:24.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:49:37.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:49:41.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:49:43.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:49:48.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:49:51.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:04.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:07.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:08.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:09.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:10.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:14.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:17.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:21.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:27.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:52.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:53.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:50:55.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:04.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:10.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:12.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:17.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:19.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:23.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:26.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:29.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:30.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:31.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:33.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:36.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:40.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:41.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:42.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:44.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:53.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:55.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:56.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:57.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:51:58.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:52:16.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:52:23.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:52:38.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:52:39.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:52:44.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:52:46.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:52:55.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:52:58.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:07.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:17.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:21.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:23.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:26.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:40.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:41.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:51.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:53.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:55.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:53:56.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:06.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:08.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:12.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:13.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:15.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:16.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:18.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:38.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:42.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:46.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:49.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:54:59.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:55:01.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:55:03.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:55:15.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:55:16.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:55:17.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:55:19.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:55:22.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:23.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:24.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:25.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:26.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:28.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:29.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:30.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:31.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:36.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:37.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:38.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:40.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:41.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:42.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:43.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:45.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:47.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:50.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:53.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:55.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:57.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:58.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:55:59.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:56:01.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:56:04.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:56:05.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:56:06.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:56:08.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:56:11.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:56:12.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:56:13.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:56:15.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-26T16:56:20.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:56:24.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:56:29.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:56:31.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:56:33.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:56:38.000Z",
+        "distance": 0,
+        "heartRate": 130,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:56:46.000Z",
+        "distance": 0,
+        "heartRate": 129,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:56:52.000Z",
+        "distance": 0,
+        "heartRate": 130,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:56:59.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:03.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:13.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:15.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:18.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:19.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:20.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:23.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:28.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:34.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:35.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:38.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:39.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:42.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:43.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:44.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:47.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:49.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:51.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:53.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:56.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:57:58.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:00.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:02.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:05.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:06.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:07.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:08.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:09.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:14.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:15.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:18.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:27.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:28.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:31.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:32.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:33.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:34.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:37.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:42.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:52.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:53.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:57.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:58:59.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:07.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:09.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:14.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:17.000Z",
+        "distance": 0,
+        "heartRate": 165,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:19.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:21.000Z",
+        "distance": 0,
+        "heartRate": 165,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:22.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:23.000Z",
+        "distance": 0,
+        "heartRate": 165,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:24.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:29.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:30.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:35.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:48.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:49.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:54.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:55.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T16:59:56.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:00:05.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:00:13.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:00:24.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:00:39.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:00:57.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:01:06.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:01:09.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:01:17.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:01:19.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:01:26.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:01:29.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:01:30.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:01:45.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:01:49.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:02:08.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:10.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:13.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:16.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:22.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:26.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:27.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:28.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:30.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:33.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:40.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:44.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:46.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:47.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:02:49.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:02:50.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:02:53.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:02:56.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:02:57.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:00.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:01.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:03.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:06.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:07.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:11.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:13.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:17.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:19.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:25.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:27.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:29.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:30.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:36.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:38.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:41.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:42.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:43.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:45.000Z",
+        "distance": 0,
+        "heartRate": 130,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:50.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:03:58.000Z",
+        "distance": 0,
+        "heartRate": 130,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:06.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:11.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:12.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:14.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:17.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:22.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:26.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:27.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:29.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:33.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:35.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:36.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:37.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:38.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:40.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:41.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:42.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:43.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:44.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:46.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:53.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:55.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:57.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:04:59.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:01.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:05.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:11.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:12.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:18.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:22.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:23.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:24.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:26.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:27.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:28.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:32.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:35.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:37.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:47.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:56.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:05:59.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:06:04.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:06:07.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:06:20.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:06:34.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:07:18.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:07:27.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:07:37.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:07:42.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:08:00.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:08:04.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:08:07.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:08:11.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:08:22.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:08:37.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:08:40.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:08:45.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:08:47.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:03.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:09.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:12.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:19.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:22.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:23.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:24.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:26.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:28.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:29.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:33.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:37.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:39.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:41.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:43.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:45.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:47.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:49.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:51.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:53.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:57.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:09:58.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:00.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:11.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:13.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:14.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:16.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:10:19.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:20.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:10:23.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:25.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:27.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:29.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:30.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:36.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:47.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:52.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:10:56.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:06.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:08.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:15.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:19.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:20.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:21.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:22.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:23.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:24.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:26.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:29.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:31.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:33.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:36.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:37.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:39.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:40.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:44.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:46.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:52.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:55.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:11:58.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:12:00.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:12:02.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:12:05.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:12:07.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:12:13.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:12:34.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:12:37.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:12:39.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:12:50.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:13:03.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:13:10.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:13:23.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:13:30.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:14:03.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:31.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:33.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:34.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:36.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:39.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:42.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:46.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:48.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:51.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:52.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:14:55.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:05.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:07.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:09.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:10.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:14.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:15.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:24.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:25.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:33.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:36.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:41.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:44.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:45.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:46.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:55.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:15:57.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:16:01.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:05.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:06.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:09.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:12.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:14.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:15.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:19.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:20.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:21.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:26.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:28.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:33.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:35.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:36.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:40.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:44.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:48.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:53.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:54.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:16:59.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:05.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:08.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:09.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:12.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:14.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:23.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:26.000Z",
+        "distance": 0,
+        "heartRate": 130,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:27.000Z",
+        "distance": 0,
+        "heartRate": 129,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:28.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:35.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:37.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:39.000Z",
+        "distance": 0,
+        "heartRate": 125,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:47.000Z",
+        "distance": 0,
+        "heartRate": 124,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:48.000Z",
+        "distance": 0,
+        "heartRate": 125,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:17:57.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:18:04.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:18:05.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:18:08.000Z",
+        "distance": 0,
+        "heartRate": 129,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:18:09.000Z",
+        "distance": 0,
+        "heartRate": 130,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:11.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:13.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:14.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:15.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:16.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:19.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:21.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:22.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:24.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:25.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:27.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:29.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:30.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:33.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:35.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:40.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:43.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:44.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:46.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:48.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:51.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:18:52.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:18:53.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:18:54.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:18:59.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:02.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:07.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:11.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:15.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:19.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:25.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:26.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:30.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:37.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:47.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:50.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:52.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:55.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:19:57.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:20:01.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:20:02.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:20:03.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:20:11.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:20:16.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:20:28.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:20:29.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:20:30.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:20:48.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:20:55.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:20:57.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:21:21.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:21:25.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:21:26.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:21:30.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:21:33.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:21:43.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:21:59.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:01.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:08.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:10.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:12.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:16.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:21.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:23.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:24.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:26.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:27.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:29.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:31.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:32.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:34.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:37.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:42.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:44.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:46.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:49.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:22:59.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:03.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:07.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:10.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:11.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:14.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:15.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:21.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:22.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:23.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:25.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:26.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:28.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:37.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:40.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:46.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:52.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:56.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:57.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:58.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:23:59.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:04.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:08.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:12.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:13.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:14.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:15.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:17.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:19.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:21.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:23.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:27.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:29.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:32.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:34.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:38.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:41.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:44.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:46.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:48.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:49.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:54.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:24:59.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:02.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:05.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:06.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:09.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:12.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:18.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:20.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:22.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:23.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:27.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:31.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:36.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:37.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:38.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:39.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:42.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:43.000Z",
+        "distance": 0,
+        "heartRate": 165,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:44.000Z",
+        "distance": 0,
+        "heartRate": 166,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:25:49.000Z",
+        "distance": 0,
+        "heartRate": 167,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:26:05.000Z",
+        "distance": 0,
+        "heartRate": 168,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:26:07.000Z",
+        "distance": 0,
+        "heartRate": 169,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:26:11.000Z",
+        "distance": 0,
+        "heartRate": 170,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:26:17.000Z",
+        "distance": 0,
+        "heartRate": 171,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:26:23.000Z",
+        "distance": 0,
+        "heartRate": 172,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:26:39.000Z",
+        "distance": 0,
+        "heartRate": 173,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:26:59.000Z",
+        "distance": 0,
+        "heartRate": 172,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:06.000Z",
+        "distance": 0,
+        "heartRate": 171,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:08.000Z",
+        "distance": 0,
+        "heartRate": 170,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:10.000Z",
+        "distance": 0,
+        "heartRate": 169,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:12.000Z",
+        "distance": 0,
+        "heartRate": 168,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:13.000Z",
+        "distance": 0,
+        "heartRate": 167,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:14.000Z",
+        "distance": 0,
+        "heartRate": 166,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:16.000Z",
+        "distance": 0,
+        "heartRate": 165,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:18.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:19.000Z",
+        "distance": 0,
+        "heartRate": 165,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:20.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:26.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:28.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:32.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:35.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:37.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:38.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:39.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:40.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:41.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:42.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:44.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:48.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:50.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:52.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:54.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:55.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:58.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:27:59.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:02.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:03.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:04.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:06.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:13.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:14.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:16.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:19.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:22.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:23.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:25.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:27.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:30.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:31.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:32.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:34.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:36.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:41.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:46.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:49.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:52.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:28:55.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:01.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:02.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:13.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:15.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:18.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:21.000Z",
+        "distance": 0,
+        "heartRate": 165,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:23.000Z",
+        "distance": 0,
+        "heartRate": 166,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:27.000Z",
+        "distance": 0,
+        "heartRate": 167,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:36.000Z",
+        "distance": 0,
+        "heartRate": 168,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:38.000Z",
+        "distance": 0,
+        "heartRate": 169,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:50.000Z",
+        "distance": 0,
+        "heartRate": 170,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:53.000Z",
+        "distance": 0,
+        "heartRate": 171,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:29:57.000Z",
+        "distance": 0,
+        "heartRate": 172,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:30:02.000Z",
+        "distance": 0,
+        "heartRate": 173,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:30:13.000Z",
+        "distance": 0,
+        "heartRate": 174,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:30:19.000Z",
+        "distance": 0,
+        "heartRate": 175,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:30:21.000Z",
+        "distance": 0,
+        "heartRate": 174,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:30:31.000Z",
+        "distance": 0,
+        "heartRate": 175,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:30:45.000Z",
+        "distance": 0,
+        "heartRate": 174,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:30:52.000Z",
+        "distance": 0,
+        "heartRate": 173,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:00.000Z",
+        "distance": 0,
+        "heartRate": 172,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:01.000Z",
+        "distance": 0,
+        "heartRate": 173,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:03.000Z",
+        "distance": 0,
+        "heartRate": 172,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:05.000Z",
+        "distance": 0,
+        "heartRate": 171,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:07.000Z",
+        "distance": 0,
+        "heartRate": 172,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:08.000Z",
+        "distance": 0,
+        "heartRate": 171,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:10.000Z",
+        "distance": 0,
+        "heartRate": 172,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:11.000Z",
+        "distance": 0,
+        "heartRate": 171,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:12.000Z",
+        "distance": 0,
+        "heartRate": 170,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:13.000Z",
+        "distance": 0,
+        "heartRate": 169,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:16.000Z",
+        "distance": 0,
+        "heartRate": 168,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:20.000Z",
+        "distance": 0,
+        "heartRate": 167,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:21.000Z",
+        "distance": 0,
+        "heartRate": 168,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:22.000Z",
+        "distance": 0,
+        "heartRate": 167,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:24.000Z",
+        "distance": 0,
+        "heartRate": 166,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:25.000Z",
+        "distance": 0,
+        "heartRate": 165,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:26.000Z",
+        "distance": 0,
+        "heartRate": 164,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:28.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:30.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:31.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:32.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:34.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:35.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:36.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:39.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:40.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:42.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:43.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:44.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:45.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:47.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:48.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:49.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:51.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:52.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:31:54.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:03.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:07.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:10.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:11.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:14.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:15.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:16.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:19.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:22.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:25.000Z",
+        "distance": 0,
+        "heartRate": 163,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:26.000Z",
+        "distance": 0,
+        "heartRate": 162,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:29.000Z",
+        "distance": 0,
+        "heartRate": 161,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:32.000Z",
+        "distance": 0,
+        "heartRate": 160,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:33.000Z",
+        "distance": 0,
+        "heartRate": 159,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:35.000Z",
+        "distance": 0,
+        "heartRate": 158,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:36.000Z",
+        "distance": 0,
+        "heartRate": 157,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:37.000Z",
+        "distance": 0,
+        "heartRate": 156,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:38.000Z",
+        "distance": 0,
+        "heartRate": 155,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:39.000Z",
+        "distance": 0,
+        "heartRate": 154,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-26T17:32:40.000Z",
+        "distance": 0,
+        "heartRate": 153,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:43.000Z",
+        "distance": 0,
+        "heartRate": 152,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:44.000Z",
+        "distance": 0,
+        "heartRate": 151,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:45.000Z",
+        "distance": 0,
+        "heartRate": 150,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:47.000Z",
+        "distance": 0,
+        "heartRate": 149,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:48.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:49.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:50.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:52.000Z",
+        "distance": 0,
+        "heartRate": 145,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:54.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:32:55.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:00.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:05.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:08.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:10.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:12.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:17.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:22.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:24.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:25.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:35.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:38.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:39.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:41.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:43.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:44.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:45.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:46.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:47.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:48.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:50.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:51.000Z",
+        "distance": 0,
+        "heartRate": 148,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:58.000Z",
+        "distance": 0,
+        "heartRate": 147,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:33:59.000Z",
+        "distance": 0,
+        "heartRate": 146,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:34:00.000Z",
+        "distance": 0,
+        "heartRate": 144,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:34:03.000Z",
+        "distance": 0,
+        "heartRate": 143,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:34:05.000Z",
+        "distance": 0,
+        "heartRate": 142,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:34:06.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:34:07.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:34:08.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:34:09.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:34:10.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:34:11.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:34:13.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:34:18.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:34:28.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:34:31.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:34:33.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:34:35.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:34:40.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:34:41.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:34:48.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:34:52.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:34:54.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:01.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:06.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:14.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:16.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:19.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:20.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:22.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:25.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:27.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:29.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:33.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:35:41.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:36:02.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:36:05.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:36:08.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:36:17.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:36:21.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:36:27.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:36:32.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 31
+      },
+      {
+        "timestamp": "2024-09-26T17:36:42.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:36:45.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:36:50.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:15.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:22.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:25.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:28.000Z",
+        "distance": 0,
+        "heartRate": 141,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:29.000Z",
+        "distance": 0,
+        "heartRate": 140,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:36.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:38.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:44.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:47.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:48.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:50.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:51.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:37:59.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:01.000Z",
+        "distance": 0,
+        "heartRate": 133,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:04.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:06.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:14.000Z",
+        "distance": 0,
+        "heartRate": 130,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:16.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:19.000Z",
+        "distance": 0,
+        "heartRate": 130,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:20.000Z",
+        "distance": 0,
+        "heartRate": 129,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:21.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:23.000Z",
+        "distance": 0,
+        "heartRate": 129,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:24.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:29.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:31.000Z",
+        "distance": 0,
+        "heartRate": 125,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:32.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:34.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:36.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:38.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:40.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:48.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:38:49.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:38:50.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:38:51.000Z",
+        "distance": 0,
+        "heartRate": 125,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:38:52.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:38:54.000Z",
+        "distance": 0,
+        "heartRate": 129,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:38:55.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:38:56.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:38:57.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:38:59.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:39:00.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:39:01.000Z",
+        "distance": 0,
+        "heartRate": 139,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-26T17:39:06.000Z",
+        "distance": 0,
+        "heartRate": 138,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:07.000Z",
+        "distance": 0,
+        "heartRate": 137,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:09.000Z",
+        "distance": 0,
+        "heartRate": 136,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:10.000Z",
+        "distance": 0,
+        "heartRate": 135,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:11.000Z",
+        "distance": 0,
+        "heartRate": 134,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:12.000Z",
+        "distance": 0,
+        "heartRate": 132,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:13.000Z",
+        "distance": 0,
+        "heartRate": 131,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:14.000Z",
+        "distance": 0,
+        "heartRate": 130,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:15.000Z",
+        "distance": 0,
+        "heartRate": 129,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:16.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:18.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:21.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:22.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:24.000Z",
+        "distance": 0,
+        "heartRate": 128,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:28.000Z",
+        "distance": 0,
+        "heartRate": 127,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:33.000Z",
+        "distance": 0,
+        "heartRate": 126,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:34.000Z",
+        "distance": 0,
+        "heartRate": 125,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:36.000Z",
+        "distance": 0,
+        "heartRate": 124,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:40.000Z",
+        "distance": 0,
+        "heartRate": 123,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:42.000Z",
+        "distance": 0,
+        "heartRate": 122,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:44.000Z",
+        "distance": 0,
+        "heartRate": 121,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:51.000Z",
+        "distance": 0,
+        "heartRate": 120,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:52.000Z",
+        "distance": 0,
+        "heartRate": 119,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:56.000Z",
+        "distance": 0,
+        "heartRate": 117,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:57.000Z",
+        "distance": 0,
+        "heartRate": 116,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-26T17:39:58.000Z",
+        "distance": 0,
+        "heartRate": 115,
+        "temperature": 30
+      }
+    ],
+    "lapMesgs": [
+      {
+        "timestamp": "2024-09-26T17:45:49.000Z",
+        "startTime": "2024-09-26T16:39:57.000Z",
+        "totalElapsedTime": 3600.876,
+        "totalTimerTime": 3600.876,
+        "totalDistance": 0,
+        "enhancedAvgSpeed": 0,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 0,
+        "totalCalories": 950,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 146,
+        "maxHeartRate": 175,
+        "lapTrigger": "sessionEnd",
+        "sport": "cycling",
+        "subSport": "indoorCycling",
+        "avgTemperature": 29,
+        "maxTemperature": 31,
+        "minTemperature": 27
+      }
+    ],
+    "timeInZoneMesgs": [
+      {
+        "timestamp": "2024-09-26T17:45:49.000Z",
+        "timeInHrZone": [
+          137.359,
+          6.999,
+          165.518,
+          1325.998,
+          1607.001,
+          358.001,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 0,
+        "hrZoneHighBoundary": [
+          91,
+          109,
+          127,
+          145,
+          163,
+          181
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 181,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-26T17:45:49.000Z",
+        "timeInHrZone": [
+          137.359,
+          6.999,
+          165.518,
+          1325.998,
+          1607.001,
+          358.001,
+          0
+        ],
+        "referenceMesg": "session",
+        "referenceIndex": 0,
+        "hrZoneHighBoundary": [
+          91,
+          109,
+          127,
+          145,
+          163,
+          181
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 181,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      }
+    ],
+    "sessionMesgs": [
+      {
+        "timestamp": "2024-09-26T17:45:49.000Z",
+        "startTime": "2024-09-26T16:39:57.000Z",
+        "totalElapsedTime": 3600.876,
+        "totalTimerTime": 3600.876,
+        "totalDistance": 0,
+        "sportProfileName": "İç Mkn Bsklet",
+        "enhancedAvgSpeed": 0,
+        "trainingLoadPeak": 211.1584930419922,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 0,
+        "totalCalories": 950,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "firstLapIndex": 0,
+        "numLaps": 1,
+        "event": "lap",
+        "eventType": "stop",
+        "sport": "cycling",
+        "subSport": "indoorCycling",
+        "avgHeartRate": 146,
+        "maxHeartRate": 175,
+        "totalTrainingEffect": 3.8,
+        "trigger": "activityEnd",
+        "avgTemperature": 29,
+        "maxTemperature": 31,
+        "totalAnaerobicTrainingEffect": 2.2,
+        "minTemperature": 27
+      }
+    ],
+    "activityMesgs": [
+      {
+        "timestamp": "2024-09-26T17:45:49.000Z",
+        "totalTimerTime": 3600.876,
+        "localTimestamp": 1096314349,
+        "numSessions": 1,
+        "type": "manual",
+        "event": "activity",
+        "eventType": "stop"
+      }
+    ]
+  }
+}

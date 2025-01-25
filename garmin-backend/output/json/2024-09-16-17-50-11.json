@@ -1,0 +1,6412 @@
+{
+  "fileName": "2024-09-16-17-50-11.fit",
+  "messages": {
+    "fileIdMesgs": [
+      {
+        "serialNumber": 3311454252,
+        "timeCreated": "2024-09-16T15:50:11.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "type": "activity",
+        "garminProduct": "fenix6"
+      }
+    ],
+    "fileCreatorMesgs": [
+      {
+        "softwareVersion": 2700
+      }
+    ],
+    "eventMesgs": [
+      {
+        "timestamp": "2024-09-16T15:50:11.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T15:53:11.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T15:55:32.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T15:57:29.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T15:59:48.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:01:55.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:05:12.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:07:53.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:36.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:15:51.000Z",
+        "data": 113,
+        "event": "recoveryHr",
+        "eventType": "marker"
+      },
+      {
+        "timestamp": "2024-09-16T16:21:47.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:22:11.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-16T16:24:11.000Z",
+        "data": 116,
+        "event": "recoveryHr",
+        "eventType": "marker"
+      }
+    ],
+    "deviceInfoMesgs": [
+      {
+        "timestamp": "2024-09-16T15:50:11.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T15:50:11.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T15:50:11.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T15:50:11.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-16T16:22:11.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-16T16:22:11.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-16T16:22:11.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 2,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-16T16:22:11.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 3,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      }
+    ],
+    "deviceSettingsMesgs": [
+      {
+        "utcOffset": 0,
+        "timeOffset": 7200,
+        "autoActivityDetect": 2147483647,
+        "autosyncMinSteps": 2000,
+        "autosyncMinTime": 240,
+        "activeTimeZone": 0,
+        "timeMode": "hour12",
+        "timeZoneOffset": 0,
+        "backlightMode": "autoBrightness",
+        "activityTrackerEnabled": 1,
+        "moveAlertEnabled": 0,
+        "dateMode": "dayMonth",
+        "mountingSide": "left",
+        "lactateThresholdAutodetectEnabled": 1
+      }
+    ],
+    "userProfileMesgs": [
+      {
+        "wakeTime": 32400,
+        "sleepTime": 3600,
+        "weight": 85.8,
+        "gender": "male",
+        "height": 1.89,
+        "language": "turkish",
+        "elevSetting": "metric",
+        "weightSetting": "metric",
+        "restingHeartRate": 68,
+        "hrSetting": "max",
+        "speedSetting": "metric",
+        "distSetting": "metric",
+        "activityClass": "levelMax",
+        "positionSetting": "degreeMinuteSecond",
+        "temperatureSetting": "metric",
+        "heightSetting": "metric",
+        "depthSetting": "statute"
+      }
+    ],
+    "sportMesgs": [
+      {
+        "name": "Hvz Yüzme",
+        "sport": "swimming",
+        "subSport": "lapSwimming"
+      }
+    ],
+    "zonesTargetMesgs": [
+      {
+        "maxHeartRate": 183,
+        "thresholdHeartRate": 0,
+        "hrCalcType": "percentMaxHr",
+        "pwrCalcType": "percentFtp"
+      }
+    ],
+    "recordMesgs": [
+      {
+        "timestamp": "2024-09-16T15:50:11.000Z",
+        "heartRate": 105
+      },
+      {
+        "timestamp": "2024-09-16T15:50:12.000Z",
+        "heartRate": 105
+      },
+      {
+        "timestamp": "2024-09-16T15:50:13.000Z",
+        "heartRate": 105
+      },
+      {
+        "timestamp": "2024-09-16T15:50:14.000Z",
+        "heartRate": 103
+      },
+      {
+        "timestamp": "2024-09-16T15:50:15.000Z",
+        "heartRate": 105
+      },
+      {
+        "timestamp": "2024-09-16T15:50:16.000Z",
+        "heartRate": 106
+      },
+      {
+        "timestamp": "2024-09-16T15:50:17.000Z",
+        "heartRate": 105
+      },
+      {
+        "timestamp": "2024-09-16T15:50:18.000Z",
+        "heartRate": 105
+      },
+      {
+        "timestamp": "2024-09-16T15:50:19.000Z",
+        "heartRate": 105
+      },
+      {
+        "timestamp": "2024-09-16T15:50:20.000Z",
+        "heartRate": 104
+      },
+      {
+        "timestamp": "2024-09-16T15:50:21.000Z",
+        "heartRate": 105
+      },
+      {
+        "timestamp": "2024-09-16T15:50:22.000Z",
+        "heartRate": 106
+      },
+      {
+        "timestamp": "2024-09-16T15:50:23.000Z",
+        "heartRate": 106
+      },
+      {
+        "timestamp": "2024-09-16T15:50:24.000Z",
+        "heartRate": 107
+      },
+      {
+        "timestamp": "2024-09-16T15:50:25.000Z",
+        "heartRate": 106
+      },
+      {
+        "timestamp": "2024-09-16T15:50:26.000Z",
+        "heartRate": 109
+      },
+      {
+        "timestamp": "2024-09-16T15:50:27.000Z",
+        "heartRate": 110
+      },
+      {
+        "timestamp": "2024-09-16T15:50:28.000Z",
+        "heartRate": 111
+      },
+      {
+        "timestamp": "2024-09-16T15:50:29.000Z",
+        "heartRate": 113
+      },
+      {
+        "timestamp": "2024-09-16T15:50:30.000Z",
+        "heartRate": 114
+      },
+      {
+        "timestamp": "2024-09-16T15:50:31.000Z",
+        "heartRate": 115
+      },
+      {
+        "timestamp": "2024-09-16T15:50:32.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T15:50:33.000Z",
+        "heartRate": 117
+      },
+      {
+        "timestamp": "2024-09-16T15:50:34.000Z",
+        "heartRate": 119
+      },
+      {
+        "timestamp": "2024-09-16T15:50:35.000Z",
+        "heartRate": 120
+      },
+      {
+        "timestamp": "2024-09-16T15:50:36.000Z",
+        "heartRate": 121
+      },
+      {
+        "timestamp": "2024-09-16T15:50:37.000Z",
+        "heartRate": 121
+      },
+      {
+        "timestamp": "2024-09-16T15:50:38.000Z",
+        "heartRate": 122
+      },
+      {
+        "timestamp": "2024-09-16T15:50:39.000Z",
+        "heartRate": 122
+      },
+      {
+        "timestamp": "2024-09-16T15:50:40.000Z",
+        "heartRate": 122
+      },
+      {
+        "timestamp": "2024-09-16T15:50:41.000Z",
+        "heartRate": 125
+      },
+      {
+        "timestamp": "2024-09-16T15:50:42.000Z",
+        "heartRate": 125
+      },
+      {
+        "timestamp": "2024-09-16T15:50:43.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T15:50:44.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T15:50:45.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T15:50:46.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T15:50:47.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T15:50:48.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T15:50:49.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T15:50:50.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T15:50:51.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T15:50:52.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:50:53.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:50:54.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:50:55.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:50:56.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:50:57.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:50:58.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:50:59.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:51:00.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:51:01.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:51:02.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:51:03.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T15:51:04.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:51:05.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T15:51:06.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T15:51:07.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T15:51:08.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:51:09.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:51:10.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:51:11.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:51:12.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:51:13.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:51:14.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:51:15.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T15:51:16.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T15:51:17.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T15:51:18.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T15:51:19.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T15:51:20.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T15:51:21.000Z",
+        "heartRate": 153
+      },
+      {
+        "timestamp": "2024-09-16T15:51:22.000Z",
+        "heartRate": 157
+      },
+      {
+        "timestamp": "2024-09-16T15:51:23.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T15:51:24.000Z",
+        "heartRate": 157
+      },
+      {
+        "timestamp": "2024-09-16T15:51:25.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T15:51:26.000Z",
+        "heartRate": 155
+      },
+      {
+        "timestamp": "2024-09-16T15:51:27.000Z",
+        "heartRate": 155
+      },
+      {
+        "timestamp": "2024-09-16T15:51:28.000Z",
+        "heartRate": 157
+      },
+      {
+        "timestamp": "2024-09-16T15:51:29.000Z",
+        "heartRate": 157
+      },
+      {
+        "timestamp": "2024-09-16T15:51:30.000Z",
+        "heartRate": 157
+      },
+      {
+        "timestamp": "2024-09-16T15:51:31.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T15:51:32.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T15:51:33.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T15:51:34.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T15:51:35.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T15:51:36.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T15:51:37.000Z",
+        "heartRate": 154
+      },
+      {
+        "timestamp": "2024-09-16T15:51:38.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T15:51:39.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T15:51:40.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T15:51:41.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T15:51:42.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T15:51:43.000Z",
+        "heartRate": 153
+      },
+      {
+        "timestamp": "2024-09-16T15:51:44.000Z",
+        "heartRate": 153
+      },
+      {
+        "timestamp": "2024-09-16T15:51:45.000Z",
+        "heartRate": 154
+      },
+      {
+        "timestamp": "2024-09-16T15:51:46.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T15:51:47.000Z",
+        "heartRate": 155
+      },
+      {
+        "timestamp": "2024-09-16T15:51:48.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T15:51:49.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T15:51:50.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T15:51:51.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T15:51:52.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T15:51:53.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T15:51:54.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T15:53:11.000Z",
+        "heartRate": 121
+      },
+      {
+        "timestamp": "2024-09-16T15:53:12.000Z",
+        "heartRate": 121
+      },
+      {
+        "timestamp": "2024-09-16T15:53:13.000Z",
+        "heartRate": 122
+      },
+      {
+        "timestamp": "2024-09-16T15:53:14.000Z",
+        "heartRate": 122
+      },
+      {
+        "timestamp": "2024-09-16T15:53:15.000Z",
+        "heartRate": 121
+      },
+      {
+        "timestamp": "2024-09-16T15:53:16.000Z",
+        "heartRate": 121
+      },
+      {
+        "timestamp": "2024-09-16T15:53:17.000Z",
+        "heartRate": 119
+      },
+      {
+        "timestamp": "2024-09-16T15:53:18.000Z",
+        "heartRate": 121
+      },
+      {
+        "timestamp": "2024-09-16T15:53:19.000Z",
+        "heartRate": 120
+      },
+      {
+        "timestamp": "2024-09-16T15:53:20.000Z",
+        "heartRate": 122
+      },
+      {
+        "timestamp": "2024-09-16T15:53:21.000Z",
+        "heartRate": 123
+      },
+      {
+        "timestamp": "2024-09-16T15:53:22.000Z",
+        "heartRate": 123
+      },
+      {
+        "timestamp": "2024-09-16T15:53:23.000Z",
+        "heartRate": 126
+      },
+      {
+        "timestamp": "2024-09-16T15:53:24.000Z",
+        "heartRate": 126
+      },
+      {
+        "timestamp": "2024-09-16T15:53:25.000Z",
+        "heartRate": 127
+      },
+      {
+        "timestamp": "2024-09-16T15:53:26.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T15:53:27.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T15:53:28.000Z",
+        "heartRate": 127
+      },
+      {
+        "timestamp": "2024-09-16T15:53:29.000Z",
+        "heartRate": 127
+      },
+      {
+        "timestamp": "2024-09-16T15:53:30.000Z",
+        "heartRate": 126
+      },
+      {
+        "timestamp": "2024-09-16T15:53:31.000Z",
+        "heartRate": 125
+      },
+      {
+        "timestamp": "2024-09-16T15:53:32.000Z",
+        "heartRate": 124
+      },
+      {
+        "timestamp": "2024-09-16T15:53:33.000Z",
+        "heartRate": 125
+      },
+      {
+        "timestamp": "2024-09-16T15:53:34.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T15:53:35.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T15:53:36.000Z",
+        "heartRate": 127
+      },
+      {
+        "timestamp": "2024-09-16T15:53:37.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T15:53:38.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T15:53:39.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T15:53:40.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T15:53:41.000Z",
+        "heartRate": 127
+      },
+      {
+        "timestamp": "2024-09-16T15:53:42.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T15:53:43.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T15:53:44.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:53:45.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T15:53:46.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:53:47.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:53:48.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:53:49.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:53:50.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T15:53:51.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T15:53:52.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T15:53:53.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T15:53:54.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T15:53:55.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T15:53:56.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T15:53:57.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T15:53:58.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T15:53:59.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T15:54:00.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T15:54:01.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T15:54:02.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T15:54:03.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:04.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:05.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:06.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:07.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:08.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:09.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:10.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:11.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:12.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:13.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T15:54:14.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:15.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:16.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:54:17.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:54:18.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:54:19.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:20.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:54:21.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:22.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:54:23.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:54:24.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:54:25.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:54:26.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:54:27.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:54:28.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:54:29.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:54:30.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:54:31.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:54:32.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:54:33.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:54:34.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:35.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:36.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:37.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:38.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:39.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:55:32.000Z",
+        "heartRate": 117
+      },
+      {
+        "timestamp": "2024-09-16T15:55:33.000Z",
+        "heartRate": 117
+      },
+      {
+        "timestamp": "2024-09-16T15:55:34.000Z",
+        "heartRate": 118
+      },
+      {
+        "timestamp": "2024-09-16T15:55:35.000Z",
+        "heartRate": 118
+      },
+      {
+        "timestamp": "2024-09-16T15:55:36.000Z",
+        "heartRate": 118
+      },
+      {
+        "timestamp": "2024-09-16T15:55:37.000Z",
+        "heartRate": 118
+      },
+      {
+        "timestamp": "2024-09-16T15:55:38.000Z",
+        "heartRate": 117
+      },
+      {
+        "timestamp": "2024-09-16T15:55:39.000Z",
+        "heartRate": 118
+      },
+      {
+        "timestamp": "2024-09-16T15:55:40.000Z",
+        "heartRate": 118
+      },
+      {
+        "timestamp": "2024-09-16T15:55:41.000Z",
+        "heartRate": 120
+      },
+      {
+        "timestamp": "2024-09-16T15:55:42.000Z",
+        "heartRate": 123
+      },
+      {
+        "timestamp": "2024-09-16T15:55:43.000Z",
+        "heartRate": 126
+      },
+      {
+        "timestamp": "2024-09-16T15:55:44.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T15:55:45.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T15:55:46.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T15:55:47.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T15:55:48.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T15:55:49.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T15:55:50.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T15:55:51.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:55:52.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T15:55:53.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T15:55:54.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:55:55.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T15:55:56.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T15:55:57.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T15:55:58.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T15:55:59.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:56:00.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T15:56:01.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T15:56:02.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T15:56:03.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:56:04.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:56:05.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:56:06.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:56:07.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:56:08.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:56:09.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:56:10.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:11.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:56:12.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:56:13.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:56:14.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:56:15.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:56:16.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:56:17.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:18.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:19.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:56:20.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:56:21.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:56:22.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:56:23.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:56:24.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:56:25.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:56:26.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:56:27.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:56:28.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:56:29.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:56:30.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:56:31.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:56:32.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:56:33.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:34.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:35.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:36.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:37.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:38.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:39.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:40.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:41.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:42.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:43.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:56:44.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:56:45.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:46.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:56:47.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:56:48.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:56:49.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:56:50.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:56:51.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:56:52.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:56:53.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:56:54.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:56:55.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:56:56.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:56:57.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:56:58.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:56:59.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:57:00.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:57:01.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T15:57:02.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:57:29.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T15:57:30.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T15:57:31.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T15:57:32.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T15:57:33.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T15:57:34.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T15:57:35.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T15:57:36.000Z",
+        "heartRate": 127
+      },
+      {
+        "timestamp": "2024-09-16T15:57:37.000Z",
+        "heartRate": 127
+      },
+      {
+        "timestamp": "2024-09-16T15:57:38.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T15:57:39.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T15:57:40.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T15:57:41.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T15:57:42.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T15:57:43.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T15:57:44.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T15:57:45.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T15:57:46.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T15:57:47.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T15:57:48.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:57:49.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:57:50.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T15:57:51.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T15:57:52.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:57:53.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:57:54.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:57:55.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:57:56.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:57:57.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T15:57:58.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T15:57:59.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T15:58:00.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:01.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:02.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:03.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:04.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:58:05.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:06.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:07.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:08.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:09.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:10.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:11.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:12.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:13.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:14.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:15.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:16.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:17.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:18.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:19.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:20.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:21.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:22.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:23.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:24.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:25.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:26.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:27.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:28.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:29.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:30.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:31.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:32.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:33.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:34.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:35.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:36.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:37.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:38.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:39.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:40.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:41.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:42.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:43.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:58:44.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:45.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:46.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:47.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:48.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:49.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:50.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T15:58:51.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:52.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T15:58:53.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:54.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:55.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:56.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T15:58:57.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:58:58.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T15:58:59.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:59:00.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:59:01.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:59:02.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T15:59:03.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T15:59:48.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T15:59:49.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:59:50.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:59:51.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:59:52.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:59:53.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:59:54.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:59:55.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T15:59:56.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T15:59:57.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T15:59:58.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T15:59:59.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:00:00.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:00:01.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:00:02.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:00:03.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:00:04.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:00:05.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:00:06.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:00:07.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:00:08.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:00:09.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:00:10.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:00:11.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T16:00:12.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T16:00:13.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T16:00:14.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:00:15.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:00:16.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:00:17.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:00:18.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:00:19.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:00:20.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:00:21.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:00:22.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:00:23.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:00:24.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:00:25.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:00:26.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:00:27.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:00:28.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:00:29.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:00:30.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:00:31.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:00:32.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:00:33.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:00:34.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:00:35.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:00:36.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:00:37.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:00:38.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:00:39.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:00:40.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:00:41.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:00:42.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:00:43.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:00:44.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:00:45.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:00:46.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:00:47.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:00:48.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:00:49.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:00:50.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:00:51.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:00:52.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:00:53.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:00:54.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:00:55.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:00:56.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:00:57.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:00:58.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:00:59.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:01:00.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:01:01.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:01:55.000Z",
+        "heartRate": 122
+      },
+      {
+        "timestamp": "2024-09-16T16:01:56.000Z",
+        "heartRate": 123
+      },
+      {
+        "timestamp": "2024-09-16T16:01:57.000Z",
+        "heartRate": 124
+      },
+      {
+        "timestamp": "2024-09-16T16:01:58.000Z",
+        "heartRate": 124
+      },
+      {
+        "timestamp": "2024-09-16T16:01:59.000Z",
+        "heartRate": 125
+      },
+      {
+        "timestamp": "2024-09-16T16:02:00.000Z",
+        "heartRate": 125
+      },
+      {
+        "timestamp": "2024-09-16T16:02:01.000Z",
+        "heartRate": 126
+      },
+      {
+        "timestamp": "2024-09-16T16:02:02.000Z",
+        "heartRate": 125
+      },
+      {
+        "timestamp": "2024-09-16T16:02:03.000Z",
+        "heartRate": 125
+      },
+      {
+        "timestamp": "2024-09-16T16:02:04.000Z",
+        "heartRate": 127
+      },
+      {
+        "timestamp": "2024-09-16T16:02:05.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T16:02:06.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:02:07.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:02:08.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:02:09.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:02:10.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:02:11.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:02:12.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:02:13.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:02:14.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:02:15.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:02:16.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:02:17.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:02:18.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:02:19.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:02:20.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:02:21.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:02:22.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:02:23.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:02:24.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:02:25.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:02:26.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:02:27.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:02:28.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:02:29.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:02:30.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:02:31.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:02:32.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:02:33.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:02:34.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:02:35.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:02:36.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:02:37.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:02:38.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:02:39.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:02:40.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:02:41.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:02:42.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:02:43.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:02:44.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:02:45.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:02:46.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:02:47.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:02:48.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:02:49.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:02:50.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:02:51.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:02:52.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:02:53.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:02:54.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:02:55.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:02:56.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:02:57.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:02:58.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:02:59.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:03:00.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:03:01.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:03:02.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:03.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:03:04.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:03:05.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:06.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:07.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:08.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:09.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:10.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:11.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:12.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:13.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:03:14.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:03:15.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:16.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:17.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:03:18.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:03:19.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:03:20.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:21.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:22.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:23.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:24.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:25.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:03:26.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:03:27.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:03:28.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:03:29.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T16:03:30.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:31.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T16:03:32.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:03:33.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:34.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:35.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:36.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:03:37.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:03:38.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:39.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:40.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:41.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:42.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:03:43.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:03:44.000Z",
+        "heartRate": 154
+      },
+      {
+        "timestamp": "2024-09-16T16:03:45.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T16:03:46.000Z",
+        "heartRate": 156
+      },
+      {
+        "timestamp": "2024-09-16T16:03:47.000Z",
+        "heartRate": 157
+      },
+      {
+        "timestamp": "2024-09-16T16:03:48.000Z",
+        "heartRate": 155
+      },
+      {
+        "timestamp": "2024-09-16T16:03:49.000Z",
+        "heartRate": 154
+      },
+      {
+        "timestamp": "2024-09-16T16:03:50.000Z",
+        "heartRate": 155
+      },
+      {
+        "timestamp": "2024-09-16T16:03:51.000Z",
+        "heartRate": 155
+      },
+      {
+        "timestamp": "2024-09-16T16:03:52.000Z",
+        "heartRate": 158
+      },
+      {
+        "timestamp": "2024-09-16T16:03:53.000Z",
+        "heartRate": 157
+      },
+      {
+        "timestamp": "2024-09-16T16:03:54.000Z",
+        "heartRate": 157
+      },
+      {
+        "timestamp": "2024-09-16T16:03:55.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:03:56.000Z",
+        "heartRate": 157
+      },
+      {
+        "timestamp": "2024-09-16T16:03:57.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:03:58.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:03:59.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:00.000Z",
+        "heartRate": 162
+      },
+      {
+        "timestamp": "2024-09-16T16:04:01.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:02.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:03.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:04.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:05.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:06.000Z",
+        "heartRate": 158
+      },
+      {
+        "timestamp": "2024-09-16T16:04:07.000Z",
+        "heartRate": 158
+      },
+      {
+        "timestamp": "2024-09-16T16:04:08.000Z",
+        "heartRate": 158
+      },
+      {
+        "timestamp": "2024-09-16T16:04:09.000Z",
+        "heartRate": 158
+      },
+      {
+        "timestamp": "2024-09-16T16:04:10.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:11.000Z",
+        "heartRate": 158
+      },
+      {
+        "timestamp": "2024-09-16T16:04:12.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:13.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:14.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:15.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:16.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:17.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:18.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:19.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:20.000Z",
+        "heartRate": 158
+      },
+      {
+        "timestamp": "2024-09-16T16:04:21.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:22.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:23.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:24.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:25.000Z",
+        "heartRate": 161
+      },
+      {
+        "timestamp": "2024-09-16T16:04:26.000Z",
+        "heartRate": 161
+      },
+      {
+        "timestamp": "2024-09-16T16:04:27.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:28.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:29.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:30.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:31.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:32.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:33.000Z",
+        "heartRate": 158
+      },
+      {
+        "timestamp": "2024-09-16T16:04:34.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:35.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:36.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:37.000Z",
+        "heartRate": 159
+      },
+      {
+        "timestamp": "2024-09-16T16:04:38.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:39.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:40.000Z",
+        "heartRate": 160
+      },
+      {
+        "timestamp": "2024-09-16T16:04:41.000Z",
+        "heartRate": 161
+      },
+      {
+        "timestamp": "2024-09-16T16:04:42.000Z",
+        "heartRate": 161
+      },
+      {
+        "timestamp": "2024-09-16T16:04:43.000Z",
+        "heartRate": 161
+      },
+      {
+        "timestamp": "2024-09-16T16:04:44.000Z",
+        "heartRate": 162
+      },
+      {
+        "timestamp": "2024-09-16T16:04:45.000Z",
+        "heartRate": 162
+      },
+      {
+        "timestamp": "2024-09-16T16:04:46.000Z",
+        "heartRate": 163
+      },
+      {
+        "timestamp": "2024-09-16T16:04:47.000Z",
+        "heartRate": 163
+      },
+      {
+        "timestamp": "2024-09-16T16:04:48.000Z",
+        "heartRate": 163
+      },
+      {
+        "timestamp": "2024-09-16T16:04:49.000Z",
+        "heartRate": 164
+      },
+      {
+        "timestamp": "2024-09-16T16:04:50.000Z",
+        "heartRate": 164
+      },
+      {
+        "timestamp": "2024-09-16T16:04:51.000Z",
+        "heartRate": 164
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "heartRate": 164
+      },
+      {
+        "timestamp": "2024-09-16T16:05:12.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:05:13.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:05:14.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:05:15.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:05:16.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:05:17.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:05:18.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:05:19.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:05:20.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:05:21.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:05:22.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:05:23.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:05:24.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:05:25.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:05:26.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:05:27.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:05:28.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:05:29.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:05:30.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:05:31.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:05:32.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:05:33.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:05:34.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:05:35.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:05:36.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:05:37.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:05:38.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:05:39.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:05:40.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:05:41.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:05:42.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:05:43.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:05:44.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:05:45.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:05:46.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:05:47.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:05:48.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:05:49.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:05:50.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:05:51.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:05:52.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:05:53.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:05:54.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:05:55.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:05:56.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:05:57.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:05:58.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:05:59.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:06:00.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:06:01.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:06:02.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:06:03.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:06:04.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:06:05.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:06:06.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:06:07.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:06:08.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:06:09.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:06:10.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:06:11.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:06:12.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:06:13.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:06:14.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:06:15.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:06:16.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:06:17.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:06:18.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:06:19.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:06:20.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:06:21.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:06:22.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:06:23.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:06:24.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:06:25.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:06:26.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:06:27.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:06:28.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:06:29.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:06:30.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:06:31.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:06:32.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:06:33.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:06:34.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:07:53.000Z",
+        "heartRate": 111
+      },
+      {
+        "timestamp": "2024-09-16T16:07:54.000Z",
+        "heartRate": 111
+      },
+      {
+        "timestamp": "2024-09-16T16:07:55.000Z",
+        "heartRate": 111
+      },
+      {
+        "timestamp": "2024-09-16T16:07:56.000Z",
+        "heartRate": 113
+      },
+      {
+        "timestamp": "2024-09-16T16:07:57.000Z",
+        "heartRate": 113
+      },
+      {
+        "timestamp": "2024-09-16T16:07:58.000Z",
+        "heartRate": 114
+      },
+      {
+        "timestamp": "2024-09-16T16:07:59.000Z",
+        "heartRate": 115
+      },
+      {
+        "timestamp": "2024-09-16T16:08:00.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:08:01.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:08:02.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:08:03.000Z",
+        "heartRate": 117
+      },
+      {
+        "timestamp": "2024-09-16T16:08:04.000Z",
+        "heartRate": 117
+      },
+      {
+        "timestamp": "2024-09-16T16:08:05.000Z",
+        "heartRate": 118
+      },
+      {
+        "timestamp": "2024-09-16T16:08:06.000Z",
+        "heartRate": 118
+      },
+      {
+        "timestamp": "2024-09-16T16:08:07.000Z",
+        "heartRate": 119
+      },
+      {
+        "timestamp": "2024-09-16T16:08:08.000Z",
+        "heartRate": 121
+      },
+      {
+        "timestamp": "2024-09-16T16:08:09.000Z",
+        "heartRate": 124
+      },
+      {
+        "timestamp": "2024-09-16T16:08:10.000Z",
+        "heartRate": 126
+      },
+      {
+        "timestamp": "2024-09-16T16:08:11.000Z",
+        "heartRate": 125
+      },
+      {
+        "timestamp": "2024-09-16T16:08:12.000Z",
+        "heartRate": 125
+      },
+      {
+        "timestamp": "2024-09-16T16:08:13.000Z",
+        "heartRate": 127
+      },
+      {
+        "timestamp": "2024-09-16T16:08:14.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T16:08:15.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:08:16.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:08:17.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:08:18.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:08:19.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:08:20.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:08:21.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:08:22.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:08:23.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:08:24.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:08:25.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:08:26.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:08:27.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:08:28.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:08:29.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:08:30.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:08:31.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:08:32.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:08:33.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:08:34.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:08:35.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:08:36.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:08:37.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:08:38.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:08:39.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:08:40.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:08:41.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:08:42.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:08:43.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:08:44.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:08:45.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:08:46.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:08:47.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:08:48.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:08:49.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:08:50.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:08:51.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:08:52.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:08:53.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:08:54.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:08:55.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:08:56.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:08:57.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:08:58.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:08:59.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:09:00.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:09:01.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:09:02.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:09:03.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:09:04.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:09:05.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:09:06.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:09:07.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:09:08.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:09:09.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:09:10.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:09:11.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:09:12.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:13.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:14.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:15.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:16.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T16:09:17.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T16:09:18.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T16:09:19.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T16:09:20.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T16:09:21.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T16:09:22.000Z",
+        "heartRate": 129
+      },
+      {
+        "timestamp": "2024-09-16T16:09:23.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:24.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:25.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:26.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:27.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:28.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:29.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:30.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:31.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:32.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:33.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:34.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:35.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:36.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:37.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:38.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:39.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:40.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T16:09:41.000Z",
+        "heartRate": 128
+      },
+      {
+        "timestamp": "2024-09-16T16:09:42.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:43.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:44.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:09:45.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:46.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:09:47.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:09:48.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:09:49.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:50.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:09:51.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:09:52.000Z",
+        "heartRate": 131
+      },
+      {
+        "timestamp": "2024-09-16T16:09:53.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:09:54.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:09:55.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:09:56.000Z",
+        "heartRate": 132
+      },
+      {
+        "timestamp": "2024-09-16T16:09:57.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:09:58.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:09:59.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:10:00.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:10:01.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:10:02.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:10:03.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:10:04.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:10:05.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:10:06.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:10:07.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:10:08.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:10:09.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:10:36.000Z",
+        "heartRate": 115
+      },
+      {
+        "timestamp": "2024-09-16T16:10:37.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:10:38.000Z",
+        "heartRate": 118
+      },
+      {
+        "timestamp": "2024-09-16T16:10:39.000Z",
+        "heartRate": 117
+      },
+      {
+        "timestamp": "2024-09-16T16:10:40.000Z",
+        "heartRate": 117
+      },
+      {
+        "timestamp": "2024-09-16T16:10:41.000Z",
+        "heartRate": 118
+      },
+      {
+        "timestamp": "2024-09-16T16:10:42.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:10:43.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:10:44.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:10:45.000Z",
+        "heartRate": 117
+      },
+      {
+        "timestamp": "2024-09-16T16:10:46.000Z",
+        "heartRate": 122
+      },
+      {
+        "timestamp": "2024-09-16T16:10:47.000Z",
+        "heartRate": 121
+      },
+      {
+        "timestamp": "2024-09-16T16:10:48.000Z",
+        "heartRate": 119
+      },
+      {
+        "timestamp": "2024-09-16T16:10:49.000Z",
+        "heartRate": 120
+      },
+      {
+        "timestamp": "2024-09-16T16:10:50.000Z",
+        "heartRate": 122
+      },
+      {
+        "timestamp": "2024-09-16T16:10:51.000Z",
+        "heartRate": 123
+      },
+      {
+        "timestamp": "2024-09-16T16:10:52.000Z",
+        "heartRate": 126
+      },
+      {
+        "timestamp": "2024-09-16T16:10:53.000Z",
+        "heartRate": 126
+      },
+      {
+        "timestamp": "2024-09-16T16:10:54.000Z",
+        "heartRate": 130
+      },
+      {
+        "timestamp": "2024-09-16T16:10:55.000Z",
+        "heartRate": 133
+      },
+      {
+        "timestamp": "2024-09-16T16:10:56.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:10:57.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:10:58.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:10:59.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:11:00.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:11:01.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:11:02.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:11:03.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:11:04.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:11:05.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:11:06.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:11:07.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:11:08.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:11:09.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:11:10.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:11:11.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:11:12.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:11:13.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:11:14.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:11:15.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:11:16.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:11:17.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:11:18.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:11:19.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:11:20.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:11:21.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:11:22.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:11:23.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:11:24.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:11:25.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:11:26.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:11:27.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:11:28.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:11:29.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:11:30.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:11:31.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:11:32.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:11:33.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:11:34.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:11:35.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:11:36.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:11:37.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:11:38.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:11:39.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:11:40.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:11:41.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:11:42.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:11:43.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:11:44.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:11:45.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:11:46.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:11:47.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:11:48.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:11:49.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T16:11:50.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:11:51.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:11:52.000Z",
+        "heartRate": 153
+      },
+      {
+        "timestamp": "2024-09-16T16:11:53.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T16:11:54.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T16:11:55.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T16:11:56.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T16:11:57.000Z",
+        "heartRate": 152
+      },
+      {
+        "timestamp": "2024-09-16T16:11:58.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:11:59.000Z",
+        "heartRate": 151
+      },
+      {
+        "timestamp": "2024-09-16T16:12:00.000Z",
+        "heartRate": 150
+      },
+      {
+        "timestamp": "2024-09-16T16:12:01.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:12:02.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:12:03.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:12:04.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:12:05.000Z",
+        "heartRate": 149
+      },
+      {
+        "timestamp": "2024-09-16T16:12:06.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:12:07.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:12:08.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:12:09.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:12:10.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:12:11.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:12:12.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:12:13.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:12:14.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:12:15.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:16.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:17.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:18.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:12:19.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:12:20.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:12:21.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:22.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:23.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:24.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:25.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:12:26.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:27.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:12:28.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:29.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:30.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:12:31.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:12:32.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:12:33.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:12:34.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:35.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:36.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:12:37.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:12:38.000Z",
+        "heartRate": 147
+      },
+      {
+        "timestamp": "2024-09-16T16:12:39.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:12:40.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:12:41.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:12:42.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:43.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:44.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:45.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:46.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:47.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:12:48.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:49.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:50.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:51.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:12:52.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:12:53.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:12:54.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:55.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:56.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:12:57.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:12:58.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:12:59.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:13:00.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:13:01.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:13:02.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:13:03.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:13:04.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:13:05.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:13:06.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:13:07.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:13:08.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:13:09.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:13:10.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:13:11.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:13:12.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:13:13.000Z",
+        "heartRate": 146
+      },
+      {
+        "timestamp": "2024-09-16T16:13:14.000Z",
+        "heartRate": 148
+      },
+      {
+        "timestamp": "2024-09-16T16:13:15.000Z",
+        "heartRate": 145
+      },
+      {
+        "timestamp": "2024-09-16T16:13:16.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:13:17.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:13:18.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:13:19.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:13:20.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:13:21.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:13:22.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:13:23.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:13:24.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:13:25.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:13:26.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:13:27.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:13:28.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:13:29.000Z",
+        "heartRate": 141
+      },
+      {
+        "timestamp": "2024-09-16T16:13:30.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:13:31.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:13:32.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:13:33.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:13:34.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:13:35.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:13:36.000Z",
+        "heartRate": 140
+      },
+      {
+        "timestamp": "2024-09-16T16:13:37.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:13:38.000Z",
+        "heartRate": 138
+      },
+      {
+        "timestamp": "2024-09-16T16:13:39.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:13:40.000Z",
+        "heartRate": 134
+      },
+      {
+        "timestamp": "2024-09-16T16:13:41.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:13:42.000Z",
+        "heartRate": 135
+      },
+      {
+        "timestamp": "2024-09-16T16:13:43.000Z",
+        "heartRate": 136
+      },
+      {
+        "timestamp": "2024-09-16T16:13:44.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:13:45.000Z",
+        "heartRate": 137
+      },
+      {
+        "timestamp": "2024-09-16T16:13:46.000Z",
+        "heartRate": 139
+      },
+      {
+        "timestamp": "2024-09-16T16:13:47.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:13:48.000Z",
+        "heartRate": 142
+      },
+      {
+        "timestamp": "2024-09-16T16:13:49.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:13:50.000Z",
+        "heartRate": 144
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "heartRate": 143
+      },
+      {
+        "timestamp": "2024-09-16T16:21:47.000Z",
+        "heartRate": 113
+      },
+      {
+        "timestamp": "2024-09-16T16:21:48.000Z",
+        "heartRate": 114
+      },
+      {
+        "timestamp": "2024-09-16T16:21:49.000Z",
+        "heartRate": 114
+      },
+      {
+        "timestamp": "2024-09-16T16:21:50.000Z",
+        "heartRate": 115
+      },
+      {
+        "timestamp": "2024-09-16T16:21:51.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:21:52.000Z",
+        "heartRate": 115
+      },
+      {
+        "timestamp": "2024-09-16T16:21:53.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:21:54.000Z",
+        "heartRate": 117
+      },
+      {
+        "timestamp": "2024-09-16T16:21:55.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:21:56.000Z",
+        "heartRate": 116
+      },
+      {
+        "timestamp": "2024-09-16T16:21:57.000Z",
+        "heartRate": 115
+      },
+      {
+        "timestamp": "2024-09-16T16:21:58.000Z",
+        "heartRate": 115
+      },
+      {
+        "timestamp": "2024-09-16T16:21:59.000Z",
+        "heartRate": 115
+      },
+      {
+        "timestamp": "2024-09-16T16:22:00.000Z",
+        "heartRate": 113
+      },
+      {
+        "timestamp": "2024-09-16T16:22:01.000Z",
+        "heartRate": 112
+      },
+      {
+        "timestamp": "2024-09-16T16:22:02.000Z",
+        "heartRate": 113
+      },
+      {
+        "timestamp": "2024-09-16T16:22:03.000Z",
+        "heartRate": 114
+      },
+      {
+        "timestamp": "2024-09-16T16:22:04.000Z",
+        "heartRate": 113
+      },
+      {
+        "timestamp": "2024-09-16T16:22:05.000Z",
+        "heartRate": 112
+      },
+      {
+        "timestamp": "2024-09-16T16:22:06.000Z",
+        "heartRate": 114
+      },
+      {
+        "timestamp": "2024-09-16T16:22:07.000Z",
+        "heartRate": 114
+      },
+      {
+        "timestamp": "2024-09-16T16:22:08.000Z",
+        "heartRate": 115
+      },
+      {
+        "timestamp": "2024-09-16T16:22:09.000Z",
+        "heartRate": 115
+      },
+      {
+        "timestamp": "2024-09-16T16:22:10.000Z",
+        "heartRate": 114
+      },
+      {
+        "timestamp": "2024-09-16T16:22:11.000Z",
+        "heartRate": 115
+      }
+    ],
+    "lengthMesgs": [
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "startTime": "2024-09-16T15:50:10.000Z",
+        "totalElapsedTime": 24.375,
+        "totalTimerTime": 24.375,
+        "messageIndex": 0,
+        "totalStrokes": 13,
+        "avgSpeed": 1.026,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 32,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "startTime": "2024-09-16T15:50:34.000Z",
+        "totalElapsedTime": 23.812,
+        "totalTimerTime": 23.812,
+        "messageIndex": 1,
+        "totalStrokes": 13,
+        "avgSpeed": 1.05,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 33,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "startTime": "2024-09-16T15:50:58.000Z",
+        "totalElapsedTime": 29.375,
+        "totalTimerTime": 29.375,
+        "messageIndex": 2,
+        "totalStrokes": 15,
+        "avgSpeed": 0.851,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 31,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "startTime": "2024-09-16T15:51:28.000Z",
+        "totalElapsedTime": 27.126,
+        "totalTimerTime": 27.126,
+        "messageIndex": 3,
+        "totalStrokes": 14,
+        "avgSpeed": 0.922,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 31,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "startTime": "2024-09-16T15:53:11.000Z",
+        "totalElapsedTime": 15.875,
+        "totalTimerTime": 15.875,
+        "messageIndex": 4,
+        "totalStrokes": 8,
+        "avgSpeed": 1.575,
+        "totalCalories": 10,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "butterfly",
+        "avgSwimmingCadence": 30,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "startTime": "2024-09-16T15:53:27.000Z",
+        "totalElapsedTime": 31.125,
+        "totalTimerTime": 31.125,
+        "messageIndex": 5,
+        "totalStrokes": 17,
+        "avgSpeed": 0.803,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 33,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "startTime": "2024-09-16T15:53:58.000Z",
+        "totalElapsedTime": 19.375,
+        "totalTimerTime": 19.375,
+        "messageIndex": 6,
+        "totalStrokes": 12,
+        "avgSpeed": 1.29,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 37,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "startTime": "2024-09-16T15:54:17.000Z",
+        "totalElapsedTime": 22.597,
+        "totalTimerTime": 22.597,
+        "messageIndex": 7,
+        "totalStrokes": 12,
+        "avgSpeed": 1.106,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 32,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "startTime": "2024-09-16T15:55:32.000Z",
+        "totalElapsedTime": 21.5,
+        "totalTimerTime": 21.5,
+        "messageIndex": 8,
+        "totalStrokes": 10,
+        "avgSpeed": 1.163,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 28,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "startTime": "2024-09-16T15:55:54.000Z",
+        "totalElapsedTime": 25.375,
+        "totalTimerTime": 25.375,
+        "messageIndex": 9,
+        "totalStrokes": 13,
+        "avgSpeed": 0.985,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 31,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "startTime": "2024-09-16T15:56:19.000Z",
+        "totalElapsedTime": 22.5,
+        "totalTimerTime": 22.5,
+        "messageIndex": 10,
+        "totalStrokes": 12,
+        "avgSpeed": 1.111,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 32,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "startTime": "2024-09-16T15:56:41.000Z",
+        "totalElapsedTime": 21.64,
+        "totalTimerTime": 21.64,
+        "messageIndex": 11,
+        "totalStrokes": 12,
+        "avgSpeed": 1.155,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 33,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "startTime": "2024-09-16T15:57:29.000Z",
+        "totalElapsedTime": 24.125,
+        "totalTimerTime": 24.125,
+        "messageIndex": 12,
+        "totalStrokes": 10,
+        "avgSpeed": 1.036,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 25,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "startTime": "2024-09-16T15:57:53.000Z",
+        "totalElapsedTime": 23.937,
+        "totalTimerTime": 23.937,
+        "messageIndex": 13,
+        "totalStrokes": 12,
+        "avgSpeed": 1.044,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 30,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "startTime": "2024-09-16T15:58:17.000Z",
+        "totalElapsedTime": 23.75,
+        "totalTimerTime": 23.75,
+        "messageIndex": 14,
+        "totalStrokes": 13,
+        "avgSpeed": 1.053,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 33,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "startTime": "2024-09-16T15:58:41.000Z",
+        "totalElapsedTime": 22.842,
+        "totalTimerTime": 22.842,
+        "messageIndex": 15,
+        "totalStrokes": 12,
+        "avgSpeed": 1.094,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 32,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "startTime": "2024-09-16T15:59:47.000Z",
+        "totalElapsedTime": 25.562,
+        "totalTimerTime": 25.562,
+        "messageIndex": 16,
+        "totalStrokes": 12,
+        "avgSpeed": 0.978,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 28,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "startTime": "2024-09-16T16:00:13.000Z",
+        "totalElapsedTime": 23.5,
+        "totalTimerTime": 23.5,
+        "messageIndex": 17,
+        "totalStrokes": 11,
+        "avgSpeed": 1.064,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 28,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "startTime": "2024-09-16T16:00:36.000Z",
+        "totalElapsedTime": 24.671,
+        "totalTimerTime": 24.671,
+        "messageIndex": 18,
+        "totalStrokes": 13,
+        "avgSpeed": 1.013,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 32,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "startTime": "2024-09-16T16:01:54.000Z",
+        "totalElapsedTime": 24.437,
+        "totalTimerTime": 24.437,
+        "messageIndex": 19,
+        "totalStrokes": 11,
+        "avgSpeed": 1.023,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 27,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "startTime": "2024-09-16T16:02:18.000Z",
+        "totalElapsedTime": 24.5,
+        "totalTimerTime": 24.5,
+        "messageIndex": 20,
+        "totalStrokes": 13,
+        "avgSpeed": 1.02,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 32,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "startTime": "2024-09-16T16:02:43.000Z",
+        "totalElapsedTime": 26.562,
+        "totalTimerTime": 26.562,
+        "messageIndex": 21,
+        "totalStrokes": 13,
+        "avgSpeed": 0.941,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 29,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "startTime": "2024-09-16T16:03:09.000Z",
+        "totalElapsedTime": 25.625,
+        "totalTimerTime": 25.625,
+        "messageIndex": 22,
+        "totalStrokes": 14,
+        "avgSpeed": 0.976,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 33,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "startTime": "2024-09-16T16:03:35.000Z",
+        "totalElapsedTime": 23.75,
+        "totalTimerTime": 23.75,
+        "messageIndex": 23,
+        "totalStrokes": 13,
+        "avgSpeed": 1.053,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 33,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "startTime": "2024-09-16T16:03:59.000Z",
+        "totalElapsedTime": 26.625,
+        "totalTimerTime": 26.625,
+        "messageIndex": 24,
+        "totalStrokes": 15,
+        "avgSpeed": 0.939,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 34,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "startTime": "2024-09-16T16:04:25.000Z",
+        "totalElapsedTime": 25.384,
+        "totalTimerTime": 25.384,
+        "messageIndex": 25,
+        "totalStrokes": 13,
+        "avgSpeed": 0.985,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 31,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "startTime": "2024-09-16T16:05:12.000Z",
+        "totalElapsedTime": 15.375,
+        "totalTimerTime": 15.375,
+        "messageIndex": 26,
+        "totalStrokes": 6,
+        "avgSpeed": 1.626,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 23,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "startTime": "2024-09-16T16:05:27.000Z",
+        "totalElapsedTime": 12.375,
+        "totalTimerTime": 12.375,
+        "messageIndex": 27,
+        "totalStrokes": 7,
+        "avgSpeed": 2.02,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 34,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "startTime": "2024-09-16T16:05:40.000Z",
+        "totalElapsedTime": 25.187,
+        "totalTimerTime": 25.187,
+        "messageIndex": 28,
+        "totalStrokes": 14,
+        "avgSpeed": 0.993,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 33,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "startTime": "2024-09-16T16:06:05.000Z",
+        "totalElapsedTime": 24.739,
+        "totalTimerTime": 24.739,
+        "messageIndex": 29,
+        "totalStrokes": 14,
+        "avgSpeed": 1.011,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 34,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "startTime": "2024-09-16T16:06:29.000Z",
+        "totalElapsedTime": 5.284,
+        "totalTimerTime": 5.284,
+        "messageIndex": 30,
+        "event": "length",
+        "eventType": "stop",
+        "lengthType": "idle"
+      },
+      {
+        "timestamp": "2024-09-16T16:08:04.000Z",
+        "startTime": "2024-09-16T16:07:52.000Z",
+        "totalElapsedTime": 10.661,
+        "totalTimerTime": 10.661,
+        "messageIndex": 31,
+        "event": "length",
+        "eventType": "stop",
+        "lengthType": "idle"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "startTime": "2024-09-16T16:08:03.000Z",
+        "totalElapsedTime": 18.25,
+        "totalTimerTime": 18.25,
+        "messageIndex": 32,
+        "totalStrokes": 14,
+        "avgSpeed": 1.37,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 46,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "startTime": "2024-09-16T16:08:21.000Z",
+        "totalElapsedTime": 25.625,
+        "totalTimerTime": 25.625,
+        "messageIndex": 33,
+        "totalStrokes": 14,
+        "avgSpeed": 0.976,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 33,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "startTime": "2024-09-16T16:08:47.000Z",
+        "totalElapsedTime": 25.312,
+        "totalTimerTime": 25.312,
+        "messageIndex": 34,
+        "totalStrokes": 13,
+        "avgSpeed": 0.988,
+        "totalCalories": 7,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "backstroke",
+        "avgSwimmingCadence": 31,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "startTime": "2024-09-16T16:09:12.000Z",
+        "totalElapsedTime": 31.75,
+        "totalTimerTime": 31.75,
+        "messageIndex": 35,
+        "totalStrokes": 16,
+        "avgSpeed": 0.787,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 30,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "startTime": "2024-09-16T16:09:44.000Z",
+        "totalElapsedTime": 25.251,
+        "totalTimerTime": 25.251,
+        "messageIndex": 36,
+        "totalStrokes": 13,
+        "avgSpeed": 0.99,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 31,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "startTime": "2024-09-16T16:10:35.000Z",
+        "totalElapsedTime": 32.062,
+        "totalTimerTime": 32.062,
+        "messageIndex": 37,
+        "totalStrokes": 16,
+        "avgSpeed": 0.78,
+        "totalCalories": 9,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "breaststroke",
+        "avgSwimmingCadence": 30,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "startTime": "2024-09-16T16:11:07.000Z",
+        "totalElapsedTime": 31.5,
+        "totalTimerTime": 31.5,
+        "messageIndex": 38,
+        "totalStrokes": 17,
+        "avgSpeed": 0.794,
+        "totalCalories": 9,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "breaststroke",
+        "avgSwimmingCadence": 32,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "startTime": "2024-09-16T16:11:39.000Z",
+        "totalElapsedTime": 33.187,
+        "totalTimerTime": 33.187,
+        "messageIndex": 39,
+        "totalStrokes": 18,
+        "avgSpeed": 0.753,
+        "totalCalories": 8,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "breaststroke",
+        "avgSwimmingCadence": 33,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "startTime": "2024-09-16T16:12:12.000Z",
+        "totalElapsedTime": 33.25,
+        "totalTimerTime": 33.25,
+        "messageIndex": 40,
+        "totalStrokes": 19,
+        "avgSpeed": 0.752,
+        "totalCalories": 8,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "breaststroke",
+        "avgSwimmingCadence": 34,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "startTime": "2024-09-16T16:12:45.000Z",
+        "totalElapsedTime": 33.812,
+        "totalTimerTime": 33.812,
+        "messageIndex": 41,
+        "totalStrokes": 18,
+        "avgSpeed": 0.739,
+        "totalCalories": 6,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "freestyle",
+        "avgSwimmingCadence": 32,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "startTime": "2024-09-16T16:13:19.000Z",
+        "totalElapsedTime": 26.208,
+        "totalTimerTime": 26.208,
+        "messageIndex": 42,
+        "totalStrokes": 18,
+        "avgSpeed": 0.954,
+        "totalCalories": 9,
+        "event": "length",
+        "eventType": "stop",
+        "swimStroke": "breaststroke",
+        "avgSwimmingCadence": 41,
+        "lengthType": "active"
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "startTime": "2024-09-16T16:13:45.000Z",
+        "totalElapsedTime": 5.298,
+        "totalTimerTime": 5.298,
+        "messageIndex": 43,
+        "event": "length",
+        "eventType": "stop",
+        "lengthType": "idle"
+      },
+      {
+        "timestamp": "2024-09-16T16:22:11.000Z",
+        "startTime": "2024-09-16T16:21:47.000Z",
+        "totalElapsedTime": 24.174,
+        "totalTimerTime": 24.174,
+        "messageIndex": 44,
+        "event": "length",
+        "eventType": "stop",
+        "lengthType": "idle"
+      }
+    ],
+    "lapMesgs": [
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "startTime": "2024-09-16T15:50:10.000Z",
+        "totalElapsedTime": 104.688,
+        "totalTimerTime": 104.688,
+        "totalDistance": 100,
+        "totalCycles": 55,
+        "enhancedAvgSpeed": 0.955,
+        "enhancedMaxSpeed": 1.05,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 0,
+        "totalCalories": 27,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 4,
+        "firstLengthIndex": 0,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 4,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 136,
+        "maxHeartRate": 157,
+        "avgCadence": 32,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "swimStroke": "mixed",
+        "subSport": "lapSwimming",
+        "totalStrokes": 55
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "startTime": "2024-09-16T15:53:11.000Z",
+        "totalElapsedTime": 88.972,
+        "totalTimerTime": 88.972,
+        "totalDistance": 100,
+        "totalCycles": 49,
+        "enhancedAvgSpeed": 1.124,
+        "enhancedMaxSpeed": 1.575,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 1,
+        "totalCalories": 28,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 4,
+        "firstLengthIndex": 4,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 4,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 138,
+        "maxHeartRate": 150,
+        "avgCadence": 33,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "swimStroke": "mixed",
+        "subSport": "lapSwimming",
+        "totalStrokes": 49
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "startTime": "2024-09-16T15:55:32.000Z",
+        "totalElapsedTime": 91.015,
+        "totalTimerTime": 91.015,
+        "totalDistance": 100,
+        "totalCycles": 47,
+        "enhancedAvgSpeed": 1.099,
+        "enhancedMaxSpeed": 1.163,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 2,
+        "totalCalories": 24,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 4,
+        "firstLengthIndex": 8,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 4,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 138,
+        "maxHeartRate": 147,
+        "avgCadence": 31,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "swimStroke": "mixed",
+        "subSport": "lapSwimming",
+        "totalStrokes": 47
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "startTime": "2024-09-16T15:57:29.000Z",
+        "totalElapsedTime": 94.654,
+        "totalTimerTime": 94.654,
+        "totalDistance": 100,
+        "totalCycles": 47,
+        "enhancedAvgSpeed": 1.056,
+        "enhancedMaxSpeed": 1.094,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 3,
+        "totalCalories": 25,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 4,
+        "firstLengthIndex": 12,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 4,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 139,
+        "maxHeartRate": 145,
+        "avgCadence": 30,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "swimStroke": "backstroke",
+        "subSport": "lapSwimming",
+        "totalStrokes": 47
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "startTime": "2024-09-16T15:59:47.000Z",
+        "totalElapsedTime": 73.733,
+        "totalTimerTime": 73.733,
+        "totalDistance": 75,
+        "totalCycles": 36,
+        "enhancedAvgSpeed": 1.017,
+        "enhancedMaxSpeed": 1.064,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 4,
+        "totalCalories": 20,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 3,
+        "firstLengthIndex": 16,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 3,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 139,
+        "maxHeartRate": 150,
+        "avgCadence": 29,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "swimStroke": "backstroke",
+        "subSport": "lapSwimming",
+        "totalStrokes": 36
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "startTime": "2024-09-16T16:01:54.000Z",
+        "totalElapsedTime": 176.883,
+        "totalTimerTime": 176.883,
+        "totalDistance": 175,
+        "totalCycles": 92,
+        "enhancedAvgSpeed": 0.989,
+        "enhancedMaxSpeed": 1.053,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 5,
+        "totalCalories": 45,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 7,
+        "firstLengthIndex": 19,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 7,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 149,
+        "maxHeartRate": 164,
+        "avgCadence": 31,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "swimStroke": "mixed",
+        "subSport": "lapSwimming",
+        "totalStrokes": 92
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "startTime": "2024-09-16T16:05:12.000Z",
+        "totalElapsedTime": 77.676,
+        "totalTimerTime": 77.676,
+        "totalDistance": 100,
+        "totalCycles": 41,
+        "enhancedAvgSpeed": 1.287,
+        "enhancedMaxSpeed": 2.02,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 6,
+        "totalCalories": 25,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 4,
+        "firstLengthIndex": 26,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 4,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 141,
+        "maxHeartRate": 148,
+        "avgCadence": 32,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "swimStroke": "mixed",
+        "subSport": "lapSwimming",
+        "totalStrokes": 41
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "startTime": "2024-09-16T16:06:29.000Z",
+        "totalElapsedTime": 5.284,
+        "totalTimerTime": 5.284,
+        "totalDistance": 0,
+        "totalCycles": 0,
+        "enhancedAvgSpeed": 0,
+        "enhancedMaxSpeed": 0,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 7,
+        "totalCalories": 0,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 0,
+        "firstLengthIndex": 30,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 0,
+        "event": "lap",
+        "eventType": "stop",
+        "avgCadence": 0,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "subSport": "lapSwimming",
+        "totalStrokes": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:08:04.000Z",
+        "startTime": "2024-09-16T16:07:52.000Z",
+        "totalElapsedTime": 10.661,
+        "totalTimerTime": 10.661,
+        "totalDistance": 0,
+        "totalCycles": 0,
+        "enhancedAvgSpeed": 0,
+        "enhancedMaxSpeed": 0,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 8,
+        "totalCalories": 1,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 0,
+        "firstLengthIndex": 31,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 0,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 114,
+        "maxHeartRate": 117,
+        "avgCadence": 0,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "subSport": "lapSwimming",
+        "totalStrokes": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "startTime": "2024-09-16T16:08:03.000Z",
+        "totalElapsedTime": 126.188,
+        "totalTimerTime": 126.188,
+        "totalDistance": 125,
+        "totalCycles": 70,
+        "enhancedAvgSpeed": 0.991,
+        "enhancedMaxSpeed": 1.37,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 9,
+        "totalCalories": 31,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 5,
+        "firstLengthIndex": 32,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 5,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 134,
+        "maxHeartRate": 145,
+        "avgCadence": 33,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "swimStroke": "mixed",
+        "subSport": "lapSwimming",
+        "totalStrokes": 70
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "startTime": "2024-09-16T16:10:35.000Z",
+        "totalElapsedTime": 190.019,
+        "totalTimerTime": 190.019,
+        "totalDistance": 150,
+        "totalCycles": 106,
+        "enhancedAvgSpeed": 0.789,
+        "enhancedMaxSpeed": 0.954,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 10,
+        "totalCalories": 49,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 6,
+        "firstLengthIndex": 37,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 6,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 141,
+        "maxHeartRate": 153,
+        "avgCadence": 33,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "swimStroke": "mixed",
+        "subSport": "lapSwimming",
+        "totalStrokes": 106
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "startTime": "2024-09-16T16:13:45.000Z",
+        "totalElapsedTime": 5.298,
+        "totalTimerTime": 5.298,
+        "totalDistance": 0,
+        "totalCycles": 0,
+        "enhancedAvgSpeed": 0,
+        "enhancedMaxSpeed": 0,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 11,
+        "totalCalories": 0,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 0,
+        "firstLengthIndex": 43,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 0,
+        "event": "lap",
+        "eventType": "stop",
+        "avgCadence": 0,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "subSport": "lapSwimming",
+        "totalStrokes": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:22:11.000Z",
+        "startTime": "2024-09-16T16:21:47.000Z",
+        "totalElapsedTime": 24.174,
+        "totalTimerTime": 24.174,
+        "totalDistance": 0,
+        "totalCycles": 0,
+        "enhancedAvgSpeed": 0,
+        "enhancedMaxSpeed": 0,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 12,
+        "totalCalories": 2,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "numLengths": 0,
+        "firstLengthIndex": 44,
+        "avgStrokeDistance": 0,
+        "numActiveLengths": 0,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 114,
+        "maxHeartRate": 117,
+        "avgCadence": 0,
+        "lapTrigger": "manual",
+        "sport": "swimming",
+        "subSport": "lapSwimming",
+        "totalStrokes": 0
+      }
+    ],
+    "timeInZoneMesgs": [
+      {
+        "timestamp": "2024-09-16T15:51:55.000Z",
+        "timeInHrZone": [
+          0,
+          15.865,
+          15.969,
+          30.001,
+          41.999,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 0,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T15:54:40.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          22.251,
+          31.998,
+          34.001,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 1,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T15:57:03.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          11.303,
+          76.974,
+          2.001,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 2,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T15:59:04.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          1.998,
+          92.09,
+          0,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 3,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:01:02.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          0,
+          60.697,
+          13,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 4,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:04:52.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          9.447,
+          55.973,
+          111,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 5,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:06:35.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          0,
+          71,
+          11.167,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 6,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:08:04.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          10.402,
+          0,
+          0,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 8,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:10:10.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          9.332,
+          115.999,
+          0,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 9,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:13:51.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          17.539,
+          130.971,
+          46.002,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 10,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:22:11.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          23.272,
+          0,
+          0,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 12,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-16T16:38:59.000Z",
+        "timeInHrZone": [
+          0,
+          15.865,
+          121.513,
+          665.703,
+          259.17,
+          0,
+          0
+        ],
+        "referenceMesg": "session",
+        "referenceIndex": 0,
+        "hrZoneHighBoundary": [
+          92,
+          110,
+          128,
+          146,
+          165,
+          183
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 183,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      }
+    ],
+    "sessionMesgs": [
+      {
+        "timestamp": "2024-09-16T16:38:59.000Z",
+        "startTime": "2024-09-16T15:50:10.000Z",
+        "totalElapsedTime": 2928.364,
+        "totalTimerTime": 1069.245,
+        "totalDistance": 1025,
+        "totalCycles": 543,
+        "sportProfileName": "Hvz Yüzme",
+        "enhancedAvgSpeed": 1.001,
+        "enhancedMaxSpeed": 2.02,
+        "trainingLoadPeak": 57.564788818359375,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 0,
+        "totalCalories": 277,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "firstLapIndex": 0,
+        "numLaps": 13,
+        "numLengths": 41,
+        "avgStrokeDistance": 0,
+        "poolLength": 25,
+        "numActiveLengths": 41,
+        "event": "lap",
+        "eventType": "stop",
+        "sport": "swimming",
+        "subSport": "lapSwimming",
+        "avgHeartRate": 139,
+        "maxHeartRate": 164,
+        "avgCadence": 32,
+        "totalTrainingEffect": 2.5,
+        "trigger": "activityEnd",
+        "poolLengthUnit": "metric",
+        "totalAnaerobicTrainingEffect": 0,
+        "totalStrokes": 543
+      }
+    ],
+    "activityMesgs": [
+      {
+        "timestamp": "2024-09-16T16:38:59.000Z",
+        "totalTimerTime": 1069.245,
+        "localTimestamp": 1095446339,
+        "numSessions": 1,
+        "type": "manual",
+        "event": "activity",
+        "eventType": "stop"
+      }
+    ]
+  }
+}

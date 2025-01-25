@@ -1,0 +1,2437 @@
+{
+  "fileName": "2024-03-07-00-21-56.fit",
+  "messages": {
+    "fileIdMesgs": [
+      {
+        "serialNumber": 3311454252,
+        "timeCreated": "2024-03-06T23:21:56.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "type": "activity",
+        "garminProduct": "fenix6"
+      }
+    ],
+    "fileCreatorMesgs": [
+      {
+        "softwareVersion": 2600
+      }
+    ],
+    "eventMesgs": [
+      {
+        "timestamp": "2024-03-06T23:21:56.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-03-06T23:36:45.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-03-06T23:37:36.000Z",
+        "data": 0,
+        "event": 60,
+        "eventType": "marker",
+        "eventGroup": 1
+      },
+      {
+        "timestamp": "2024-03-06T23:37:36.000Z",
+        "data": 255,
+        "event": 48,
+        "eventType": "marker",
+        "eventGroup": 1
+      }
+    ],
+    "deviceInfoMesgs": [
+      {
+        "timestamp": "2024-03-06T23:21:56.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 26,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-03-06T23:21:56.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 26,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-03-06T23:21:56.000Z",
+        "deviceIndex": 2,
+        "deviceType": 3,
+        "sourceType": "local",
+        "localDeviceType": "accelerometer"
+      },
+      {
+        "timestamp": "2024-03-06T23:21:56.000Z",
+        "deviceIndex": 3,
+        "deviceType": 8,
+        "sourceType": "local",
+        "localDeviceType": 8
+      },
+      {
+        "timestamp": "2024-03-06T23:21:56.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 4,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-03-06T23:21:56.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.09,
+        "deviceIndex": 5,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-03-06T23:36:45.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 26,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-03-06T23:36:45.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 26,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-03-06T23:36:45.000Z",
+        "deviceIndex": 2,
+        "deviceType": 3,
+        "sourceType": "local",
+        "localDeviceType": "accelerometer"
+      },
+      {
+        "timestamp": "2024-03-06T23:36:45.000Z",
+        "deviceIndex": 3,
+        "deviceType": 8,
+        "sourceType": "local",
+        "localDeviceType": 8
+      },
+      {
+        "timestamp": "2024-03-06T23:36:45.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 4,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-03-06T23:36:45.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.09,
+        "deviceIndex": 5,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      }
+    ],
+    "deviceSettingsMesgs": [
+      {
+        "utcOffset": 0,
+        "timeOffset": 3600,
+        "autoActivityDetect": 2147483647,
+        "autosyncMinSteps": 2000,
+        "autosyncMinTime": 240,
+        "activeTimeZone": 0,
+        "timeMode": "hour12",
+        "timeZoneOffset": 0,
+        "backlightMode": "autoBrightness",
+        "activityTrackerEnabled": 1,
+        "moveAlertEnabled": 0,
+        "dateMode": "dayMonth",
+        "mountingSide": "left",
+        "lactateThresholdAutodetectEnabled": 1
+      }
+    ],
+    "userProfileMesgs": [
+      {
+        "wakeTime": 32400,
+        "sleepTime": 3600,
+        "weight": 97.1,
+        "gender": "male",
+        "height": 1.89,
+        "language": "turkish",
+        "elevSetting": "metric",
+        "weightSetting": "metric",
+        "restingHeartRate": 0,
+        "hrSetting": "max",
+        "speedSetting": "metric",
+        "distSetting": "metric",
+        "activityClass": "levelMax",
+        "positionSetting": "degreeMinuteSecond",
+        "temperatureSetting": "metric",
+        "heightSetting": "metric",
+        "depthSetting": "statute"
+      }
+    ],
+    "sportMesgs": [
+      {
+        "name": "Koşu bandı",
+        "sport": "running",
+        "subSport": "treadmill"
+      }
+    ],
+    "zonesTargetMesgs": [
+      {
+        "maxHeartRate": 182,
+        "thresholdHeartRate": 0,
+        "hrCalcType": "percentMaxHr",
+        "pwrCalcType": "percentFtp"
+      }
+    ],
+    "recordMesgs": [
+      {
+        "timestamp": "2024-03-06T23:21:56.000Z",
+        "distance": 0,
+        "enhancedSpeed": 0,
+        "cycleLength16": 0,
+        "heartRate": 102,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:22:07.000Z",
+        "distance": 0,
+        "enhancedSpeed": 0,
+        "cycleLength16": 0,
+        "heartRate": 99,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:22:17.000Z",
+        "distance": 0,
+        "enhancedSpeed": 0,
+        "cycleLength16": 0,
+        "heartRate": 102,
+        "cadence": 82,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:22:33.000Z",
+        "distance": 8.25,
+        "enhancedSpeed": 0,
+        "cycleLength16": 0,
+        "heartRate": 105,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:22:42.000Z",
+        "distance": 10.99,
+        "enhancedSpeed": 0,
+        "cycleLength16": 0,
+        "heartRate": 101,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:22:48.000Z",
+        "distance": 10.99,
+        "enhancedSpeed": 0,
+        "heartRate": 98,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:22:52.000Z",
+        "distance": 10.99,
+        "enhancedSpeed": 0,
+        "heartRate": 95,
+        "cadence": 75,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:22:56.000Z",
+        "distance": 10.99,
+        "enhancedSpeed": 0,
+        "heartRate": 92,
+        "cadence": 45,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:05.000Z",
+        "distance": 17.19,
+        "enhancedSpeed": 1.586,
+        "heartRate": 89,
+        "cadence": 73,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:10.000Z",
+        "distance": 31.9,
+        "enhancedSpeed": 3.938,
+        "heartRate": 93,
+        "cadence": 80,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:11.000Z",
+        "distance": 35.87,
+        "enhancedSpeed": 3.975,
+        "cycleLength16": 0,
+        "heartRate": 96,
+        "cadence": 79,
+        "temperature": 27,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:23:13.000Z",
+        "distance": 43.94,
+        "enhancedSpeed": 4.059,
+        "heartRate": 101,
+        "cadence": 80,
+        "temperature": 27,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:23:14.000Z",
+        "distance": 48.19,
+        "enhancedSpeed": 4.255,
+        "cycleLength16": 0,
+        "heartRate": 105,
+        "cadence": 81,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:15.000Z",
+        "distance": 52.87,
+        "enhancedSpeed": 4.675,
+        "heartRate": 108,
+        "cadence": 82,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:17.000Z",
+        "distance": 62.26,
+        "enhancedSpeed": 4.693,
+        "heartRate": 112,
+        "cadence": 82,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:19.000Z",
+        "distance": 71.61,
+        "enhancedSpeed": 4.665,
+        "heartRate": 118,
+        "cadence": 83,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:24.000Z",
+        "distance": 93.87,
+        "enhancedSpeed": 4.572,
+        "heartRate": 122,
+        "cadence": 85,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:27.000Z",
+        "distance": 107.98,
+        "enhancedSpeed": 4.787,
+        "heartRate": 125,
+        "cadence": 84,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:28.000Z",
+        "distance": 112.77,
+        "enhancedSpeed": 4.787,
+        "heartRate": 130,
+        "cadence": 84,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:29.000Z",
+        "distance": 117.61,
+        "enhancedSpeed": 4.843,
+        "cycleLength16": 0,
+        "heartRate": 130,
+        "cadence": 84,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:34.000Z",
+        "distance": 141.56,
+        "enhancedSpeed": 4.665,
+        "heartRate": 132,
+        "cadence": 82,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:37.000Z",
+        "distance": 154.31,
+        "enhancedSpeed": 4.189,
+        "heartRate": 135,
+        "cadence": 82,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:40.000Z",
+        "distance": 166.82,
+        "enhancedSpeed": 4.161,
+        "heartRate": 138,
+        "cadence": 82,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:42.000Z",
+        "distance": 175.15,
+        "enhancedSpeed": 4.161,
+        "heartRate": 142,
+        "cadence": 82,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:45.000Z",
+        "distance": 187.29,
+        "enhancedSpeed": 3.994,
+        "heartRate": 145,
+        "cadence": 81,
+        "temperature": 27,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:23:50.000Z",
+        "distance": 207.54,
+        "enhancedSpeed": 4.078,
+        "cycleLength16": 0,
+        "heartRate": 147,
+        "cadence": 83,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:23:55.000Z",
+        "distance": 228.18,
+        "enhancedSpeed": 4.133,
+        "heartRate": 150,
+        "cadence": 81,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:00.000Z",
+        "distance": 248.79,
+        "enhancedSpeed": 4.124,
+        "cycleLength16": 0,
+        "heartRate": 153,
+        "cadence": 80,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:05.000Z",
+        "distance": 269.31,
+        "enhancedSpeed": 4.096,
+        "cycleLength16": 0,
+        "heartRate": 153,
+        "cadence": 81,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:07.000Z",
+        "distance": 277.51,
+        "enhancedSpeed": 4.106,
+        "cycleLength16": 0,
+        "heartRate": 157,
+        "cadence": 81,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:12.000Z",
+        "distance": 298.06,
+        "enhancedSpeed": 4.115,
+        "cycleLength16": 0,
+        "heartRate": 156,
+        "cadence": 81,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:17.000Z",
+        "distance": 318.61,
+        "enhancedSpeed": 4.096,
+        "cycleLength16": 0,
+        "heartRate": 158,
+        "cadence": 81,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:22.000Z",
+        "distance": 339.05,
+        "enhancedSpeed": 4.096,
+        "cycleLength16": 0,
+        "heartRate": 156,
+        "cadence": 81,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:27.000Z",
+        "distance": 359.58,
+        "enhancedSpeed": 4.115,
+        "cycleLength16": 0,
+        "heartRate": 158,
+        "cadence": 82,
+        "temperature": 26,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:24:29.000Z",
+        "distance": 367.84,
+        "enhancedSpeed": 4.124,
+        "cycleLength16": 0,
+        "heartRate": 155,
+        "cadence": 82,
+        "temperature": 26,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:24:33.000Z",
+        "distance": 384.28,
+        "enhancedSpeed": 4.087,
+        "cycleLength16": 0,
+        "heartRate": 158,
+        "cadence": 81,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:38.000Z",
+        "distance": 404.48,
+        "enhancedSpeed": 4.04,
+        "cycleLength16": 0,
+        "heartRate": 158,
+        "cadence": 81,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:42.000Z",
+        "distance": 420.65,
+        "enhancedSpeed": 4.04,
+        "cycleLength16": 0,
+        "heartRate": 158,
+        "cadence": 80,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:47.000Z",
+        "distance": 440.76,
+        "enhancedSpeed": 4.022,
+        "cycleLength16": 0,
+        "heartRate": 158,
+        "cadence": 80,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:53.000Z",
+        "distance": 464.18,
+        "enhancedSpeed": 3.835,
+        "cycleLength16": 0,
+        "heartRate": 158,
+        "cadence": 80,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:24:59.000Z",
+        "distance": 487.19,
+        "enhancedSpeed": 3.872,
+        "cycleLength16": 0,
+        "heartRate": 157,
+        "cadence": 80,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:25:05.000Z",
+        "distance": 511.1,
+        "enhancedSpeed": 3.984,
+        "cycleLength16": 0,
+        "heartRate": 157,
+        "cadence": 80,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:25:10.000Z",
+        "distance": 531.18,
+        "enhancedSpeed": 4.022,
+        "cycleLength16": 0,
+        "heartRate": 157,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:25:15.000Z",
+        "distance": 551.4,
+        "enhancedSpeed": 4.05,
+        "cycleLength16": 0,
+        "heartRate": 159,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:25:20.000Z",
+        "distance": 571.73,
+        "enhancedSpeed": 4.078,
+        "cycleLength16": 0,
+        "heartRate": 159,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:25:24.000Z",
+        "distance": 588.11,
+        "enhancedSpeed": 4.106,
+        "cycleLength16": 0,
+        "heartRate": 162,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:25:29.000Z",
+        "distance": 608.7,
+        "enhancedSpeed": 4.124,
+        "cycleLength16": 0,
+        "heartRate": 161,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:25:34.000Z",
+        "distance": 629.34,
+        "enhancedSpeed": 4.133,
+        "cycleLength16": 0,
+        "heartRate": 162,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:25:37.000Z",
+        "distance": 641.74,
+        "enhancedSpeed": 4.133,
+        "cycleLength16": 0,
+        "heartRate": 161,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:25:41.000Z",
+        "distance": 658.31,
+        "enhancedSpeed": 4.143,
+        "cycleLength16": 0,
+        "heartRate": 158,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:25:46.000Z",
+        "distance": 678.74,
+        "enhancedSpeed": 4.04,
+        "cycleLength16": 0,
+        "heartRate": 158,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:25:50.000Z",
+        "distance": 694.85,
+        "enhancedSpeed": 4.04,
+        "cycleLength16": 0,
+        "heartRate": 161,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:25:55.000Z",
+        "distance": 715.11,
+        "enhancedSpeed": 4.068,
+        "cycleLength16": 0,
+        "heartRate": 160,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:26:00.000Z",
+        "distance": 735.43,
+        "enhancedSpeed": 4.059,
+        "cycleLength16": 0,
+        "heartRate": 161,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:26:05.000Z",
+        "distance": 755.74,
+        "enhancedSpeed": 4.05,
+        "cycleLength16": 0,
+        "heartRate": 163,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:26:11.000Z",
+        "distance": 779.52,
+        "enhancedSpeed": 4.003,
+        "cycleLength16": 0,
+        "heartRate": 164,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:26:16.000Z",
+        "distance": 799.8,
+        "enhancedSpeed": 4.04,
+        "cycleLength16": 0,
+        "heartRate": 164,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:26:22.000Z",
+        "distance": 823.58,
+        "enhancedSpeed": 3.966,
+        "cycleLength16": 0,
+        "heartRate": 163,
+        "cadence": 80,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:26:28.000Z",
+        "distance": 847.42,
+        "enhancedSpeed": 3.975,
+        "cycleLength16": 0,
+        "heartRate": 163,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:26:34.000Z",
+        "distance": 871.27,
+        "enhancedSpeed": 3.975,
+        "cycleLength16": 0,
+        "heartRate": 164,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:26:40.000Z",
+        "distance": 895.12,
+        "enhancedSpeed": 3.975,
+        "cycleLength16": 0,
+        "heartRate": 164,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:26:45.000Z",
+        "distance": 915.26,
+        "enhancedSpeed": 4.068,
+        "cycleLength16": 0,
+        "heartRate": 164,
+        "cadence": 80,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:26:50.000Z",
+        "distance": 935.61,
+        "enhancedSpeed": 4.068,
+        "cycleLength16": 0,
+        "heartRate": 163,
+        "cadence": 80,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:26:55.000Z",
+        "distance": 955.97,
+        "enhancedSpeed": 4.078,
+        "cycleLength16": 0,
+        "heartRate": 164,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:00.000Z",
+        "distance": 976.4,
+        "enhancedSpeed": 4.096,
+        "cycleLength16": 0,
+        "heartRate": 163,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:05.000Z",
+        "distance": 996.96,
+        "enhancedSpeed": 4.115,
+        "cycleLength16": 0,
+        "heartRate": 164,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:06.000Z",
+        "distance": 1001.07,
+        "enhancedSpeed": 4.115,
+        "cycleLength16": 0,
+        "heartRate": 164,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:11.000Z",
+        "distance": 1021.69,
+        "enhancedSpeed": 4.124,
+        "cycleLength16": 1,
+        "heartRate": 165,
+        "cadence": 81,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:16.000Z",
+        "distance": 1042.31,
+        "enhancedSpeed": 4.124,
+        "cycleLength16": 1,
+        "heartRate": 165,
+        "cadence": 82,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:27:21.000Z",
+        "distance": 1062.93,
+        "enhancedSpeed": 4.124,
+        "cycleLength16": 1,
+        "heartRate": 165,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:26.000Z",
+        "distance": 1083.51,
+        "enhancedSpeed": 4.059,
+        "cycleLength16": 1,
+        "heartRate": 166,
+        "cadence": 80,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:32.000Z",
+        "distance": 1107.32,
+        "enhancedSpeed": 4.04,
+        "cycleLength16": 1,
+        "heartRate": 167,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:37.000Z",
+        "distance": 1127.73,
+        "enhancedSpeed": 4.087,
+        "cycleLength16": 1,
+        "heartRate": 169,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:42.000Z",
+        "distance": 1148.15,
+        "enhancedSpeed": 4.087,
+        "cycleLength16": 1,
+        "heartRate": 170,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:47.000Z",
+        "distance": 1168.61,
+        "enhancedSpeed": 4.096,
+        "cycleLength16": 1,
+        "heartRate": 170,
+        "cadence": 82,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:27:51.000Z",
+        "distance": 1185.04,
+        "enhancedSpeed": 4.124,
+        "cycleLength16": 1,
+        "heartRate": 167,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:27:56.000Z",
+        "distance": 1205.62,
+        "enhancedSpeed": 4.106,
+        "cycleLength16": 1,
+        "heartRate": 166,
+        "cadence": 80,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:01.000Z",
+        "distance": 1226.11,
+        "enhancedSpeed": 4.096,
+        "cycleLength16": 1,
+        "heartRate": 165,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:06.000Z",
+        "distance": 1246.65,
+        "enhancedSpeed": 4.115,
+        "cycleLength16": 1,
+        "heartRate": 165,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:08.000Z",
+        "distance": 1254.87,
+        "enhancedSpeed": 4.115,
+        "cycleLength16": 1,
+        "heartRate": 164,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:13.000Z",
+        "distance": 1274.91,
+        "enhancedSpeed": 4.031,
+        "cycleLength16": 1,
+        "heartRate": 164,
+        "cadence": 80,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:19.000Z",
+        "distance": 1298.6,
+        "enhancedSpeed": 4.05,
+        "cycleLength16": 1,
+        "heartRate": 163,
+        "cadence": 80,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:24.000Z",
+        "distance": 1318.84,
+        "enhancedSpeed": 4.068,
+        "cycleLength16": 0,
+        "heartRate": 165,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:29.000Z",
+        "distance": 1341.14,
+        "enhancedSpeed": 4.805,
+        "cycleLength16": 1,
+        "heartRate": 167,
+        "cadence": 82,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:28:34.000Z",
+        "distance": 1365.11,
+        "enhancedSpeed": 4.684,
+        "cycleLength16": 1,
+        "heartRate": 167,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:39.000Z",
+        "distance": 1388.57,
+        "enhancedSpeed": 4.796,
+        "cycleLength16": 1,
+        "heartRate": 168,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:44.000Z",
+        "distance": 1412.48,
+        "enhancedSpeed": 4.768,
+        "cycleLength16": 1,
+        "heartRate": 168,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:49.000Z",
+        "distance": 1436.35,
+        "enhancedSpeed": 4.721,
+        "cycleLength16": 1,
+        "heartRate": 167,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:28:54.000Z",
+        "distance": 1458.53,
+        "enhancedSpeed": 4.255,
+        "cycleLength16": 0,
+        "heartRate": 167,
+        "cadence": 82,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:28:59.000Z",
+        "distance": 1479.38,
+        "enhancedSpeed": 4.152,
+        "heartRate": 167,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:29:04.000Z",
+        "distance": 1500.91,
+        "enhancedSpeed": 4.497,
+        "heartRate": 166,
+        "cadence": 82,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:29:09.000Z",
+        "distance": 1523.89,
+        "enhancedSpeed": 4.516,
+        "heartRate": 166,
+        "cadence": 80,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:29:14.000Z",
+        "distance": 1543.94,
+        "enhancedSpeed": 3.854,
+        "heartRate": 167,
+        "cadence": 82,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:29:19.000Z",
+        "distance": 1564.04,
+        "enhancedSpeed": 4.106,
+        "heartRate": 166,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:29:24.000Z",
+        "distance": 1584.1,
+        "enhancedSpeed": 4.012,
+        "heartRate": 169,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:29:30.000Z",
+        "distance": 1607.72,
+        "enhancedSpeed": 3.928,
+        "heartRate": 169,
+        "cadence": 82,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:29:36.000Z",
+        "distance": 1630.82,
+        "enhancedSpeed": 3.77,
+        "heartRate": 170,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:29:42.000Z",
+        "distance": 1652.98,
+        "enhancedSpeed": 3.686,
+        "heartRate": 171,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:29:48.000Z",
+        "distance": 1675.26,
+        "enhancedSpeed": 3.742,
+        "heartRate": 172,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:29:54.000Z",
+        "distance": 1697.77,
+        "enhancedSpeed": 3.742,
+        "heartRate": 172,
+        "cadence": 81,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:30:00.000Z",
+        "distance": 1720.31,
+        "enhancedSpeed": 3.826,
+        "heartRate": 173,
+        "cadence": 82,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:30:06.000Z",
+        "distance": 1743,
+        "enhancedSpeed": 3.779,
+        "heartRate": 172,
+        "cadence": 79,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:30:12.000Z",
+        "distance": 1765.61,
+        "enhancedSpeed": 3.714,
+        "heartRate": 170,
+        "cadence": 78,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:30:16.000Z",
+        "distance": 1780.28,
+        "enhancedSpeed": 3.676,
+        "heartRate": 167,
+        "cadence": 78,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:30:22.000Z",
+        "distance": 1800.93,
+        "enhancedSpeed": 2.51,
+        "heartRate": 164,
+        "cadence": 61,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:30:31.000Z",
+        "distance": 1823.26,
+        "enhancedSpeed": 2.407,
+        "heartRate": 163,
+        "cadence": 64,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:30:34.000Z",
+        "distance": 1830.34,
+        "enhancedSpeed": 2.361,
+        "heartRate": 159,
+        "cadence": 64,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:30:40.000Z",
+        "distance": 1844.4,
+        "enhancedSpeed": 2.286,
+        "heartRate": 162,
+        "cadence": 64,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:30:43.000Z",
+        "distance": 1850.78,
+        "enhancedSpeed": 2.062,
+        "heartRate": 159,
+        "cadence": 64,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:30:46.000Z",
+        "distance": 1856.93,
+        "enhancedSpeed": 2.062,
+        "heartRate": 154,
+        "cadence": 62,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:30:48.000Z",
+        "distance": 1861.16,
+        "enhancedSpeed": 2.137,
+        "heartRate": 151,
+        "cadence": 61,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:30:54.000Z",
+        "distance": 1873.73,
+        "enhancedSpeed": 2.053,
+        "heartRate": 148,
+        "cadence": 61,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:30:57.000Z",
+        "distance": 1879.75,
+        "enhancedSpeed": 1.978,
+        "heartRate": 145,
+        "cadence": 60,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:31:03.000Z",
+        "distance": 1891.52,
+        "enhancedSpeed": 1.959,
+        "heartRate": 147,
+        "cadence": 61,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:31:05.000Z",
+        "distance": 1895.45,
+        "enhancedSpeed": 1.959,
+        "heartRate": 143,
+        "cadence": 61,
+        "temperature": 24,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:31:10.000Z",
+        "distance": 1905.08,
+        "enhancedSpeed": 1.857,
+        "heartRate": 139,
+        "cadence": 60,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:31:18.000Z",
+        "distance": 1905.51,
+        "enhancedSpeed": 0,
+        "heartRate": 136,
+        "cadence": 0,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:31:23.000Z",
+        "distance": 1905.51,
+        "enhancedSpeed": 0,
+        "heartRate": 133,
+        "cadence": 0,
+        "temperature": 24,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:31:27.000Z",
+        "distance": 1905.51,
+        "enhancedSpeed": 0,
+        "heartRate": 130,
+        "cadence": 0,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:31:30.000Z",
+        "distance": 1905.51,
+        "enhancedSpeed": 0,
+        "heartRate": 127,
+        "cadence": 0,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:31:31.000Z",
+        "distance": 1905.51,
+        "enhancedSpeed": 0,
+        "heartRate": 126,
+        "cadence": 0,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:31:38.000Z",
+        "distance": 1907.28,
+        "enhancedSpeed": 0,
+        "heartRate": 123,
+        "cadence": 61,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:31:45.000Z",
+        "distance": 1910.55,
+        "enhancedSpeed": 0,
+        "heartRate": 120,
+        "cadence": 0,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:31:58.000Z",
+        "distance": 1915.44,
+        "enhancedSpeed": 1.754,
+        "heartRate": 117,
+        "cadence": 62,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:32:02.000Z",
+        "distance": 1923.09,
+        "enhancedSpeed": 1.875,
+        "heartRate": 117,
+        "cadence": 61,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:32:06.000Z",
+        "distance": 1930.32,
+        "enhancedSpeed": 1.764,
+        "heartRate": 120,
+        "cadence": 61,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:32:17.000Z",
+        "distance": 1953.16,
+        "enhancedSpeed": 3.48,
+        "heartRate": 119,
+        "cadence": 61,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:32:26.000Z",
+        "distance": 1973.61,
+        "enhancedSpeed": 1.959,
+        "heartRate": 119,
+        "cadence": 59,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:32:37.000Z",
+        "distance": 1993.94,
+        "enhancedSpeed": 1.857,
+        "heartRate": 118,
+        "cadence": 61,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:32:41.000Z",
+        "distance": 2001.65,
+        "enhancedSpeed": 1.922,
+        "heartRate": 117,
+        "cadence": 61,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:32:45.000Z",
+        "distance": 2009.31,
+        "enhancedSpeed": 1.922,
+        "heartRate": 114,
+        "cadence": 61,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:32:56.000Z",
+        "distance": 2030.45,
+        "enhancedSpeed": 1.922,
+        "heartRate": 115,
+        "cadence": 60,
+        "temperature": 25,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:32:59.000Z",
+        "distance": 2036.18,
+        "enhancedSpeed": 1.885,
+        "heartRate": 112,
+        "cadence": 62,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:33:02.000Z",
+        "distance": 2041.65,
+        "enhancedSpeed": 1.801,
+        "heartRate": 115,
+        "cadence": 62,
+        "temperature": 25,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:33:13.000Z",
+        "distance": 2061.73,
+        "enhancedSpeed": 1.791,
+        "heartRate": 115,
+        "cadence": 59,
+        "temperature": 26,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:33:23.000Z",
+        "distance": 2080.05,
+        "enhancedSpeed": 1.838,
+        "heartRate": 114,
+        "cadence": 61,
+        "temperature": 26,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:33:51.000Z",
+        "distance": 2096.05,
+        "enhancedSpeed": 0,
+        "heartRate": 117,
+        "cadence": 0,
+        "temperature": 26,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:33:55.000Z",
+        "distance": 2096.05,
+        "enhancedSpeed": 0,
+        "heartRate": 118,
+        "cadence": 0,
+        "temperature": 26,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:34:17.000Z",
+        "distance": 2096.05,
+        "enhancedSpeed": 0,
+        "heartRate": 115,
+        "cadence": 62,
+        "temperature": 27,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:34:27.000Z",
+        "distance": 2118.23,
+        "enhancedSpeed": 3.163,
+        "heartRate": 119,
+        "cadence": 82,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:34:29.000Z",
+        "distance": 2124.44,
+        "enhancedSpeed": 3.135,
+        "heartRate": 123,
+        "cadence": 60,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:34:31.000Z",
+        "distance": 2130.71,
+        "enhancedSpeed": 3.135,
+        "heartRate": 126,
+        "cadence": 60,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:34:34.000Z",
+        "distance": 2140.11,
+        "enhancedSpeed": 3.135,
+        "heartRate": 130,
+        "cadence": 63,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:34:37.000Z",
+        "distance": 2148.26,
+        "enhancedSpeed": 1.875,
+        "heartRate": 133,
+        "cadence": 59,
+        "temperature": 27,
+        "fractionalCadence": 0.5
+      },
+      {
+        "timestamp": "2024-03-06T23:34:45.000Z",
+        "distance": 2161.27,
+        "enhancedSpeed": 1.633,
+        "heartRate": 130,
+        "cadence": 59,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:34:57.000Z",
+        "distance": 2181.39,
+        "enhancedSpeed": 1.67,
+        "heartRate": 128,
+        "cadence": 59,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:35:04.000Z",
+        "distance": 2184.69,
+        "enhancedSpeed": 0,
+        "heartRate": 125,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:35:07.000Z",
+        "distance": 2184.69,
+        "enhancedSpeed": 0,
+        "cycleLength16": 412.24,
+        "heartRate": 122,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:35:10.000Z",
+        "distance": 2184.69,
+        "enhancedSpeed": 0,
+        "heartRate": 119,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:35:13.000Z",
+        "distance": 2184.69,
+        "enhancedSpeed": 0,
+        "heartRate": 116,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:35:43.000Z",
+        "distance": 2184.69,
+        "enhancedSpeed": 0,
+        "heartRate": 113,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:35:46.000Z",
+        "distance": 2184.69,
+        "enhancedSpeed": 0,
+        "heartRate": 110,
+        "cadence": 0,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:35:59.000Z",
+        "distance": 2187.85,
+        "enhancedSpeed": 1.008,
+        "heartRate": 107,
+        "cadence": 66,
+        "temperature": 27,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:36:30.000Z",
+        "distance": 2191.58,
+        "enhancedSpeed": 0.756,
+        "heartRate": 110,
+        "cadence": 60,
+        "temperature": 26,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:36:38.000Z",
+        "distance": 2198.53,
+        "enhancedSpeed": 0,
+        "heartRate": 113,
+        "cadence": 0,
+        "temperature": 26,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:36:45.000Z",
+        "distance": 2198.53,
+        "enhancedSpeed": 0,
+        "heartRate": 114,
+        "cadence": 0,
+        "temperature": 26,
+        "fractionalCadence": 0
+      }
+    ],
+    "lapMesgs": [
+      {
+        "timestamp": "2024-03-06T23:27:06.000Z",
+        "startTime": "2024-03-06T23:21:56.000Z",
+        "totalElapsedTime": 310.829,
+        "totalTimerTime": 310.829,
+        "totalDistance": 1000,
+        "totalCycles": 386,
+        "enhancedAvgSpeed": 3.217,
+        "enhancedMaxSpeed": 5.113,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 0,
+        "totalCalories": 81,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 141,
+        "maxHeartRate": 165,
+        "avgCadence": 73,
+        "maxCadence": 120,
+        "lapTrigger": "distance",
+        "sport": "running",
+        "subSport": "treadmill",
+        "avgTemperature": 26,
+        "maxTemperature": 27,
+        "avgFractionalCadence": 0.6015625,
+        "maxFractionalCadence": 0,
+        "minTemperature": 25,
+        "totalStrides": 386,
+        "avgRunningCadence": 73,
+        "maxRunningCadence": 120
+      },
+      {
+        "timestamp": "2024-03-06T23:32:41.000Z",
+        "startTime": "2024-03-06T23:27:07.000Z",
+        "totalElapsedTime": 334.404,
+        "totalTimerTime": 334.404,
+        "totalDistance": 1000,
+        "totalCycles": 400,
+        "enhancedAvgSpeed": 2.99,
+        "enhancedMaxSpeed": 4.88,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 1,
+        "totalCalories": 96,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 153,
+        "maxHeartRate": 174,
+        "avgCadence": 69,
+        "maxCadence": 121,
+        "lapTrigger": "distance",
+        "sport": "running",
+        "subSport": "treadmill",
+        "avgTemperature": 24,
+        "maxTemperature": 25,
+        "avgFractionalCadence": 0.0859375,
+        "maxFractionalCadence": 0.5,
+        "minTemperature": 24,
+        "totalStrides": 400,
+        "avgRunningCadence": 69,
+        "maxRunningCadence": 121
+      },
+      {
+        "timestamp": "2024-03-06T23:37:37.000Z",
+        "startTime": "2024-03-06T23:32:42.000Z",
+        "totalElapsedTime": 244.626,
+        "totalTimerTime": 244.626,
+        "totalDistance": 198.53,
+        "totalCycles": 153,
+        "enhancedAvgSpeed": 0.812,
+        "enhancedMaxSpeed": 3.742,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 2,
+        "totalCalories": 35,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 116,
+        "maxHeartRate": 135,
+        "avgCadence": 35,
+        "maxCadence": 90,
+        "lapTrigger": "sessionEnd",
+        "sport": "running",
+        "subSport": "treadmill",
+        "avgTemperature": 26,
+        "maxTemperature": 27,
+        "avgFractionalCadence": 0.546875,
+        "maxFractionalCadence": 0,
+        "minTemperature": 25,
+        "totalStrides": 153,
+        "avgRunningCadence": 35,
+        "maxRunningCadence": 90
+      }
+    ],
+    "timeInZoneMesgs": [
+      {
+        "timestamp": "2024-03-06T23:27:06.000Z",
+        "timeInHrZone": [
+          8.997,
+          71.091,
+          11.999,
+          20,
+          167.002,
+          31.998,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 0,
+        "hrZoneHighBoundary": [
+          91,
+          109,
+          127,
+          147,
+          164,
+          182
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 182,
+        "restingHeartRate": 0,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:32:41.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          71.001,
+          28,
+          39,
+          196.994,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 1,
+        "hrZoneHighBoundary": [
+          91,
+          109,
+          127,
+          147,
+          164,
+          182
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 182,
+        "restingHeartRate": 0,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:37:37.000Z",
+        "timeInHrZone": [
+          0,
+          22.002,
+          190.762,
+          31.001,
+          0,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 2,
+        "hrZoneHighBoundary": [
+          91,
+          109,
+          127,
+          147,
+          164,
+          182
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 182,
+        "restingHeartRate": 0,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-03-06T23:37:37.000Z",
+        "timeInHrZone": [
+          8.997,
+          93.093,
+          273.762,
+          79.001,
+          206.002,
+          228.992,
+          0
+        ],
+        "referenceMesg": "session",
+        "referenceIndex": 0,
+        "hrZoneHighBoundary": [
+          91,
+          109,
+          127,
+          147,
+          164,
+          182
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 182,
+        "restingHeartRate": 0,
+        "thresholdHeartRate": 0
+      }
+    ],
+    "splitMesgs": [
+      {
+        "totalElapsedTime": 2.001,
+        "totalTimerTime": 2.001,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:21:56.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:21:56.000Z",
+        "totalCalories": 0,
+        "messageIndex": 0,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 12,
+        "totalTimerTime": 12,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:21:57.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:22:06.000Z",
+        "totalCalories": 1,
+        "messageIndex": 1,
+        "splitType": "rwdRun"
+      },
+      {
+        "totalElapsedTime": 1,
+        "totalTimerTime": 1,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:22:07.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:22:07.000Z",
+        "totalCalories": 0,
+        "messageIndex": 2,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 14,
+        "totalTimerTime": 14,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:22:08.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:22:21.000Z",
+        "totalCalories": 2,
+        "messageIndex": 3,
+        "splitType": "rwdRun"
+      },
+      {
+        "totalElapsedTime": 3,
+        "totalTimerTime": 3,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:22:22.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:22:24.000Z",
+        "totalCalories": 0,
+        "messageIndex": 4,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 2,
+        "totalTimerTime": 2,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:22:25.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:22:26.000Z",
+        "totalCalories": 0,
+        "messageIndex": 5,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 10,
+        "totalTimerTime": 10,
+        "totalDistance": 8.25,
+        "avgSpeed": 0.825,
+        "startTime": "2024-03-06T23:22:27.000Z",
+        "maxSpeed": 5.113,
+        "endTime": "2024-03-06T23:22:36.000Z",
+        "totalCalories": 2,
+        "messageIndex": 6,
+        "splitType": "rwdRun"
+      },
+      {
+        "totalElapsedTime": 10,
+        "totalTimerTime": 10,
+        "totalDistance": 2.74,
+        "avgSpeed": 0.274,
+        "startTime": "2024-03-06T23:22:37.000Z",
+        "maxSpeed": 1.474,
+        "endTime": "2024-03-06T23:22:46.000Z",
+        "totalCalories": 2,
+        "messageIndex": 7,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 4,
+        "totalTimerTime": 4,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:22:47.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:22:50.000Z",
+        "totalCalories": 1,
+        "messageIndex": 8,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 476,
+        "totalTimerTime": 476,
+        "totalDistance": 1845.94,
+        "avgSpeed": 3.878,
+        "startTime": "2024-03-06T23:22:51.000Z",
+        "maxSpeed": 4.88,
+        "endTime": "2024-03-06T23:30:46.000Z",
+        "totalCalories": 145,
+        "messageIndex": 9,
+        "splitType": "rwdRun"
+      },
+      {
+        "totalElapsedTime": 33,
+        "totalTimerTime": 33,
+        "totalDistance": 48.58,
+        "avgSpeed": 1.472,
+        "startTime": "2024-03-06T23:30:47.000Z",
+        "maxSpeed": 2.146,
+        "endTime": "2024-03-06T23:31:19.000Z",
+        "totalCalories": 9,
+        "messageIndex": 10,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 12,
+        "totalTimerTime": 12,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:31:20.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:31:31.000Z",
+        "totalCalories": 3,
+        "messageIndex": 11,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 14.001,
+        "totalTimerTime": 14.001,
+        "totalDistance": 5.04,
+        "avgSpeed": 0.36,
+        "startTime": "2024-03-06T23:31:32.000Z",
+        "maxSpeed": 1.381,
+        "endTime": "2024-03-06T23:31:45.000Z",
+        "totalCalories": 3,
+        "messageIndex": 12,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 2.999,
+        "totalTimerTime": 2.999,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:31:46.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:31:48.000Z",
+        "totalCalories": 1,
+        "messageIndex": 13,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 24,
+        "totalTimerTime": 24,
+        "totalDistance": 30.37,
+        "avgSpeed": 1.265,
+        "startTime": "2024-03-06T23:31:49.000Z",
+        "maxSpeed": 1.959,
+        "endTime": "2024-03-06T23:32:12.000Z",
+        "totalCalories": 4,
+        "messageIndex": 14,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 15,
+        "totalTimerTime": 15,
+        "totalDistance": 34.64,
+        "avgSpeed": 2.309,
+        "startTime": "2024-03-06T23:32:13.000Z",
+        "maxSpeed": 3.48,
+        "endTime": "2024-03-06T23:32:27.000Z",
+        "totalCalories": 2,
+        "messageIndex": 15,
+        "splitType": "rwdRun"
+      },
+      {
+        "totalElapsedTime": 66,
+        "totalTimerTime": 66,
+        "totalDistance": 104.5,
+        "avgSpeed": 1.583,
+        "startTime": "2024-03-06T23:32:28.000Z",
+        "maxSpeed": 1.941,
+        "endTime": "2024-03-06T23:33:33.000Z",
+        "totalCalories": 9,
+        "messageIndex": 16,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 1,
+        "totalTimerTime": 1,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:33:34.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:33:34.000Z",
+        "totalCalories": 0,
+        "messageIndex": 17,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 4,
+        "totalTimerTime": 4,
+        "totalDistance": 0.47,
+        "avgSpeed": 0.117,
+        "startTime": "2024-03-06T23:33:35.000Z",
+        "maxSpeed": 0.467,
+        "endTime": "2024-03-06T23:33:38.000Z",
+        "totalCalories": 1,
+        "messageIndex": 18,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 8,
+        "totalTimerTime": 8,
+        "totalDistance": 9.11,
+        "avgSpeed": 1.138,
+        "startTime": "2024-03-06T23:33:39.000Z",
+        "maxSpeed": 1.344,
+        "endTime": "2024-03-06T23:33:46.000Z",
+        "totalCalories": 1,
+        "messageIndex": 19,
+        "splitType": "rwdRun"
+      },
+      {
+        "totalElapsedTime": 7,
+        "totalTimerTime": 7,
+        "totalDistance": 6.42,
+        "avgSpeed": 0.917,
+        "startTime": "2024-03-06T23:33:47.000Z",
+        "maxSpeed": 1.819,
+        "endTime": "2024-03-06T23:33:53.000Z",
+        "totalCalories": 1,
+        "messageIndex": 20,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 15,
+        "totalTimerTime": 15,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:33:54.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:34:08.000Z",
+        "totalCalories": 2,
+        "messageIndex": 21,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 5,
+        "totalTimerTime": 5,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:34:09.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:34:13.000Z",
+        "totalCalories": 1,
+        "messageIndex": 22,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 1.001,
+        "totalTimerTime": 1.001,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:34:14.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:34:14.000Z",
+        "totalCalories": 0,
+        "messageIndex": 23,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 7.001,
+        "totalTimerTime": 7.001,
+        "totalDistance": 4.11,
+        "avgSpeed": 0.587,
+        "startTime": "2024-03-06T23:34:15.000Z",
+        "maxSpeed": 1.577,
+        "endTime": "2024-03-06T23:34:21.000Z",
+        "totalCalories": 1,
+        "messageIndex": 24,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 20.998,
+        "totalTimerTime": 20.998,
+        "totalDistance": 56.23,
+        "avgSpeed": 2.678,
+        "startTime": "2024-03-06T23:34:22.000Z",
+        "maxSpeed": 3.742,
+        "endTime": "2024-03-06T23:34:42.000Z",
+        "totalCalories": 4,
+        "messageIndex": 25,
+        "splitType": "rwdRun"
+      },
+      {
+        "totalElapsedTime": 20.001,
+        "totalTimerTime": 20.001,
+        "totalDistance": 28.3,
+        "avgSpeed": 1.415,
+        "startTime": "2024-03-06T23:34:43.000Z",
+        "maxSpeed": 1.717,
+        "endTime": "2024-03-06T23:35:02.000Z",
+        "totalCalories": 4,
+        "messageIndex": 26,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 43.999,
+        "totalTimerTime": 43.999,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:35:03.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:35:46.000Z",
+        "totalCalories": 6,
+        "messageIndex": 27,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 3.001,
+        "totalTimerTime": 3.001,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:35:47.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:35:49.000Z",
+        "totalCalories": 0,
+        "messageIndex": 28,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 13.999,
+        "totalTimerTime": 13.999,
+        "totalDistance": 5.67,
+        "avgSpeed": 0.405,
+        "startTime": "2024-03-06T23:35:50.000Z",
+        "maxSpeed": 1.297,
+        "endTime": "2024-03-06T23:36:03.000Z",
+        "totalCalories": 1,
+        "messageIndex": 29,
+        "splitType": "rwdRun"
+      },
+      {
+        "totalElapsedTime": 1,
+        "totalTimerTime": 1,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:36:04.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:36:04.000Z",
+        "totalCalories": 0,
+        "messageIndex": 30,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 1,
+        "totalTimerTime": 1,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:36:05.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:36:05.000Z",
+        "totalCalories": 0,
+        "messageIndex": 31,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 7,
+        "totalTimerTime": 7,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:36:06.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:36:12.000Z",
+        "totalCalories": 1,
+        "messageIndex": 32,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 13,
+        "totalTimerTime": 13,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:36:13.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:36:25.000Z",
+        "totalCalories": 1,
+        "messageIndex": 33,
+        "splitType": "rwdStand"
+      },
+      {
+        "totalElapsedTime": 8,
+        "totalTimerTime": 8,
+        "totalDistance": 4.37,
+        "avgSpeed": 0.546,
+        "startTime": "2024-03-06T23:36:26.000Z",
+        "maxSpeed": 1.138,
+        "endTime": "2024-03-06T23:36:33.000Z",
+        "totalCalories": 1,
+        "messageIndex": 34,
+        "splitType": "rwdWalk"
+      },
+      {
+        "totalElapsedTime": 6,
+        "totalTimerTime": 6,
+        "totalDistance": 3.81,
+        "avgSpeed": 0.635,
+        "startTime": "2024-03-06T23:36:34.000Z",
+        "maxSpeed": 1.334,
+        "endTime": "2024-03-06T23:36:39.000Z",
+        "totalCalories": 1,
+        "messageIndex": 35,
+        "splitType": "rwdRun"
+      },
+      {
+        "totalElapsedTime": 10,
+        "totalTimerTime": 4.794,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "startTime": "2024-03-06T23:36:40.000Z",
+        "maxSpeed": 0,
+        "endTime": "2024-03-06T23:36:45.000Z",
+        "totalCalories": 1,
+        "messageIndex": 36,
+        "splitType": "rwdStand"
+      }
+    ],
+    "splitSummaryMesgs": [
+      {
+        "totalTimerTime": 213.005,
+        "totalDistance": 234.89,
+        "avgSpeed": 1.103,
+        "maxSpeed": 2.146,
+        "totalCalories": 37,
+        "messageIndex": 0,
+        "numSplits": 16,
+        "splitType": "rwdWalk",
+        "avgHeartRate": 121,
+        "maxHeartRate": 152
+      },
+      {
+        "totalTimerTime": 575.997,
+        "totalDistance": 1963.65,
+        "avgSpeed": 3.409,
+        "maxSpeed": 5.113,
+        "totalCalories": 159,
+        "messageIndex": 1,
+        "numSplits": 9,
+        "splitType": "rwdRun",
+        "avgHeartRate": 150,
+        "maxHeartRate": 174
+      },
+      {
+        "totalTimerTime": 102.793,
+        "totalDistance": 0,
+        "avgSpeed": 0,
+        "maxSpeed": 0,
+        "totalCalories": 16,
+        "messageIndex": 2,
+        "numSplits": 12,
+        "splitType": "rwdStand",
+        "avgHeartRate": 116,
+        "maxHeartRate": 135
+      }
+    ],
+    "sessionMesgs": [
+      {
+        "timestamp": "2024-03-06T23:37:37.000Z",
+        "startTime": "2024-03-06T23:21:56.000Z",
+        "totalElapsedTime": 889.859,
+        "totalTimerTime": 889.859,
+        "totalDistance": 2000,
+        "totalCycles": 939,
+        "sportProfileName": "Koşu bandı",
+        "enhancedAvgSpeed": 2.248,
+        "enhancedMaxSpeed": 5.113,
+        "trainingLoadPeak": 48.8587646484375,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 0,
+        "totalCalories": 212,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "firstLapIndex": 0,
+        "numLaps": 3,
+        "event": "lap",
+        "eventType": "stop",
+        "sport": "running",
+        "subSport": "treadmill",
+        "avgHeartRate": 139,
+        "maxHeartRate": 174,
+        "avgCadence": 61,
+        "maxCadence": 121,
+        "totalTrainingEffect": 2.6,
+        "trigger": "activityEnd",
+        "avgTemperature": 25,
+        "maxTemperature": 27,
+        "avgFractionalCadence": 0.46875,
+        "maxFractionalCadence": 0.5,
+        "totalAnaerobicTrainingEffect": 0,
+        "minTemperature": 24,
+        "totalStrides": 939,
+        "avgRunningCadence": 61,
+        "maxRunningCadence": 121
+      }
+    ],
+    "activityMesgs": [
+      {
+        "timestamp": "2024-03-06T23:37:37.000Z",
+        "totalTimerTime": 889.859,
+        "localTimestamp": 1078706257,
+        "numSessions": 1,
+        "type": "manual",
+        "event": "activity",
+        "eventType": "stop"
+      }
+    ]
+  }
+}

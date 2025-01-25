@@ -1,0 +1,2377 @@
+[2025-01-25T18:11:24.552Z] INFO: Reading FIT files from directory: /home/orhan/Dokumente/Garmin/garmin-backend/input
+[2025-01-25T18:11:24.555Z] INFO: Output directory ensured: /home/orhan/Dokumente/Garmin/garmin-backend/output/json
+[2025-01-25T18:11:24.556Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-02-19-18-21-58.fit
+[2025-01-25T18:11:24.625Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:24.625Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:24.626Z] INFO: Message Type: eventMesgs, Count: 41
+[2025-01-25T18:11:24.626Z] INFO: Message Type: deviceInfoMesgs, Count: 84
+[2025-01-25T18:11:24.626Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:24.626Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:24.626Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:24.626Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:24.626Z] INFO: Message Type: recordMesgs, Count: 3656
+[2025-01-25T18:11:24.626Z] INFO: Message Type: lengthMesgs, Count: 146
+[2025-01-25T18:11:24.626Z] INFO: Message Type: lapMesgs, Count: 22
+[2025-01-25T18:11:24.626Z] INFO: Message Type: timeInZoneMesgs, Count: 22
+[2025-01-25T18:11:24.626Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:24.626Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:24.626Z] WARN: No 'record' messages found in file: 2024-02-19-18-21-58.fit
+[2025-01-25T18:11:24.633Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-02-19-18-21-58.json
+[2025-01-25T18:11:24.633Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-02-21-16-51-06.fit
+[2025-01-25T18:11:24.699Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:24.699Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:24.699Z] INFO: Message Type: eventMesgs, Count: 39
+[2025-01-25T18:11:24.699Z] INFO: Message Type: deviceInfoMesgs, Count: 80
+[2025-01-25T18:11:24.699Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:24.699Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:24.699Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:24.699Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:24.699Z] INFO: Message Type: recordMesgs, Count: 3642
+[2025-01-25T18:11:24.699Z] INFO: Message Type: lengthMesgs, Count: 141
+[2025-01-25T18:11:24.699Z] INFO: Message Type: lapMesgs, Count: 19
+[2025-01-25T18:11:24.699Z] INFO: Message Type: timeInZoneMesgs, Count: 20
+[2025-01-25T18:11:24.699Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:24.700Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:24.700Z] WARN: No 'record' messages found in file: 2024-02-21-16-51-06.fit
+[2025-01-25T18:11:24.708Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-02-21-16-51-06.json
+[2025-01-25T18:11:24.709Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-02-27-17-10-41.fit
+[2025-01-25T18:11:24.759Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:24.759Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:24.759Z] INFO: Message Type: eventMesgs, Count: 47
+[2025-01-25T18:11:24.759Z] INFO: Message Type: deviceInfoMesgs, Count: 96
+[2025-01-25T18:11:24.759Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:24.759Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:24.759Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:24.759Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:24.759Z] INFO: Message Type: recordMesgs, Count: 3800
+[2025-01-25T18:11:24.759Z] INFO: Message Type: lengthMesgs, Count: 140
+[2025-01-25T18:11:24.759Z] INFO: Message Type: lapMesgs, Count: 23
+[2025-01-25T18:11:24.759Z] INFO: Message Type: timeInZoneMesgs, Count: 24
+[2025-01-25T18:11:24.759Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:24.759Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:24.760Z] WARN: No 'record' messages found in file: 2024-02-27-17-10-41.fit
+[2025-01-25T18:11:24.766Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-02-27-17-10-41.json
+[2025-01-25T18:11:24.766Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-03-01-17-12-09.fit
+[2025-01-25T18:11:24.822Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:24.823Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:24.823Z] INFO: Message Type: eventMesgs, Count: 35
+[2025-01-25T18:11:24.823Z] INFO: Message Type: deviceInfoMesgs, Count: 72
+[2025-01-25T18:11:24.823Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:24.823Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:24.823Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:24.823Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:24.823Z] INFO: Message Type: recordMesgs, Count: 3925
+[2025-01-25T18:11:24.823Z] INFO: Message Type: lengthMesgs, Count: 146
+[2025-01-25T18:11:24.823Z] INFO: Message Type: lapMesgs, Count: 17
+[2025-01-25T18:11:24.823Z] INFO: Message Type: timeInZoneMesgs, Count: 18
+[2025-01-25T18:11:24.823Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:24.824Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:24.824Z] WARN: No 'record' messages found in file: 2024-03-01-17-12-09.fit
+[2025-01-25T18:11:24.837Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-03-01-17-12-09.json
+[2025-01-25T18:11:24.837Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-03-05-18-05-49.fit
+[2025-01-25T18:11:24.901Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:24.901Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:24.901Z] INFO: Message Type: eventMesgs, Count: 43
+[2025-01-25T18:11:24.901Z] INFO: Message Type: deviceInfoMesgs, Count: 84
+[2025-01-25T18:11:24.901Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:24.901Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:24.901Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:24.901Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:24.901Z] INFO: Message Type: recordMesgs, Count: 3680
+[2025-01-25T18:11:24.901Z] INFO: Message Type: lengthMesgs, Count: 140
+[2025-01-25T18:11:24.901Z] INFO: Message Type: lapMesgs, Count: 20
+[2025-01-25T18:11:24.901Z] INFO: Message Type: timeInZoneMesgs, Count: 21
+[2025-01-25T18:11:24.901Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:24.901Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:24.901Z] WARN: No 'record' messages found in file: 2024-03-05-18-05-49.fit
+[2025-01-25T18:11:24.907Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-03-05-18-05-49.json
+[2025-01-25T18:11:24.907Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-03-07-00-21-56.fit
+[2025-01-25T18:11:24.920Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:24.920Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:24.920Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:24.920Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:24.920Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:24.920Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:24.920Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:24.920Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:24.920Z] INFO: Message Type: recordMesgs, Count: 156
+[2025-01-25T18:11:24.920Z] INFO: Message Type: lapMesgs, Count: 3
+[2025-01-25T18:11:24.920Z] INFO: Message Type: timeInZoneMesgs, Count: 4
+[2025-01-25T18:11:24.920Z] INFO: Message Type: splitMesgs, Count: 37
+[2025-01-25T18:11:24.920Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:24.920Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:24.920Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:24.920Z] WARN: No 'record' messages found in file: 2024-03-07-00-21-56.fit
+[2025-01-25T18:11:24.921Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-03-07-00-21-56.json
+[2025-01-25T18:11:24.921Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-03-08-16-55-22.fit
+[2025-01-25T18:11:24.990Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:24.990Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:24.990Z] INFO: Message Type: eventMesgs, Count: 34
+[2025-01-25T18:11:24.990Z] INFO: Message Type: deviceInfoMesgs, Count: 68
+[2025-01-25T18:11:24.990Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:24.990Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:24.990Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:24.990Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:24.990Z] INFO: Message Type: recordMesgs, Count: 3861
+[2025-01-25T18:11:24.990Z] INFO: Message Type: lengthMesgs, Count: 140
+[2025-01-25T18:11:24.990Z] INFO: Message Type: lapMesgs, Count: 16
+[2025-01-25T18:11:24.990Z] INFO: Message Type: timeInZoneMesgs, Count: 17
+[2025-01-25T18:11:24.990Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:24.990Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:24.990Z] WARN: No 'record' messages found in file: 2024-03-08-16-55-22.fit
+[2025-01-25T18:11:24.998Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-03-08-16-55-22.json
+[2025-01-25T18:11:24.998Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-03-12-17-40-04.fit
+[2025-01-25T18:11:25.050Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.051Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.051Z] INFO: Message Type: eventMesgs, Count: 48
+[2025-01-25T18:11:25.051Z] INFO: Message Type: deviceInfoMesgs, Count: 96
+[2025-01-25T18:11:25.051Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.051Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.051Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.051Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.051Z] INFO: Message Type: recordMesgs, Count: 3838
+[2025-01-25T18:11:25.051Z] INFO: Message Type: lengthMesgs, Count: 151
+[2025-01-25T18:11:25.051Z] INFO: Message Type: lapMesgs, Count: 34
+[2025-01-25T18:11:25.051Z] INFO: Message Type: timeInZoneMesgs, Count: 34
+[2025-01-25T18:11:25.051Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.051Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.051Z] WARN: No 'record' messages found in file: 2024-03-12-17-40-04.fit
+[2025-01-25T18:11:25.058Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-03-12-17-40-04.json
+[2025-01-25T18:11:25.058Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-03-16-17-37-43.fit
+[2025-01-25T18:11:25.110Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.110Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.110Z] INFO: Message Type: eventMesgs, Count: 31
+[2025-01-25T18:11:25.110Z] INFO: Message Type: deviceInfoMesgs, Count: 60
+[2025-01-25T18:11:25.110Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.110Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.110Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.110Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.110Z] INFO: Message Type: recordMesgs, Count: 3615
+[2025-01-25T18:11:25.110Z] INFO: Message Type: lengthMesgs, Count: 140
+[2025-01-25T18:11:25.110Z] INFO: Message Type: lapMesgs, Count: 14
+[2025-01-25T18:11:25.110Z] INFO: Message Type: timeInZoneMesgs, Count: 15
+[2025-01-25T18:11:25.110Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.110Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.110Z] WARN: No 'record' messages found in file: 2024-03-16-17-37-43.fit
+[2025-01-25T18:11:25.116Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-03-16-17-37-43.json
+[2025-01-25T18:11:25.116Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-03-19-15-16-04.fit
+[2025-01-25T18:11:25.154Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.154Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.154Z] INFO: Message Type: eventMesgs, Count: 40
+[2025-01-25T18:11:25.154Z] INFO: Message Type: deviceInfoMesgs, Count: 80
+[2025-01-25T18:11:25.154Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.154Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.154Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.154Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.154Z] INFO: Message Type: recordMesgs, Count: 3629
+[2025-01-25T18:11:25.154Z] INFO: Message Type: lengthMesgs, Count: 142
+[2025-01-25T18:11:25.154Z] INFO: Message Type: lapMesgs, Count: 21
+[2025-01-25T18:11:25.154Z] INFO: Message Type: timeInZoneMesgs, Count: 21
+[2025-01-25T18:11:25.154Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.154Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.154Z] WARN: No 'record' messages found in file: 2024-03-19-15-16-04.fit
+[2025-01-25T18:11:25.161Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-03-19-15-16-04.json
+[2025-01-25T18:11:25.161Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-03-23-18-09-17.fit
+[2025-01-25T18:11:25.207Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.207Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.207Z] INFO: Message Type: eventMesgs, Count: 30
+[2025-01-25T18:11:25.207Z] INFO: Message Type: deviceInfoMesgs, Count: 60
+[2025-01-25T18:11:25.207Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.207Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.207Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.207Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.207Z] INFO: Message Type: recordMesgs, Count: 3671
+[2025-01-25T18:11:25.207Z] INFO: Message Type: lengthMesgs, Count: 140
+[2025-01-25T18:11:25.207Z] INFO: Message Type: lapMesgs, Count: 14
+[2025-01-25T18:11:25.207Z] INFO: Message Type: timeInZoneMesgs, Count: 15
+[2025-01-25T18:11:25.207Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.207Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.208Z] WARN: No 'record' messages found in file: 2024-03-23-18-09-17.fit
+[2025-01-25T18:11:25.216Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-03-23-18-09-17.json
+[2025-01-25T18:11:25.217Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-03-25-15-25-37.fit
+[2025-01-25T18:11:25.234Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.234Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.234Z] INFO: Message Type: eventMesgs, Count: 5
+[2025-01-25T18:11:25.234Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:25.234Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.234Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.234Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.234Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.234Z] INFO: Message Type: recordMesgs, Count: 397
+[2025-01-25T18:11:25.234Z] INFO: Message Type: gpsMetadataMesgs, Count: 1650
+[2025-01-25T18:11:25.234Z] INFO: Message Type: lapMesgs, Count: 4
+[2025-01-25T18:11:25.234Z] INFO: Message Type: timeInZoneMesgs, Count: 5
+[2025-01-25T18:11:25.234Z] INFO: Message Type: splitMesgs, Count: 3
+[2025-01-25T18:11:25.234Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:25.234Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.234Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.234Z] WARN: No 'record' messages found in file: 2024-03-25-15-25-37.fit
+[2025-01-25T18:11:25.237Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-03-25-15-25-37.json
+[2025-01-25T18:11:25.237Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-03-26-16-24-43.fit
+[2025-01-25T18:11:25.275Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.275Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.275Z] INFO: Message Type: eventMesgs, Count: 33
+[2025-01-25T18:11:25.275Z] INFO: Message Type: deviceInfoMesgs, Count: 64
+[2025-01-25T18:11:25.275Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.275Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.275Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.275Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.275Z] INFO: Message Type: recordMesgs, Count: 3742
+[2025-01-25T18:11:25.275Z] INFO: Message Type: lengthMesgs, Count: 140
+[2025-01-25T18:11:25.276Z] INFO: Message Type: lapMesgs, Count: 15
+[2025-01-25T18:11:25.276Z] INFO: Message Type: timeInZoneMesgs, Count: 16
+[2025-01-25T18:11:25.276Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.276Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.276Z] WARN: No 'record' messages found in file: 2024-03-26-16-24-43.fit
+[2025-01-25T18:11:25.282Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-03-26-16-24-43.json
+[2025-01-25T18:11:25.283Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-04-05-17-17-58.fit
+[2025-01-25T18:11:25.347Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.347Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.347Z] INFO: Message Type: eventMesgs, Count: 31
+[2025-01-25T18:11:25.347Z] INFO: Message Type: deviceInfoMesgs, Count: 60
+[2025-01-25T18:11:25.347Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.347Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.347Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.347Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.347Z] INFO: Message Type: recordMesgs, Count: 3721
+[2025-01-25T18:11:25.347Z] INFO: Message Type: lengthMesgs, Count: 140
+[2025-01-25T18:11:25.347Z] INFO: Message Type: lapMesgs, Count: 14
+[2025-01-25T18:11:25.347Z] INFO: Message Type: timeInZoneMesgs, Count: 15
+[2025-01-25T18:11:25.347Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.347Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.347Z] WARN: No 'record' messages found in file: 2024-04-05-17-17-58.fit
+[2025-01-25T18:11:25.355Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-04-05-17-17-58.json
+[2025-01-25T18:11:25.355Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-04-07-16-02-16.fit
+[2025-01-25T18:11:25.392Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.392Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.393Z] INFO: Message Type: eventMesgs, Count: 7
+[2025-01-25T18:11:25.393Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:25.393Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.393Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.393Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.394Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.394Z] INFO: Message Type: recordMesgs, Count: 610
+[2025-01-25T18:11:25.394Z] INFO: Message Type: gpsMetadataMesgs, Count: 4056
+[2025-01-25T18:11:25.394Z] INFO: Message Type: lapMesgs, Count: 7
+[2025-01-25T18:11:25.394Z] INFO: Message Type: timeInZoneMesgs, Count: 8
+[2025-01-25T18:11:25.394Z] INFO: Message Type: splitMesgs, Count: 5
+[2025-01-25T18:11:25.394Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:25.394Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.394Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.394Z] WARN: No 'record' messages found in file: 2024-04-07-16-02-16.fit
+[2025-01-25T18:11:25.400Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-04-07-16-02-16.json
+[2025-01-25T18:11:25.400Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-04-09-17-35-40.fit
+[2025-01-25T18:11:25.452Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.452Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.452Z] INFO: Message Type: eventMesgs, Count: 31
+[2025-01-25T18:11:25.452Z] INFO: Message Type: deviceInfoMesgs, Count: 60
+[2025-01-25T18:11:25.453Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.453Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.453Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.453Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.453Z] INFO: Message Type: recordMesgs, Count: 3623
+[2025-01-25T18:11:25.453Z] INFO: Message Type: lengthMesgs, Count: 329
+[2025-01-25T18:11:25.453Z] INFO: Message Type: lapMesgs, Count: 18
+[2025-01-25T18:11:25.453Z] INFO: Message Type: timeInZoneMesgs, Count: 19
+[2025-01-25T18:11:25.453Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.453Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.453Z] WARN: No 'record' messages found in file: 2024-04-09-17-35-40.fit
+[2025-01-25T18:11:25.460Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-04-09-17-35-40.json
+[2025-01-25T18:11:25.460Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-04-10-17-35-14.fit
+[2025-01-25T18:11:25.491Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.491Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.491Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:25.491Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:25.491Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.492Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.492Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.492Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.492Z] INFO: Message Type: recordMesgs, Count: 793
+[2025-01-25T18:11:25.492Z] INFO: Message Type: gpsMetadataMesgs, Count: 3442
+[2025-01-25T18:11:25.492Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:25.492Z] INFO: Message Type: timeInZoneMesgs, Count: 11
+[2025-01-25T18:11:25.492Z] INFO: Message Type: splitMesgs, Count: 4
+[2025-01-25T18:11:25.493Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:25.493Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.493Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.493Z] WARN: No 'record' messages found in file: 2024-04-10-17-35-14.fit
+[2025-01-25T18:11:25.499Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-04-10-17-35-14.json
+[2025-01-25T18:11:25.499Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-04-14-17-53-29.fit
+[2025-01-25T18:11:25.563Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.563Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.563Z] INFO: Message Type: eventMesgs, Count: 6
+[2025-01-25T18:11:25.563Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:25.563Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.563Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.563Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.563Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.563Z] INFO: Message Type: recordMesgs, Count: 824
+[2025-01-25T18:11:25.563Z] INFO: Message Type: gpsMetadataMesgs, Count: 3904
+[2025-01-25T18:11:25.563Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:25.563Z] INFO: Message Type: timeInZoneMesgs, Count: 11
+[2025-01-25T18:11:25.563Z] INFO: Message Type: splitMesgs, Count: 4
+[2025-01-25T18:11:25.564Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:25.564Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.564Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.564Z] WARN: No 'record' messages found in file: 2024-04-14-17-53-29.fit
+[2025-01-25T18:11:25.574Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-04-14-17-53-29.json
+[2025-01-25T18:11:25.575Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-04-18-16-58-18.fit
+[2025-01-25T18:11:25.628Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.629Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.629Z] INFO: Message Type: eventMesgs, Count: 31
+[2025-01-25T18:11:25.629Z] INFO: Message Type: deviceInfoMesgs, Count: 64
+[2025-01-25T18:11:25.629Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.629Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.629Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.629Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.629Z] INFO: Message Type: recordMesgs, Count: 3707
+[2025-01-25T18:11:25.629Z] INFO: Message Type: lengthMesgs, Count: 141
+[2025-01-25T18:11:25.629Z] INFO: Message Type: lapMesgs, Count: 15
+[2025-01-25T18:11:25.629Z] INFO: Message Type: timeInZoneMesgs, Count: 16
+[2025-01-25T18:11:25.629Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.629Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.629Z] WARN: No 'record' messages found in file: 2024-04-18-16-58-18.fit
+[2025-01-25T18:11:25.635Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-04-18-16-58-18.json
+[2025-01-25T18:11:25.636Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-04-21-17-19-34.fit
+[2025-01-25T18:11:25.699Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.699Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.699Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:25.699Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:25.699Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.699Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.699Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.699Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.699Z] INFO: Message Type: recordMesgs, Count: 882
+[2025-01-25T18:11:25.699Z] INFO: Message Type: gpsMetadataMesgs, Count: 3319
+[2025-01-25T18:11:25.699Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:25.699Z] INFO: Message Type: timeInZoneMesgs, Count: 11
+[2025-01-25T18:11:25.699Z] INFO: Message Type: splitMesgs, Count: 2
+[2025-01-25T18:11:25.699Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:25.699Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.699Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.699Z] WARN: No 'record' messages found in file: 2024-04-21-17-19-34.fit
+[2025-01-25T18:11:25.710Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-04-21-17-19-34.json
+[2025-01-25T18:11:25.710Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-13-16-26-19.fit
+[2025-01-25T18:11:25.740Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.740Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.740Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:25.740Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:25.740Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.740Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.740Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.740Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.741Z] INFO: Message Type: recordMesgs, Count: 418
+[2025-01-25T18:11:25.741Z] INFO: Message Type: gpsMetadataMesgs, Count: 1577
+[2025-01-25T18:11:25.741Z] INFO: Message Type: lapMesgs, Count: 5
+[2025-01-25T18:11:25.741Z] INFO: Message Type: timeInZoneMesgs, Count: 6
+[2025-01-25T18:11:25.741Z] INFO: Message Type: splitMesgs, Count: 8
+[2025-01-25T18:11:25.741Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:25.741Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.741Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.741Z] WARN: No 'record' messages found in file: 2024-07-13-16-26-19.fit
+[2025-01-25T18:11:25.745Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-13-16-26-19.json
+[2025-01-25T18:11:25.745Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-15-19-30-35.fit
+[2025-01-25T18:11:25.788Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.789Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.789Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:25.789Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:25.789Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.789Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.789Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.789Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.789Z] INFO: Message Type: recordMesgs, Count: 588
+[2025-01-25T18:11:25.789Z] INFO: Message Type: gpsMetadataMesgs, Count: 2188
+[2025-01-25T18:11:25.789Z] INFO: Message Type: lapMesgs, Count: 6
+[2025-01-25T18:11:25.789Z] INFO: Message Type: timeInZoneMesgs, Count: 12
+[2025-01-25T18:11:25.789Z] INFO: Message Type: splitMesgs, Count: 5
+[2025-01-25T18:11:25.789Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:25.789Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.789Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.789Z] WARN: No 'record' messages found in file: 2024-07-15-19-30-35.fit
+[2025-01-25T18:11:25.800Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-15-19-30-35.json
+[2025-01-25T18:11:25.800Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-17-17-58-07.fit
+[2025-01-25T18:11:25.840Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.840Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.840Z] INFO: Message Type: eventMesgs, Count: 7
+[2025-01-25T18:11:25.840Z] INFO: Message Type: deviceInfoMesgs, Count: 24
+[2025-01-25T18:11:25.840Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.840Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.840Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.840Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.840Z] INFO: Message Type: recordMesgs, Count: 889
+[2025-01-25T18:11:25.840Z] INFO: Message Type: gpsMetadataMesgs, Count: 3364
+[2025-01-25T18:11:25.840Z] INFO: Message Type: lapMesgs, Count: 9
+[2025-01-25T18:11:25.840Z] INFO: Message Type: timeInZoneMesgs, Count: 37
+[2025-01-25T18:11:25.840Z] INFO: Message Type: splitMesgs, Count: 27
+[2025-01-25T18:11:25.840Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:25.840Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.840Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.840Z] WARN: No 'record' messages found in file: 2024-07-17-17-58-07.fit
+[2025-01-25T18:11:25.850Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-17-17-58-07.json
+[2025-01-25T18:11:25.851Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-19-19-05-26.fit
+[2025-01-25T18:11:25.877Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.877Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.877Z] INFO: Message Type: eventMesgs, Count: 5
+[2025-01-25T18:11:25.877Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:25.877Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.877Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.877Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.877Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.877Z] INFO: Message Type: recordMesgs, Count: 572
+[2025-01-25T18:11:25.878Z] INFO: Message Type: gpsMetadataMesgs, Count: 3637
+[2025-01-25T18:11:25.878Z] INFO: Message Type: lapMesgs, Count: 3
+[2025-01-25T18:11:25.878Z] INFO: Message Type: timeInZoneMesgs, Count: 28
+[2025-01-25T18:11:25.878Z] INFO: Message Type: splitMesgs, Count: 24
+[2025-01-25T18:11:25.878Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:25.878Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.878Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.878Z] WARN: No 'record' messages found in file: 2024-07-19-19-05-26.fit
+[2025-01-25T18:11:25.886Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-19-19-05-26.json
+[2025-01-25T18:11:25.887Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-20-19-45-37.fit
+[2025-01-25T18:11:25.908Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.909Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.909Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:25.909Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:25.909Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.909Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.909Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.909Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.909Z] INFO: Message Type: recordMesgs, Count: 750
+[2025-01-25T18:11:25.909Z] INFO: Message Type: gpsMetadataMesgs, Count: 2724
+[2025-01-25T18:11:25.909Z] INFO: Message Type: lapMesgs, Count: 8
+[2025-01-25T18:11:25.909Z] INFO: Message Type: timeInZoneMesgs, Count: 19
+[2025-01-25T18:11:25.909Z] INFO: Message Type: splitMesgs, Count: 10
+[2025-01-25T18:11:25.909Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:25.909Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.909Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.909Z] WARN: No 'record' messages found in file: 2024-07-20-19-45-37.fit
+[2025-01-25T18:11:25.916Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-20-19-45-37.json
+[2025-01-25T18:11:25.917Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-22-20-39-31.fit
+[2025-01-25T18:11:25.944Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:25.944Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:25.944Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:25.944Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:25.944Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:25.944Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:25.944Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:25.944Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:25.944Z] INFO: Message Type: recordMesgs, Count: 854
+[2025-01-25T18:11:25.944Z] INFO: Message Type: gpsMetadataMesgs, Count: 3116
+[2025-01-25T18:11:25.944Z] INFO: Message Type: lapMesgs, Count: 8
+[2025-01-25T18:11:25.944Z] INFO: Message Type: timeInZoneMesgs, Count: 26
+[2025-01-25T18:11:25.944Z] INFO: Message Type: splitMesgs, Count: 17
+[2025-01-25T18:11:25.944Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:25.944Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:25.944Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:25.944Z] WARN: No 'record' messages found in file: 2024-07-22-20-39-31.fit
+[2025-01-25T18:11:25.952Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-22-20-39-31.json
+[2025-01-25T18:11:25.952Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-23-19-40-14.fit
+[2025-01-25T18:11:26.011Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.012Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.012Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:26.012Z] INFO: Message Type: deviceInfoMesgs, Count: 11
+[2025-01-25T18:11:26.012Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.012Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.012Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.012Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.012Z] INFO: Message Type: recordMesgs, Count: 789
+[2025-01-25T18:11:26.014Z] INFO: Message Type: gpsMetadataMesgs, Count: 2074
+[2025-01-25T18:11:26.014Z] INFO: Message Type: lapMesgs, Count: 3
+[2025-01-25T18:11:26.014Z] INFO: Message Type: timeInZoneMesgs, Count: 4
+[2025-01-25T18:11:26.014Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.014Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.014Z] WARN: No 'record' messages found in file: 2024-07-23-19-40-14.fit
+[2025-01-25T18:11:26.021Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-23-19-40-14.json
+[2025-01-25T18:11:26.022Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-24-19-25-19.fit
+[2025-01-25T18:11:26.068Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.068Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.069Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:26.069Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:26.069Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.069Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.069Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.069Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.069Z] INFO: Message Type: recordMesgs, Count: 628
+[2025-01-25T18:11:26.069Z] INFO: Message Type: gpsMetadataMesgs, Count: 2071
+[2025-01-25T18:11:26.069Z] INFO: Message Type: lapMesgs, Count: 6
+[2025-01-25T18:11:26.069Z] INFO: Message Type: timeInZoneMesgs, Count: 30
+[2025-01-25T18:11:26.069Z] INFO: Message Type: splitMesgs, Count: 23
+[2025-01-25T18:11:26.069Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:26.069Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.069Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.070Z] WARN: No 'record' messages found in file: 2024-07-24-19-25-19.fit
+[2025-01-25T18:11:26.076Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-24-19-25-19.json
+[2025-01-25T18:11:26.077Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-25-16-01-17.fit
+[2025-01-25T18:11:26.122Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.122Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.122Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:26.122Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:26.122Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.122Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.122Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.122Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.123Z] INFO: Message Type: recordMesgs, Count: 501
+[2025-01-25T18:11:26.123Z] INFO: Message Type: gpsMetadataMesgs, Count: 2960
+[2025-01-25T18:11:26.123Z] INFO: Message Type: lapMesgs, Count: 2
+[2025-01-25T18:11:26.123Z] INFO: Message Type: timeInZoneMesgs, Count: 3
+[2025-01-25T18:11:26.123Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.123Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.123Z] WARN: No 'record' messages found in file: 2024-07-25-16-01-17.fit
+[2025-01-25T18:11:26.129Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-25-16-01-17.json
+[2025-01-25T18:11:26.130Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-26-19-10-53.fit
+[2025-01-25T18:11:26.160Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.160Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.160Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:26.161Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:26.161Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.161Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.161Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.161Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.161Z] INFO: Message Type: recordMesgs, Count: 447
+[2025-01-25T18:11:26.161Z] INFO: Message Type: gpsMetadataMesgs, Count: 1872
+[2025-01-25T18:11:26.161Z] INFO: Message Type: lapMesgs, Count: 6
+[2025-01-25T18:11:26.161Z] INFO: Message Type: timeInZoneMesgs, Count: 11
+[2025-01-25T18:11:26.161Z] INFO: Message Type: splitMesgs, Count: 4
+[2025-01-25T18:11:26.161Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:26.161Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.161Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.161Z] WARN: No 'record' messages found in file: 2024-07-26-19-10-53.fit
+[2025-01-25T18:11:26.168Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-26-19-10-53.json
+[2025-01-25T18:11:26.168Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-28-19-30-21.fit
+[2025-01-25T18:11:26.219Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.219Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.219Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:26.219Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:26.219Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.220Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.220Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.220Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.220Z] INFO: Message Type: recordMesgs, Count: 602
+[2025-01-25T18:11:26.220Z] INFO: Message Type: gpsMetadataMesgs, Count: 4896
+[2025-01-25T18:11:26.220Z] INFO: Message Type: lapMesgs, Count: 6
+[2025-01-25T18:11:26.220Z] INFO: Message Type: timeInZoneMesgs, Count: 21
+[2025-01-25T18:11:26.220Z] INFO: Message Type: splitMesgs, Count: 14
+[2025-01-25T18:11:26.220Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:26.220Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.220Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.220Z] WARN: No 'record' messages found in file: 2024-07-28-19-30-21.fit
+[2025-01-25T18:11:26.229Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-28-19-30-21.json
+[2025-01-25T18:11:26.229Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-29-20-08-17.fit
+[2025-01-25T18:11:26.256Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.257Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.257Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:26.257Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:26.257Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.257Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.257Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.257Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.257Z] INFO: Message Type: recordMesgs, Count: 1192
+[2025-01-25T18:11:26.257Z] INFO: Message Type: gpsMetadataMesgs, Count: 2903
+[2025-01-25T18:11:26.257Z] INFO: Message Type: lapMesgs, Count: 4
+[2025-01-25T18:11:26.257Z] INFO: Message Type: timeInZoneMesgs, Count: 5
+[2025-01-25T18:11:26.257Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.257Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.258Z] WARN: No 'record' messages found in file: 2024-07-29-20-08-17.fit
+[2025-01-25T18:11:26.263Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-29-20-08-17.json
+[2025-01-25T18:11:26.263Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-30-17-22-13.fit
+[2025-01-25T18:11:26.287Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.287Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.287Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:26.287Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:26.287Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.287Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.287Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.287Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.287Z] INFO: Message Type: recordMesgs, Count: 407
+[2025-01-25T18:11:26.287Z] INFO: Message Type: gpsMetadataMesgs, Count: 2145
+[2025-01-25T18:11:26.287Z] INFO: Message Type: lapMesgs, Count: 2
+[2025-01-25T18:11:26.287Z] INFO: Message Type: timeInZoneMesgs, Count: 3
+[2025-01-25T18:11:26.287Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.287Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.287Z] WARN: No 'record' messages found in file: 2024-07-30-17-22-13.fit
+[2025-01-25T18:11:26.291Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-30-17-22-13.json
+[2025-01-25T18:11:26.291Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-07-30-18-16-54.fit
+[2025-01-25T18:11:26.358Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.358Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.358Z] INFO: Message Type: eventMesgs, Count: 7
+[2025-01-25T18:11:26.358Z] INFO: Message Type: deviceInfoMesgs, Count: 28
+[2025-01-25T18:11:26.358Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.358Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.358Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.358Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.358Z] INFO: Message Type: recordMesgs, Count: 1052
+[2025-01-25T18:11:26.358Z] INFO: Message Type: gpsMetadataMesgs, Count: 3776
+[2025-01-25T18:11:26.359Z] INFO: Message Type: lapMesgs, Count: 7
+[2025-01-25T18:11:26.359Z] INFO: Message Type: timeInZoneMesgs, Count: 51
+[2025-01-25T18:11:26.359Z] INFO: Message Type: splitMesgs, Count: 43
+[2025-01-25T18:11:26.359Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:26.359Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.359Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.359Z] WARN: No 'record' messages found in file: 2024-07-30-18-16-54.fit
+[2025-01-25T18:11:26.368Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-07-30-18-16-54.json
+[2025-01-25T18:11:26.368Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-02-19-48-23.fit
+[2025-01-25T18:11:26.393Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.393Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.393Z] INFO: Message Type: eventMesgs, Count: 9
+[2025-01-25T18:11:26.393Z] INFO: Message Type: deviceInfoMesgs, Count: 28
+[2025-01-25T18:11:26.393Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.393Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.393Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.393Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.393Z] INFO: Message Type: trainingFileMesgs, Count: 1
+[2025-01-25T18:11:26.393Z] INFO: Message Type: workoutMesgs, Count: 1
+[2025-01-25T18:11:26.393Z] INFO: Message Type: workoutStepMesgs, Count: 1
+[2025-01-25T18:11:26.393Z] INFO: Message Type: recordMesgs, Count: 624
+[2025-01-25T18:11:26.393Z] INFO: Message Type: gpsMetadataMesgs, Count: 2723
+[2025-01-25T18:11:26.393Z] INFO: Message Type: lapMesgs, Count: 7
+[2025-01-25T18:11:26.393Z] INFO: Message Type: timeInZoneMesgs, Count: 20
+[2025-01-25T18:11:26.393Z] INFO: Message Type: splitMesgs, Count: 12
+[2025-01-25T18:11:26.394Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:26.394Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.394Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.394Z] WARN: No 'record' messages found in file: 2024-08-02-19-48-23.fit
+[2025-01-25T18:11:26.402Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-02-19-48-23.json
+[2025-01-25T18:11:26.402Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-04-19-25-19.fit
+[2025-01-25T18:11:26.465Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] INFO: Message Type: eventMesgs, Count: 12
+[2025-01-25T18:11:26.465Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:26.465Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] INFO: Message Type: trainingFileMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] INFO: Message Type: workoutMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] INFO: Message Type: workoutStepMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] INFO: Message Type: recordMesgs, Count: 709
+[2025-01-25T18:11:26.465Z] INFO: Message Type: gpsMetadataMesgs, Count: 8113
+[2025-01-25T18:11:26.465Z] INFO: Message Type: lapMesgs, Count: 8
+[2025-01-25T18:11:26.465Z] INFO: Message Type: timeInZoneMesgs, Count: 22
+[2025-01-25T18:11:26.465Z] INFO: Message Type: splitMesgs, Count: 13
+[2025-01-25T18:11:26.465Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:26.465Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.465Z] WARN: No 'record' messages found in file: 2024-08-04-19-25-19.fit
+[2025-01-25T18:11:26.474Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-04-19-25-19.json
+[2025-01-25T18:11:26.474Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-05-19-54-27.fit
+[2025-01-25T18:11:26.491Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.491Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.491Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:26.492Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:26.492Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.492Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.492Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.492Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.492Z] INFO: Message Type: recordMesgs, Count: 619
+[2025-01-25T18:11:26.492Z] INFO: Message Type: gpsMetadataMesgs, Count: 1600
+[2025-01-25T18:11:26.492Z] INFO: Message Type: lapMesgs, Count: 3
+[2025-01-25T18:11:26.492Z] INFO: Message Type: timeInZoneMesgs, Count: 4
+[2025-01-25T18:11:26.492Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.492Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.492Z] WARN: No 'record' messages found in file: 2024-08-05-19-54-27.fit
+[2025-01-25T18:11:26.497Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-05-19-54-27.json
+[2025-01-25T18:11:26.498Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-06-19-33-08.fit
+[2025-01-25T18:11:26.549Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.549Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.549Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:26.549Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:26.549Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.549Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.549Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.549Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.549Z] INFO: Message Type: recordMesgs, Count: 661
+[2025-01-25T18:11:26.549Z] INFO: Message Type: gpsMetadataMesgs, Count: 3747
+[2025-01-25T18:11:26.549Z] INFO: Message Type: lapMesgs, Count: 7
+[2025-01-25T18:11:26.549Z] INFO: Message Type: timeInZoneMesgs, Count: 24
+[2025-01-25T18:11:26.549Z] INFO: Message Type: splitMesgs, Count: 16
+[2025-01-25T18:11:26.549Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:26.549Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.549Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.549Z] WARN: No 'record' messages found in file: 2024-08-06-19-33-08.fit
+[2025-01-25T18:11:26.558Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-06-19-33-08.json
+[2025-01-25T18:11:26.558Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-09-18-10-20.fit
+[2025-01-25T18:11:26.604Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] INFO: Message Type: eventMesgs, Count: 11
+[2025-01-25T18:11:26.604Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:26.604Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] INFO: Message Type: trainingFileMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] INFO: Message Type: workoutMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] INFO: Message Type: workoutStepMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] INFO: Message Type: recordMesgs, Count: 798
+[2025-01-25T18:11:26.604Z] INFO: Message Type: gpsMetadataMesgs, Count: 2613
+[2025-01-25T18:11:26.604Z] INFO: Message Type: lapMesgs, Count: 8
+[2025-01-25T18:11:26.604Z] INFO: Message Type: timeInZoneMesgs, Count: 27
+[2025-01-25T18:11:26.604Z] INFO: Message Type: splitMesgs, Count: 18
+[2025-01-25T18:11:26.604Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:26.604Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.604Z] WARN: No 'record' messages found in file: 2024-08-09-18-10-20.fit
+[2025-01-25T18:11:26.611Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-09-18-10-20.json
+[2025-01-25T18:11:26.611Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-10-15-13-16.fit
+[2025-01-25T18:11:26.642Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.643Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.643Z] INFO: Message Type: eventMesgs, Count: 19
+[2025-01-25T18:11:26.643Z] INFO: Message Type: deviceInfoMesgs, Count: 36
+[2025-01-25T18:11:26.643Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.643Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.643Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.643Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.643Z] INFO: Message Type: recordMesgs, Count: 1112
+[2025-01-25T18:11:26.643Z] INFO: Message Type: lengthMesgs, Count: 41
+[2025-01-25T18:11:26.643Z] INFO: Message Type: lapMesgs, Count: 8
+[2025-01-25T18:11:26.643Z] INFO: Message Type: timeInZoneMesgs, Count: 9
+[2025-01-25T18:11:26.643Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.643Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.643Z] WARN: No 'record' messages found in file: 2024-08-10-15-13-16.fit
+[2025-01-25T18:11:26.649Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-10-15-13-16.json
+[2025-01-25T18:11:26.649Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-12-20-21-12.fit
+[2025-01-25T18:11:26.694Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] INFO: Message Type: eventMesgs, Count: 14
+[2025-01-25T18:11:26.694Z] INFO: Message Type: deviceInfoMesgs, Count: 28
+[2025-01-25T18:11:26.694Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] INFO: Message Type: trainingFileMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] INFO: Message Type: workoutMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] INFO: Message Type: workoutStepMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] INFO: Message Type: recordMesgs, Count: 603
+[2025-01-25T18:11:26.694Z] INFO: Message Type: gpsMetadataMesgs, Count: 2551
+[2025-01-25T18:11:26.694Z] INFO: Message Type: lapMesgs, Count: 8
+[2025-01-25T18:11:26.694Z] INFO: Message Type: timeInZoneMesgs, Count: 18
+[2025-01-25T18:11:26.694Z] INFO: Message Type: splitMesgs, Count: 9
+[2025-01-25T18:11:26.694Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:26.694Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.694Z] WARN: No 'record' messages found in file: 2024-08-12-20-21-12.fit
+[2025-01-25T18:11:26.701Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-12-20-21-12.json
+[2025-01-25T18:11:26.701Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-13-18-28-41.fit
+[2025-01-25T18:11:26.750Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.751Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.751Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:26.751Z] INFO: Message Type: deviceInfoMesgs, Count: 10
+[2025-01-25T18:11:26.751Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.751Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.751Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.751Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.751Z] INFO: Message Type: recordMesgs, Count: 856
+[2025-01-25T18:11:26.751Z] INFO: Message Type: gpsMetadataMesgs, Count: 5642
+[2025-01-25T18:11:26.751Z] INFO: Message Type: lapMesgs, Count: 3
+[2025-01-25T18:11:26.751Z] INFO: Message Type: timeInZoneMesgs, Count: 4
+[2025-01-25T18:11:26.751Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.751Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.751Z] WARN: No 'record' messages found in file: 2024-08-13-18-28-41.fit
+[2025-01-25T18:11:26.756Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-13-18-28-41.json
+[2025-01-25T18:11:26.756Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-14-18-13-44.fit
+[2025-01-25T18:11:26.789Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.789Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.789Z] INFO: Message Type: eventMesgs, Count: 33
+[2025-01-25T18:11:26.789Z] INFO: Message Type: deviceInfoMesgs, Count: 68
+[2025-01-25T18:11:26.789Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.789Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.789Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.789Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.789Z] INFO: Message Type: recordMesgs, Count: 1913
+[2025-01-25T18:11:26.789Z] INFO: Message Type: lengthMesgs, Count: 71
+[2025-01-25T18:11:26.789Z] INFO: Message Type: lapMesgs, Count: 18
+[2025-01-25T18:11:26.789Z] INFO: Message Type: timeInZoneMesgs, Count: 19
+[2025-01-25T18:11:26.789Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.789Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.789Z] WARN: No 'record' messages found in file: 2024-08-14-18-13-44.fit
+[2025-01-25T18:11:26.792Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-14-18-13-44.json
+[2025-01-25T18:11:26.792Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-15-20-17-00.fit
+[2025-01-25T18:11:26.836Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.836Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.836Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:26.836Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:26.836Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.836Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.836Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.836Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.836Z] INFO: Message Type: recordMesgs, Count: 573
+[2025-01-25T18:11:26.836Z] INFO: Message Type: gpsMetadataMesgs, Count: 2225
+[2025-01-25T18:11:26.836Z] INFO: Message Type: lapMesgs, Count: 7
+[2025-01-25T18:11:26.836Z] INFO: Message Type: timeInZoneMesgs, Count: 26
+[2025-01-25T18:11:26.836Z] INFO: Message Type: splitMesgs, Count: 18
+[2025-01-25T18:11:26.836Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:26.836Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.836Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.836Z] WARN: No 'record' messages found in file: 2024-08-15-20-17-00.fit
+[2025-01-25T18:11:26.844Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-15-20-17-00.json
+[2025-01-25T18:11:26.844Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-16-18-58-02.fit
+[2025-01-25T18:11:26.900Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.900Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.900Z] INFO: Message Type: eventMesgs, Count: 6
+[2025-01-25T18:11:26.900Z] INFO: Message Type: deviceInfoMesgs, Count: 24
+[2025-01-25T18:11:26.900Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.900Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.900Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.900Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.900Z] INFO: Message Type: recordMesgs, Count: 1347
+[2025-01-25T18:11:26.900Z] INFO: Message Type: gpsMetadataMesgs, Count: 3555
+[2025-01-25T18:11:26.900Z] INFO: Message Type: lapMesgs, Count: 5
+[2025-01-25T18:11:26.900Z] INFO: Message Type: timeInZoneMesgs, Count: 6
+[2025-01-25T18:11:26.900Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.900Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.900Z] WARN: No 'record' messages found in file: 2024-08-16-18-58-02.fit
+[2025-01-25T18:11:26.909Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-16-18-58-02.json
+[2025-01-25T18:11:26.909Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-17-17-34-47.fit
+[2025-01-25T18:11:26.954Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:26.954Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:26.954Z] INFO: Message Type: eventMesgs, Count: 28
+[2025-01-25T18:11:26.954Z] INFO: Message Type: deviceInfoMesgs, Count: 60
+[2025-01-25T18:11:26.954Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:26.954Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:26.954Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:26.954Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:26.954Z] INFO: Message Type: recordMesgs, Count: 2284
+[2025-01-25T18:11:26.954Z] INFO: Message Type: lengthMesgs, Count: 84
+[2025-01-25T18:11:26.954Z] INFO: Message Type: lapMesgs, Count: 14
+[2025-01-25T18:11:26.954Z] INFO: Message Type: timeInZoneMesgs, Count: 15
+[2025-01-25T18:11:26.954Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:26.954Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:26.954Z] WARN: No 'record' messages found in file: 2024-08-17-17-34-47.fit
+[2025-01-25T18:11:26.958Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-17-17-34-47.json
+[2025-01-25T18:11:26.958Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-19-17-20-58.fit
+[2025-01-25T18:11:27.000Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.000Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.000Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:27.000Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:27.000Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.000Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.000Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.000Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.000Z] INFO: Message Type: recordMesgs, Count: 763
+[2025-01-25T18:11:27.000Z] INFO: Message Type: gpsMetadataMesgs, Count: 2873
+[2025-01-25T18:11:27.000Z] INFO: Message Type: lapMesgs, Count: 9
+[2025-01-25T18:11:27.000Z] INFO: Message Type: timeInZoneMesgs, Count: 16
+[2025-01-25T18:11:27.000Z] INFO: Message Type: splitMesgs, Count: 6
+[2025-01-25T18:11:27.000Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:27.000Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.000Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.000Z] WARN: No 'record' messages found in file: 2024-08-19-17-20-58.fit
+[2025-01-25T18:11:27.011Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-19-17-20-58.json
+[2025-01-25T18:11:27.011Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-20-18-20-45.fit
+[2025-01-25T18:11:27.051Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.051Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.051Z] INFO: Message Type: eventMesgs, Count: 21
+[2025-01-25T18:11:27.051Z] INFO: Message Type: deviceInfoMesgs, Count: 44
+[2025-01-25T18:11:27.051Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.051Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.051Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.051Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.051Z] INFO: Message Type: recordMesgs, Count: 2335
+[2025-01-25T18:11:27.051Z] INFO: Message Type: lengthMesgs, Count: 85
+[2025-01-25T18:11:27.051Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:27.051Z] INFO: Message Type: timeInZoneMesgs, Count: 11
+[2025-01-25T18:11:27.051Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.051Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.051Z] WARN: No 'record' messages found in file: 2024-08-20-18-20-45.fit
+[2025-01-25T18:11:27.057Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-20-18-20-45.json
+[2025-01-25T18:11:27.057Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-21-18-02-22.fit
+[2025-01-25T18:11:27.103Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.103Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.103Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:27.103Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:27.103Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.103Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.103Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.103Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.103Z] INFO: Message Type: recordMesgs, Count: 1231
+[2025-01-25T18:11:27.103Z] INFO: Message Type: gpsMetadataMesgs, Count: 2928
+[2025-01-25T18:11:27.103Z] INFO: Message Type: lapMesgs, Count: 5
+[2025-01-25T18:11:27.103Z] INFO: Message Type: timeInZoneMesgs, Count: 6
+[2025-01-25T18:11:27.103Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.103Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.103Z] WARN: No 'record' messages found in file: 2024-08-21-18-02-22.fit
+[2025-01-25T18:11:27.111Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-21-18-02-22.json
+[2025-01-25T18:11:27.111Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-22-18-39-14.fit
+[2025-01-25T18:11:27.151Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.151Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.151Z] INFO: Message Type: eventMesgs, Count: 12
+[2025-01-25T18:11:27.151Z] INFO: Message Type: deviceInfoMesgs, Count: 42
+[2025-01-25T18:11:27.151Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.151Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.151Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.151Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.151Z] INFO: Message Type: trainingFileMesgs, Count: 1
+[2025-01-25T18:11:27.151Z] INFO: Message Type: workoutMesgs, Count: 1
+[2025-01-25T18:11:27.151Z] INFO: Message Type: workoutStepMesgs, Count: 3
+[2025-01-25T18:11:27.151Z] INFO: Message Type: recordMesgs, Count: 793
+[2025-01-25T18:11:27.151Z] INFO: Message Type: gpsMetadataMesgs, Count: 3236
+[2025-01-25T18:11:27.151Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:27.151Z] INFO: Message Type: timeInZoneMesgs, Count: 28
+[2025-01-25T18:11:27.151Z] INFO: Message Type: exerciseTitleMesgs, Count: 1
+[2025-01-25T18:11:27.151Z] INFO: Message Type: splitMesgs, Count: 17
+[2025-01-25T18:11:27.152Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:27.152Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.152Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.152Z] WARN: No 'record' messages found in file: 2024-08-22-18-39-14.fit
+[2025-01-25T18:11:27.157Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-22-18-39-14.json
+[2025-01-25T18:11:27.157Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-23-17-51-42.fit
+[2025-01-25T18:11:27.208Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.208Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.208Z] INFO: Message Type: eventMesgs, Count: 26
+[2025-01-25T18:11:27.208Z] INFO: Message Type: deviceInfoMesgs, Count: 56
+[2025-01-25T18:11:27.208Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.208Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.208Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.209Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.209Z] INFO: Message Type: recordMesgs, Count: 2829
+[2025-01-25T18:11:27.209Z] INFO: Message Type: lengthMesgs, Count: 102
+[2025-01-25T18:11:27.209Z] INFO: Message Type: lapMesgs, Count: 13
+[2025-01-25T18:11:27.209Z] INFO: Message Type: timeInZoneMesgs, Count: 14
+[2025-01-25T18:11:27.209Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.209Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.209Z] WARN: No 'record' messages found in file: 2024-08-23-17-51-42.fit
+[2025-01-25T18:11:27.213Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-23-17-51-42.json
+[2025-01-25T18:11:27.213Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-24-19-30-49.fit
+[2025-01-25T18:11:27.238Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.238Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.238Z] INFO: Message Type: eventMesgs, Count: 5
+[2025-01-25T18:11:27.238Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:27.238Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.238Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.238Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.238Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.238Z] INFO: Message Type: recordMesgs, Count: 625
+[2025-01-25T18:11:27.238Z] INFO: Message Type: gpsMetadataMesgs, Count: 2139
+[2025-01-25T18:11:27.238Z] INFO: Message Type: lapMesgs, Count: 6
+[2025-01-25T18:11:27.238Z] INFO: Message Type: timeInZoneMesgs, Count: 14
+[2025-01-25T18:11:27.238Z] INFO: Message Type: splitMesgs, Count: 7
+[2025-01-25T18:11:27.238Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:27.238Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.238Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.238Z] WARN: No 'record' messages found in file: 2024-08-24-19-30-49.fit
+[2025-01-25T18:11:27.242Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-24-19-30-49.json
+[2025-01-25T18:11:27.242Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-25-14-26-42.fit
+[2025-01-25T18:11:27.301Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.301Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.302Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:27.302Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:27.302Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.302Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.302Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.302Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.302Z] INFO: Message Type: recordMesgs, Count: 2979
+[2025-01-25T18:11:27.302Z] INFO: Message Type: gpsMetadataMesgs, Count: 7425
+[2025-01-25T18:11:27.302Z] INFO: Message Type: lapMesgs, Count: 5
+[2025-01-25T18:11:27.302Z] INFO: Message Type: timeInZoneMesgs, Count: 6
+[2025-01-25T18:11:27.302Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.302Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.302Z] WARN: No 'record' messages found in file: 2024-08-25-14-26-42.fit
+[2025-01-25T18:11:27.317Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-25-14-26-42.json
+[2025-01-25T18:11:27.317Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-26-18-29-32.fit
+[2025-01-25T18:11:27.375Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.375Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.375Z] INFO: Message Type: eventMesgs, Count: 32
+[2025-01-25T18:11:27.375Z] INFO: Message Type: deviceInfoMesgs, Count: 68
+[2025-01-25T18:11:27.375Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.375Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.375Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.375Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.375Z] INFO: Message Type: recordMesgs, Count: 2828
+[2025-01-25T18:11:27.375Z] INFO: Message Type: lengthMesgs, Count: 111
+[2025-01-25T18:11:27.375Z] INFO: Message Type: lapMesgs, Count: 18
+[2025-01-25T18:11:27.375Z] INFO: Message Type: timeInZoneMesgs, Count: 18
+[2025-01-25T18:11:27.375Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.375Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.375Z] WARN: No 'record' messages found in file: 2024-08-26-18-29-32.fit
+[2025-01-25T18:11:27.383Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-26-18-29-32.json
+[2025-01-25T18:11:27.383Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-27-19-05-06.fit
+[2025-01-25T18:11:27.433Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.433Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.433Z] INFO: Message Type: eventMesgs, Count: 10
+[2025-01-25T18:11:27.433Z] INFO: Message Type: deviceInfoMesgs, Count: 36
+[2025-01-25T18:11:27.433Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.433Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.433Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.433Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.433Z] INFO: Message Type: recordMesgs, Count: 638
+[2025-01-25T18:11:27.433Z] INFO: Message Type: gpsMetadataMesgs, Count: 2398
+[2025-01-25T18:11:27.433Z] INFO: Message Type: lapMesgs, Count: 7
+[2025-01-25T18:11:27.433Z] INFO: Message Type: timeInZoneMesgs, Count: 21
+[2025-01-25T18:11:27.434Z] INFO: Message Type: splitMesgs, Count: 13
+[2025-01-25T18:11:27.434Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:27.434Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.434Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.434Z] WARN: No 'record' messages found in file: 2024-08-27-19-05-06.fit
+[2025-01-25T18:11:27.442Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-27-19-05-06.json
+[2025-01-25T18:11:27.443Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-28-19-30-05.fit
+[2025-01-25T18:11:27.501Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.501Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.501Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:27.501Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:27.501Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.501Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.501Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.502Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.502Z] INFO: Message Type: recordMesgs, Count: 1269
+[2025-01-25T18:11:27.502Z] INFO: Message Type: gpsMetadataMesgs, Count: 3161
+[2025-01-25T18:11:27.502Z] INFO: Message Type: lapMesgs, Count: 5
+[2025-01-25T18:11:27.502Z] INFO: Message Type: timeInZoneMesgs, Count: 6
+[2025-01-25T18:11:27.502Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.502Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.502Z] WARN: No 'record' messages found in file: 2024-08-28-19-30-05.fit
+[2025-01-25T18:11:27.513Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-28-19-30-05.json
+[2025-01-25T18:11:27.514Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-30-19-27-42.fit
+[2025-01-25T18:11:27.572Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.573Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.573Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:27.573Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:27.573Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.573Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.573Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.573Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.573Z] INFO: Message Type: recordMesgs, Count: 664
+[2025-01-25T18:11:27.573Z] INFO: Message Type: gpsMetadataMesgs, Count: 3103
+[2025-01-25T18:11:27.573Z] INFO: Message Type: lapMesgs, Count: 9
+[2025-01-25T18:11:27.573Z] INFO: Message Type: timeInZoneMesgs, Count: 15
+[2025-01-25T18:11:27.573Z] INFO: Message Type: splitMesgs, Count: 5
+[2025-01-25T18:11:27.573Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:27.573Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.573Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.573Z] WARN: No 'record' messages found in file: 2024-08-30-19-27-42.fit
+[2025-01-25T18:11:27.594Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-30-19-27-42.json
+[2025-01-25T18:11:27.594Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-08-31-18-27-09.fit
+[2025-01-25T18:11:27.676Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.676Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.676Z] INFO: Message Type: eventMesgs, Count: 7
+[2025-01-25T18:11:27.676Z] INFO: Message Type: deviceInfoMesgs, Count: 22
+[2025-01-25T18:11:27.677Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.677Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.677Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.677Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.677Z] INFO: Message Type: recordMesgs, Count: 1407
+[2025-01-25T18:11:27.677Z] INFO: Message Type: gpsMetadataMesgs, Count: 3533
+[2025-01-25T18:11:27.677Z] INFO: Message Type: lapMesgs, Count: 5
+[2025-01-25T18:11:27.677Z] INFO: Message Type: timeInZoneMesgs, Count: 6
+[2025-01-25T18:11:27.677Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.677Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.678Z] WARN: No 'record' messages found in file: 2024-08-31-18-27-09.fit
+[2025-01-25T18:11:27.689Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-08-31-18-27-09.json
+[2025-01-25T18:11:27.689Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-01-18-51-38.fit
+[2025-01-25T18:11:27.808Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] INFO: Message Type: eventMesgs, Count: 10
+[2025-01-25T18:11:27.808Z] INFO: Message Type: deviceInfoMesgs, Count: 30
+[2025-01-25T18:11:27.808Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] INFO: Message Type: trainingFileMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] INFO: Message Type: workoutMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] INFO: Message Type: workoutStepMesgs, Count: 3
+[2025-01-25T18:11:27.808Z] INFO: Message Type: recordMesgs, Count: 896
+[2025-01-25T18:11:27.808Z] INFO: Message Type: gpsMetadataMesgs, Count: 8469
+[2025-01-25T18:11:27.808Z] INFO: Message Type: lapMesgs, Count: 11
+[2025-01-25T18:11:27.808Z] INFO: Message Type: timeInZoneMesgs, Count: 26
+[2025-01-25T18:11:27.808Z] INFO: Message Type: exerciseTitleMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] INFO: Message Type: splitMesgs, Count: 14
+[2025-01-25T18:11:27.808Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:27.808Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.808Z] WARN: No 'record' messages found in file: 2024-09-01-18-51-38.fit
+[2025-01-25T18:11:27.821Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-01-18-51-38.json
+[2025-01-25T18:11:27.821Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-02-18-42-20.fit
+[2025-01-25T18:11:27.857Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.857Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.857Z] INFO: Message Type: eventMesgs, Count: 26
+[2025-01-25T18:11:27.857Z] INFO: Message Type: deviceInfoMesgs, Count: 56
+[2025-01-25T18:11:27.857Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.857Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.857Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.857Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.857Z] INFO: Message Type: recordMesgs, Count: 3466
+[2025-01-25T18:11:27.857Z] INFO: Message Type: lengthMesgs, Count: 129
+[2025-01-25T18:11:27.857Z] INFO: Message Type: lapMesgs, Count: 13
+[2025-01-25T18:11:27.857Z] INFO: Message Type: timeInZoneMesgs, Count: 14
+[2025-01-25T18:11:27.857Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.857Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.857Z] WARN: No 'record' messages found in file: 2024-09-02-18-42-20.fit
+[2025-01-25T18:11:27.865Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-02-18-42-20.json
+[2025-01-25T18:11:27.866Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-04-19-03-08.fit
+[2025-01-25T18:11:27.920Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.920Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.920Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:27.920Z] INFO: Message Type: deviceInfoMesgs, Count: 10
+[2025-01-25T18:11:27.920Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.920Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.920Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.920Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.920Z] INFO: Message Type: recordMesgs, Count: 1264
+[2025-01-25T18:11:27.920Z] INFO: Message Type: gpsMetadataMesgs, Count: 3354
+[2025-01-25T18:11:27.920Z] INFO: Message Type: lapMesgs, Count: 5
+[2025-01-25T18:11:27.920Z] INFO: Message Type: timeInZoneMesgs, Count: 6
+[2025-01-25T18:11:27.920Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.920Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.920Z] WARN: No 'record' messages found in file: 2024-09-04-19-03-08.fit
+[2025-01-25T18:11:27.933Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-04-19-03-08.json
+[2025-01-25T18:11:27.934Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-05-18-06-04.fit
+[2025-01-25T18:11:27.975Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:27.975Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:27.975Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:27.975Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:27.975Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:27.975Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:27.976Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:27.976Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:27.976Z] INFO: Message Type: recordMesgs, Count: 798
+[2025-01-25T18:11:27.976Z] INFO: Message Type: gpsMetadataMesgs, Count: 2845
+[2025-01-25T18:11:27.976Z] INFO: Message Type: lapMesgs, Count: 9
+[2025-01-25T18:11:27.976Z] INFO: Message Type: timeInZoneMesgs, Count: 27
+[2025-01-25T18:11:27.976Z] INFO: Message Type: splitMesgs, Count: 17
+[2025-01-25T18:11:27.976Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:27.976Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:27.976Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:27.976Z] WARN: No 'record' messages found in file: 2024-09-05-18-06-04.fit
+[2025-01-25T18:11:27.987Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-05-18-06-04.json
+[2025-01-25T18:11:27.987Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-06-18-19-47.fit
+[2025-01-25T18:11:28.061Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.061Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.061Z] INFO: Message Type: eventMesgs, Count: 31
+[2025-01-25T18:11:28.061Z] INFO: Message Type: deviceInfoMesgs, Count: 64
+[2025-01-25T18:11:28.061Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.061Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.061Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.061Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.061Z] INFO: Message Type: recordMesgs, Count: 3568
+[2025-01-25T18:11:28.061Z] INFO: Message Type: lengthMesgs, Count: 134
+[2025-01-25T18:11:28.061Z] INFO: Message Type: lapMesgs, Count: 17
+[2025-01-25T18:11:28.061Z] INFO: Message Type: timeInZoneMesgs, Count: 17
+[2025-01-25T18:11:28.061Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.061Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.061Z] WARN: No 'record' messages found in file: 2024-09-06-18-19-47.fit
+[2025-01-25T18:11:28.073Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-06-18-19-47.json
+[2025-01-25T18:11:28.073Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-07-18-17-47.fit
+[2025-01-25T18:11:28.129Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.129Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.129Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:28.129Z] INFO: Message Type: deviceInfoMesgs, Count: 15
+[2025-01-25T18:11:28.129Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.129Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.129Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.129Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.129Z] INFO: Message Type: recordMesgs, Count: 1404
+[2025-01-25T18:11:28.129Z] INFO: Message Type: gpsMetadataMesgs, Count: 3510
+[2025-01-25T18:11:28.129Z] INFO: Message Type: lapMesgs, Count: 5
+[2025-01-25T18:11:28.129Z] INFO: Message Type: timeInZoneMesgs, Count: 6
+[2025-01-25T18:11:28.129Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.129Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.129Z] WARN: No 'record' messages found in file: 2024-09-07-18-17-47.fit
+[2025-01-25T18:11:28.139Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-07-18-17-47.json
+[2025-01-25T18:11:28.139Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-08-18-07-44.fit
+[2025-01-25T18:11:28.188Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:28.188Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:28.188Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] INFO: Message Type: trainingFileMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] INFO: Message Type: workoutMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] INFO: Message Type: workoutStepMesgs, Count: 3
+[2025-01-25T18:11:28.188Z] INFO: Message Type: recordMesgs, Count: 833
+[2025-01-25T18:11:28.188Z] INFO: Message Type: gpsMetadataMesgs, Count: 3026
+[2025-01-25T18:11:28.188Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:28.188Z] INFO: Message Type: timeInZoneMesgs, Count: 18
+[2025-01-25T18:11:28.188Z] INFO: Message Type: exerciseTitleMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] INFO: Message Type: splitMesgs, Count: 7
+[2025-01-25T18:11:28.188Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:28.188Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.188Z] WARN: No 'record' messages found in file: 2024-09-08-18-07-44.fit
+[2025-01-25T18:11:28.195Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-08-18-07-44.json
+[2025-01-25T18:11:28.195Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-09-17-35-40.fit
+[2025-01-25T18:11:28.229Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.229Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.229Z] INFO: Message Type: eventMesgs, Count: 28
+[2025-01-25T18:11:28.229Z] INFO: Message Type: deviceInfoMesgs, Count: 56
+[2025-01-25T18:11:28.229Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.229Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.229Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.229Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.229Z] INFO: Message Type: recordMesgs, Count: 2580
+[2025-01-25T18:11:28.229Z] INFO: Message Type: lengthMesgs, Count: 94
+[2025-01-25T18:11:28.229Z] INFO: Message Type: lapMesgs, Count: 13
+[2025-01-25T18:11:28.229Z] INFO: Message Type: timeInZoneMesgs, Count: 14
+[2025-01-25T18:11:28.229Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.229Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.229Z] WARN: No 'record' messages found in file: 2024-09-09-17-35-40.fit
+[2025-01-25T18:11:28.239Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-09-17-35-40.json
+[2025-01-25T18:11:28.240Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-10-18-21-58.fit
+[2025-01-25T18:11:28.284Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.284Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.284Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:28.284Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:28.284Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.284Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.285Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.285Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.285Z] INFO: Message Type: recordMesgs, Count: 724
+[2025-01-25T18:11:28.285Z] INFO: Message Type: gpsMetadataMesgs, Count: 2719
+[2025-01-25T18:11:28.285Z] INFO: Message Type: lapMesgs, Count: 9
+[2025-01-25T18:11:28.285Z] INFO: Message Type: timeInZoneMesgs, Count: 18
+[2025-01-25T18:11:28.285Z] INFO: Message Type: splitMesgs, Count: 8
+[2025-01-25T18:11:28.285Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:28.285Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.285Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.285Z] WARN: No 'record' messages found in file: 2024-09-10-18-21-58.fit
+[2025-01-25T18:11:28.291Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-10-18-21-58.json
+[2025-01-25T18:11:28.291Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-11-18-57-05.fit
+[2025-01-25T18:11:28.300Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.300Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.300Z] INFO: Message Type: eventMesgs, Count: 8
+[2025-01-25T18:11:28.300Z] INFO: Message Type: deviceInfoMesgs, Count: 25
+[2025-01-25T18:11:28.300Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.300Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.300Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.300Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.300Z] INFO: Message Type: recordMesgs, Count: 387
+[2025-01-25T18:11:28.300Z] INFO: Message Type: lapMesgs, Count: 1
+[2025-01-25T18:11:28.300Z] INFO: Message Type: timeInZoneMesgs, Count: 2
+[2025-01-25T18:11:28.300Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.300Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.301Z] WARN: No 'record' messages found in file: 2024-09-11-18-57-05.fit
+[2025-01-25T18:11:28.303Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-11-18-57-05.json
+[2025-01-25T18:11:28.304Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-12-19-10-09.fit
+[2025-01-25T18:11:28.343Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.343Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.343Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:28.343Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:28.343Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.343Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.343Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.343Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.343Z] INFO: Message Type: recordMesgs, Count: 538
+[2025-01-25T18:11:28.343Z] INFO: Message Type: gpsMetadataMesgs, Count: 1969
+[2025-01-25T18:11:28.343Z] INFO: Message Type: lapMesgs, Count: 19
+[2025-01-25T18:11:28.343Z] INFO: Message Type: timeInZoneMesgs, Count: 31
+[2025-01-25T18:11:28.343Z] INFO: Message Type: splitMesgs, Count: 11
+[2025-01-25T18:11:28.343Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:28.343Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.343Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.343Z] WARN: No 'record' messages found in file: 2024-09-12-19-10-09.fit
+[2025-01-25T18:11:28.353Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-12-19-10-09.json
+[2025-01-25T18:11:28.353Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-13-18-42-51.fit
+[2025-01-25T18:11:28.394Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.394Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.394Z] INFO: Message Type: eventMesgs, Count: 30
+[2025-01-25T18:11:28.394Z] INFO: Message Type: deviceInfoMesgs, Count: 64
+[2025-01-25T18:11:28.394Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.394Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.394Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.394Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.394Z] INFO: Message Type: recordMesgs, Count: 3606
+[2025-01-25T18:11:28.394Z] INFO: Message Type: lengthMesgs, Count: 136
+[2025-01-25T18:11:28.394Z] INFO: Message Type: lapMesgs, Count: 15
+[2025-01-25T18:11:28.394Z] INFO: Message Type: timeInZoneMesgs, Count: 16
+[2025-01-25T18:11:28.394Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.394Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.394Z] WARN: No 'record' messages found in file: 2024-09-13-18-42-51.fit
+[2025-01-25T18:11:28.402Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-13-18-42-51.json
+[2025-01-25T18:11:28.403Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-14-19-54-24.fit
+[2025-01-25T18:11:28.424Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.424Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.424Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:28.424Z] INFO: Message Type: deviceInfoMesgs, Count: 10
+[2025-01-25T18:11:28.424Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.424Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.424Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.424Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.424Z] INFO: Message Type: recordMesgs, Count: 891
+[2025-01-25T18:11:28.424Z] INFO: Message Type: lapMesgs, Count: 1
+[2025-01-25T18:11:28.424Z] INFO: Message Type: timeInZoneMesgs, Count: 2
+[2025-01-25T18:11:28.424Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.424Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.424Z] WARN: No 'record' messages found in file: 2024-09-14-19-54-24.fit
+[2025-01-25T18:11:28.427Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-14-19-54-24.json
+[2025-01-25T18:11:28.427Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-15-17-25-19.fit
+[2025-01-25T18:11:28.490Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.491Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.491Z] INFO: Message Type: eventMesgs, Count: 8
+[2025-01-25T18:11:28.491Z] INFO: Message Type: deviceInfoMesgs, Count: 30
+[2025-01-25T18:11:28.491Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.491Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.491Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.491Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.491Z] INFO: Message Type: recordMesgs, Count: 933
+[2025-01-25T18:11:28.491Z] INFO: Message Type: gpsMetadataMesgs, Count: 3542
+[2025-01-25T18:11:28.491Z] INFO: Message Type: lapMesgs, Count: 12
+[2025-01-25T18:11:28.491Z] INFO: Message Type: timeInZoneMesgs, Count: 26
+[2025-01-25T18:11:28.491Z] INFO: Message Type: splitMesgs, Count: 13
+[2025-01-25T18:11:28.491Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:28.491Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.491Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.491Z] WARN: No 'record' messages found in file: 2024-09-15-17-25-19.fit
+[2025-01-25T18:11:28.499Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-15-17-25-19.json
+[2025-01-25T18:11:28.499Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-16-17-50-11.fit
+[2025-01-25T18:11:28.518Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.519Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.519Z] INFO: Message Type: eventMesgs, Count: 22
+[2025-01-25T18:11:28.519Z] INFO: Message Type: deviceInfoMesgs, Count: 44
+[2025-01-25T18:11:28.519Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.519Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.519Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.519Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.519Z] INFO: Message Type: recordMesgs, Count: 1079
+[2025-01-25T18:11:28.519Z] INFO: Message Type: lengthMesgs, Count: 45
+[2025-01-25T18:11:28.519Z] INFO: Message Type: lapMesgs, Count: 13
+[2025-01-25T18:11:28.519Z] INFO: Message Type: timeInZoneMesgs, Count: 12
+[2025-01-25T18:11:28.519Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.519Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.519Z] WARN: No 'record' messages found in file: 2024-09-16-17-50-11.fit
+[2025-01-25T18:11:28.523Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-16-17-50-11.json
+[2025-01-25T18:11:28.523Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-17-16-41-54.fit
+[2025-01-25T18:11:28.531Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.531Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.531Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:28.531Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:28.531Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.531Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.531Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.532Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.532Z] INFO: Message Type: recordMesgs, Count: 291
+[2025-01-25T18:11:28.532Z] INFO: Message Type: gpsMetadataMesgs, Count: 695
+[2025-01-25T18:11:28.532Z] INFO: Message Type: lapMesgs, Count: 2
+[2025-01-25T18:11:28.532Z] INFO: Message Type: timeInZoneMesgs, Count: 3
+[2025-01-25T18:11:28.532Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.532Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.532Z] WARN: No 'record' messages found in file: 2024-09-17-16-41-54.fit
+[2025-01-25T18:11:28.537Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-17-16-41-54.json
+[2025-01-25T18:11:28.537Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-18-18-49-04.fit
+[2025-01-25T18:11:28.600Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.600Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.600Z] INFO: Message Type: eventMesgs, Count: 6
+[2025-01-25T18:11:28.600Z] INFO: Message Type: deviceInfoMesgs, Count: 24
+[2025-01-25T18:11:28.600Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.600Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.600Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.600Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.600Z] INFO: Message Type: recordMesgs, Count: 684
+[2025-01-25T18:11:28.600Z] INFO: Message Type: gpsMetadataMesgs, Count: 2778
+[2025-01-25T18:11:28.600Z] INFO: Message Type: lapMesgs, Count: 9
+[2025-01-25T18:11:28.600Z] INFO: Message Type: timeInZoneMesgs, Count: 19
+[2025-01-25T18:11:28.600Z] INFO: Message Type: splitMesgs, Count: 9
+[2025-01-25T18:11:28.600Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:28.600Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.600Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.600Z] WARN: No 'record' messages found in file: 2024-09-18-18-49-04.fit
+[2025-01-25T18:11:28.608Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-18-18-49-04.json
+[2025-01-25T18:11:28.608Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-19-16-52-16.fit
+[2025-01-25T18:11:28.625Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.625Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.625Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:28.625Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:28.625Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.625Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.626Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.626Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.626Z] INFO: Message Type: recordMesgs, Count: 466
+[2025-01-25T18:11:28.626Z] INFO: Message Type: gpsMetadataMesgs, Count: 1159
+[2025-01-25T18:11:28.626Z] INFO: Message Type: lapMesgs, Count: 2
+[2025-01-25T18:11:28.626Z] INFO: Message Type: timeInZoneMesgs, Count: 3
+[2025-01-25T18:11:28.626Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.626Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.626Z] WARN: No 'record' messages found in file: 2024-09-19-16-52-16.fit
+[2025-01-25T18:11:28.630Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-19-16-52-16.json
+[2025-01-25T18:11:28.631Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-19-17-39-02.fit
+[2025-01-25T18:11:28.695Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.696Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.696Z] INFO: Message Type: eventMesgs, Count: 6
+[2025-01-25T18:11:28.696Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:28.696Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.696Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.696Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.696Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.696Z] INFO: Message Type: recordMesgs, Count: 721
+[2025-01-25T18:11:28.696Z] INFO: Message Type: gpsMetadataMesgs, Count: 5404
+[2025-01-25T18:11:28.696Z] INFO: Message Type: lapMesgs, Count: 3
+[2025-01-25T18:11:28.696Z] INFO: Message Type: timeInZoneMesgs, Count: 4
+[2025-01-25T18:11:28.696Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.696Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.696Z] WARN: No 'record' messages found in file: 2024-09-19-17-39-02.fit
+[2025-01-25T18:11:28.704Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-19-17-39-02.json
+[2025-01-25T18:11:28.704Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-21-15-35-26.fit
+[2025-01-25T18:11:28.752Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.752Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.752Z] INFO: Message Type: eventMesgs, Count: 23
+[2025-01-25T18:11:28.752Z] INFO: Message Type: deviceInfoMesgs, Count: 48
+[2025-01-25T18:11:28.752Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.752Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.752Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.752Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.752Z] INFO: Message Type: recordMesgs, Count: 3103
+[2025-01-25T18:11:28.752Z] INFO: Message Type: lengthMesgs, Count: 123
+[2025-01-25T18:11:28.752Z] INFO: Message Type: lapMesgs, Count: 13
+[2025-01-25T18:11:28.752Z] INFO: Message Type: timeInZoneMesgs, Count: 14
+[2025-01-25T18:11:28.752Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.752Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.752Z] WARN: No 'record' messages found in file: 2024-09-21-15-35-26.fit
+[2025-01-25T18:11:28.758Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-21-15-35-26.json
+[2025-01-25T18:11:28.758Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-22-18-10-41.fit
+[2025-01-25T18:11:28.811Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.812Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.812Z] INFO: Message Type: eventMesgs, Count: 8
+[2025-01-25T18:11:28.812Z] INFO: Message Type: deviceInfoMesgs, Count: 28
+[2025-01-25T18:11:28.812Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.812Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.812Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.812Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.812Z] INFO: Message Type: trainingFileMesgs, Count: 1
+[2025-01-25T18:11:28.812Z] INFO: Message Type: workoutMesgs, Count: 1
+[2025-01-25T18:11:28.812Z] INFO: Message Type: workoutStepMesgs, Count: 13
+[2025-01-25T18:11:28.812Z] INFO: Message Type: recordMesgs, Count: 751
+[2025-01-25T18:11:28.812Z] INFO: Message Type: gpsMetadataMesgs, Count: 2718
+[2025-01-25T18:11:28.812Z] INFO: Message Type: lapMesgs, Count: 32
+[2025-01-25T18:11:28.812Z] INFO: Message Type: timeInZoneMesgs, Count: 53
+[2025-01-25T18:11:28.812Z] INFO: Message Type: exerciseTitleMesgs, Count: 1
+[2025-01-25T18:11:28.812Z] INFO: Message Type: splitMesgs, Count: 20
+[2025-01-25T18:11:28.812Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:28.813Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.813Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.813Z] WARN: No 'record' messages found in file: 2024-09-22-18-10-41.fit
+[2025-01-25T18:11:28.823Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-22-18-10-41.json
+[2025-01-25T18:11:28.823Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-23-17-18-15.fit
+[2025-01-25T18:11:28.861Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.861Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.861Z] INFO: Message Type: eventMesgs, Count: 7
+[2025-01-25T18:11:28.861Z] INFO: Message Type: deviceInfoMesgs, Count: 24
+[2025-01-25T18:11:28.861Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.861Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.861Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.861Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.861Z] INFO: Message Type: recordMesgs, Count: 1769
+[2025-01-25T18:11:28.861Z] INFO: Message Type: gpsMetadataMesgs, Count: 4998
+[2025-01-25T18:11:28.861Z] INFO: Message Type: lapMesgs, Count: 7
+[2025-01-25T18:11:28.861Z] INFO: Message Type: timeInZoneMesgs, Count: 8
+[2025-01-25T18:11:28.861Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.861Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.861Z] WARN: No 'record' messages found in file: 2024-09-23-17-18-15.fit
+[2025-01-25T18:11:28.870Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-23-17-18-15.json
+[2025-01-25T18:11:28.870Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-24-18-15-53.fit
+[2025-01-25T18:11:28.915Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.915Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.915Z] INFO: Message Type: eventMesgs, Count: 44
+[2025-01-25T18:11:28.915Z] INFO: Message Type: deviceInfoMesgs, Count: 92
+[2025-01-25T18:11:28.915Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.916Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.916Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.916Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.916Z] INFO: Message Type: recordMesgs, Count: 2951
+[2025-01-25T18:11:28.916Z] INFO: Message Type: lengthMesgs, Count: 122
+[2025-01-25T18:11:28.916Z] INFO: Message Type: lapMesgs, Count: 23
+[2025-01-25T18:11:28.916Z] INFO: Message Type: timeInZoneMesgs, Count: 24
+[2025-01-25T18:11:28.916Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.916Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.916Z] WARN: No 'record' messages found in file: 2024-09-24-18-15-53.fit
+[2025-01-25T18:11:28.923Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-24-18-15-53.json
+[2025-01-25T18:11:28.923Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-25-18-25-48.fit
+[2025-01-25T18:11:28.946Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.946Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.946Z] INFO: Message Type: eventMesgs, Count: 5
+[2025-01-25T18:11:28.946Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:28.946Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.946Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.946Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.946Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.946Z] INFO: Message Type: recordMesgs, Count: 700
+[2025-01-25T18:11:28.946Z] INFO: Message Type: gpsMetadataMesgs, Count: 2703
+[2025-01-25T18:11:28.946Z] INFO: Message Type: lapMesgs, Count: 9
+[2025-01-25T18:11:28.946Z] INFO: Message Type: timeInZoneMesgs, Count: 30
+[2025-01-25T18:11:28.946Z] INFO: Message Type: splitMesgs, Count: 20
+[2025-01-25T18:11:28.946Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:28.946Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.946Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.946Z] WARN: No 'record' messages found in file: 2024-09-25-18-25-48.fit
+[2025-01-25T18:11:28.954Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-25-18-25-48.json
+[2025-01-25T18:11:28.954Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-26-18-39-57.fit
+[2025-01-25T18:11:28.966Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:28.966Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:28.966Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:28.967Z] INFO: Message Type: deviceInfoMesgs, Count: 10
+[2025-01-25T18:11:28.967Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:28.967Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:28.967Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:28.967Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:28.967Z] INFO: Message Type: recordMesgs, Count: 1005
+[2025-01-25T18:11:28.967Z] INFO: Message Type: lapMesgs, Count: 1
+[2025-01-25T18:11:28.967Z] INFO: Message Type: timeInZoneMesgs, Count: 2
+[2025-01-25T18:11:28.967Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:28.967Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:28.967Z] WARN: No 'record' messages found in file: 2024-09-26-18-39-57.fit
+[2025-01-25T18:11:28.972Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-26-18-39-57.json
+[2025-01-25T18:11:28.973Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-27-17-49-24.fit
+[2025-01-25T18:11:29.023Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.023Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.023Z] INFO: Message Type: eventMesgs, Count: 34
+[2025-01-25T18:11:29.023Z] INFO: Message Type: deviceInfoMesgs, Count: 72
+[2025-01-25T18:11:29.023Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.023Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.023Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.023Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.023Z] INFO: Message Type: recordMesgs, Count: 3161
+[2025-01-25T18:11:29.023Z] INFO: Message Type: lengthMesgs, Count: 121
+[2025-01-25T18:11:29.023Z] INFO: Message Type: lapMesgs, Count: 19
+[2025-01-25T18:11:29.023Z] INFO: Message Type: timeInZoneMesgs, Count: 20
+[2025-01-25T18:11:29.023Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.023Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.023Z] WARN: No 'record' messages found in file: 2024-09-27-17-49-24.fit
+[2025-01-25T18:11:29.028Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-27-17-49-24.json
+[2025-01-25T18:11:29.028Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-29-15-58-00.fit
+[2025-01-25T18:11:29.069Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] INFO: Message Type: eventMesgs, Count: 11
+[2025-01-25T18:11:29.069Z] INFO: Message Type: deviceInfoMesgs, Count: 42
+[2025-01-25T18:11:29.069Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] INFO: Message Type: trainingFileMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] INFO: Message Type: workoutMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] INFO: Message Type: workoutStepMesgs, Count: 3
+[2025-01-25T18:11:29.069Z] INFO: Message Type: recordMesgs, Count: 1072
+[2025-01-25T18:11:29.069Z] INFO: Message Type: gpsMetadataMesgs, Count: 4167
+[2025-01-25T18:11:29.069Z] INFO: Message Type: lapMesgs, Count: 12
+[2025-01-25T18:11:29.069Z] INFO: Message Type: timeInZoneMesgs, Count: 37
+[2025-01-25T18:11:29.069Z] INFO: Message Type: exerciseTitleMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] INFO: Message Type: splitMesgs, Count: 24
+[2025-01-25T18:11:29.069Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:29.069Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.069Z] WARN: No 'record' messages found in file: 2024-09-29-15-58-00.fit
+[2025-01-25T18:11:29.087Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-29-15-58-00.json
+[2025-01-25T18:11:29.087Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-09-30-18-50-34.fit
+[2025-01-25T18:11:29.122Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.122Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.123Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:29.123Z] INFO: Message Type: deviceInfoMesgs, Count: 10
+[2025-01-25T18:11:29.123Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.123Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.123Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.123Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.123Z] INFO: Message Type: recordMesgs, Count: 1109
+[2025-01-25T18:11:29.123Z] INFO: Message Type: lapMesgs, Count: 1
+[2025-01-25T18:11:29.123Z] INFO: Message Type: timeInZoneMesgs, Count: 2
+[2025-01-25T18:11:29.123Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.123Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.123Z] WARN: No 'record' messages found in file: 2024-09-30-18-50-34.fit
+[2025-01-25T18:11:29.130Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-09-30-18-50-34.json
+[2025-01-25T18:11:29.130Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-01-16-47-46.fit
+[2025-01-25T18:11:29.186Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.186Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.186Z] INFO: Message Type: eventMesgs, Count: 18
+[2025-01-25T18:11:29.186Z] INFO: Message Type: deviceInfoMesgs, Count: 48
+[2025-01-25T18:11:29.186Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.186Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.186Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.186Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.186Z] INFO: Message Type: recordMesgs, Count: 1034
+[2025-01-25T18:11:29.186Z] INFO: Message Type: gpsMetadataMesgs, Count: 4383
+[2025-01-25T18:11:29.186Z] INFO: Message Type: lapMesgs, Count: 12
+[2025-01-25T18:11:29.186Z] INFO: Message Type: timeInZoneMesgs, Count: 29
+[2025-01-25T18:11:29.186Z] INFO: Message Type: splitMesgs, Count: 16
+[2025-01-25T18:11:29.186Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:29.186Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.186Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.186Z] WARN: No 'record' messages found in file: 2024-10-01-16-47-46.fit
+[2025-01-25T18:11:29.193Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-01-16-47-46.json
+[2025-01-25T18:11:29.193Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-01-18-10-09.fit
+[2025-01-25T18:11:29.195Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.195Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.195Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:29.195Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:29.195Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.195Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.195Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.195Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.195Z] INFO: Message Type: recordMesgs, Count: 2
+[2025-01-25T18:11:29.195Z] INFO: Message Type: gpsMetadataMesgs, Count: 5
+[2025-01-25T18:11:29.195Z] INFO: Message Type: lapMesgs, Count: 1
+[2025-01-25T18:11:29.195Z] INFO: Message Type: timeInZoneMesgs, Count: 3
+[2025-01-25T18:11:29.195Z] INFO: Message Type: splitMesgs, Count: 1
+[2025-01-25T18:11:29.195Z] INFO: Message Type: splitSummaryMesgs, Count: 1
+[2025-01-25T18:11:29.196Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.196Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.196Z] WARN: No 'record' messages found in file: 2024-10-01-18-10-09.fit
+[2025-01-25T18:11:29.196Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-01-18-10-09.json
+[2025-01-25T18:11:29.196Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-02-17-48-37.fit
+[2025-01-25T18:11:29.236Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.237Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.237Z] INFO: Message Type: eventMesgs, Count: 45
+[2025-01-25T18:11:29.237Z] INFO: Message Type: deviceInfoMesgs, Count: 92
+[2025-01-25T18:11:29.237Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.237Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.237Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.237Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.237Z] INFO: Message Type: recordMesgs, Count: 3661
+[2025-01-25T18:11:29.237Z] INFO: Message Type: lengthMesgs, Count: 141
+[2025-01-25T18:11:29.237Z] INFO: Message Type: lapMesgs, Count: 28
+[2025-01-25T18:11:29.237Z] INFO: Message Type: timeInZoneMesgs, Count: 27
+[2025-01-25T18:11:29.237Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.237Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.237Z] WARN: No 'record' messages found in file: 2024-10-02-17-48-37.fit
+[2025-01-25T18:11:29.244Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-02-17-48-37.json
+[2025-01-25T18:11:29.244Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-03-19-38-43.fit
+[2025-01-25T18:11:29.268Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.268Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.268Z] INFO: Message Type: eventMesgs, Count: 10
+[2025-01-25T18:11:29.268Z] INFO: Message Type: deviceInfoMesgs, Count: 30
+[2025-01-25T18:11:29.268Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.268Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.268Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.268Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.268Z] INFO: Message Type: recordMesgs, Count: 1090
+[2025-01-25T18:11:29.268Z] INFO: Message Type: lapMesgs, Count: 1
+[2025-01-25T18:11:29.268Z] INFO: Message Type: timeInZoneMesgs, Count: 2
+[2025-01-25T18:11:29.268Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.268Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.268Z] WARN: No 'record' messages found in file: 2024-10-03-19-38-43.fit
+[2025-01-25T18:11:29.277Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-03-19-38-43.json
+[2025-01-25T18:11:29.278Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-04-17-59-53.fit
+[2025-01-25T18:11:29.365Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.365Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.365Z] INFO: Message Type: eventMesgs, Count: 8
+[2025-01-25T18:11:29.365Z] INFO: Message Type: deviceInfoMesgs, Count: 24
+[2025-01-25T18:11:29.366Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.366Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.366Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.366Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.366Z] INFO: Message Type: recordMesgs, Count: 844
+[2025-01-25T18:11:29.366Z] INFO: Message Type: gpsMetadataMesgs, Count: 3491
+[2025-01-25T18:11:29.366Z] INFO: Message Type: lapMesgs, Count: 11
+[2025-01-25T18:11:29.366Z] INFO: Message Type: timeInZoneMesgs, Count: 18
+[2025-01-25T18:11:29.366Z] INFO: Message Type: splitMesgs, Count: 6
+[2025-01-25T18:11:29.366Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:29.366Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.366Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.366Z] WARN: No 'record' messages found in file: 2024-10-04-17-59-53.fit
+[2025-01-25T18:11:29.378Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-04-17-59-53.json
+[2025-01-25T18:11:29.378Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-06-15-06-46.fit
+[2025-01-25T18:11:29.430Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.430Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.430Z] INFO: Message Type: eventMesgs, Count: 45
+[2025-01-25T18:11:29.430Z] INFO: Message Type: deviceInfoMesgs, Count: 92
+[2025-01-25T18:11:29.430Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.430Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.430Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.430Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.430Z] INFO: Message Type: recordMesgs, Count: 3656
+[2025-01-25T18:11:29.430Z] INFO: Message Type: lengthMesgs, Count: 140
+[2025-01-25T18:11:29.430Z] INFO: Message Type: lapMesgs, Count: 22
+[2025-01-25T18:11:29.430Z] INFO: Message Type: timeInZoneMesgs, Count: 23
+[2025-01-25T18:11:29.430Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.430Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.430Z] WARN: No 'record' messages found in file: 2024-10-06-15-06-46.fit
+[2025-01-25T18:11:29.439Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-06-15-06-46.json
+[2025-01-25T18:11:29.439Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-08-18-04-58.fit
+[2025-01-25T18:11:29.477Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.477Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.477Z] INFO: Message Type: eventMesgs, Count: 5
+[2025-01-25T18:11:29.477Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:29.478Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.478Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.478Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.478Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.478Z] INFO: Message Type: recordMesgs, Count: 962
+[2025-01-25T18:11:29.478Z] INFO: Message Type: gpsMetadataMesgs, Count: 3963
+[2025-01-25T18:11:29.478Z] INFO: Message Type: lapMesgs, Count: 13
+[2025-01-25T18:11:29.478Z] INFO: Message Type: timeInZoneMesgs, Count: 20
+[2025-01-25T18:11:29.478Z] INFO: Message Type: splitMesgs, Count: 6
+[2025-01-25T18:11:29.478Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:29.478Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.478Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.478Z] WARN: No 'record' messages found in file: 2024-10-08-18-04-58.fit
+[2025-01-25T18:11:29.490Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-08-18-04-58.json
+[2025-01-25T18:11:29.490Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-09-18-14-43.fit
+[2025-01-25T18:11:29.515Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.515Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.515Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:29.515Z] INFO: Message Type: deviceInfoMesgs, Count: 10
+[2025-01-25T18:11:29.515Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.515Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.515Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.515Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.515Z] INFO: Message Type: recordMesgs, Count: 1033
+[2025-01-25T18:11:29.516Z] INFO: Message Type: lapMesgs, Count: 1
+[2025-01-25T18:11:29.516Z] INFO: Message Type: timeInZoneMesgs, Count: 2
+[2025-01-25T18:11:29.516Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.516Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.516Z] WARN: No 'record' messages found in file: 2024-10-09-18-14-43.fit
+[2025-01-25T18:11:29.524Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-09-18-14-43.json
+[2025-01-25T18:11:29.524Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-10-18-05-27.fit
+[2025-01-25T18:11:29.560Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.560Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.560Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:29.560Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:29.560Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.560Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.560Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.560Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.560Z] INFO: Message Type: recordMesgs, Count: 737
+[2025-01-25T18:11:29.560Z] INFO: Message Type: gpsMetadataMesgs, Count: 2857
+[2025-01-25T18:11:29.560Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:29.560Z] INFO: Message Type: timeInZoneMesgs, Count: 13
+[2025-01-25T18:11:29.560Z] INFO: Message Type: splitMesgs, Count: 2
+[2025-01-25T18:11:29.560Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:29.560Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.560Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.560Z] WARN: No 'record' messages found in file: 2024-10-10-18-05-27.fit
+[2025-01-25T18:11:29.568Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-10-18-05-27.json
+[2025-01-25T18:11:29.568Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-11-18-05-07.fit
+[2025-01-25T18:11:29.600Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.600Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.600Z] INFO: Message Type: eventMesgs, Count: 66
+[2025-01-25T18:11:29.600Z] INFO: Message Type: deviceInfoMesgs, Count: 136
+[2025-01-25T18:11:29.600Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.600Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.600Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.600Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.600Z] INFO: Message Type: recordMesgs, Count: 2897
+[2025-01-25T18:11:29.600Z] INFO: Message Type: lengthMesgs, Count: 120
+[2025-01-25T18:11:29.600Z] INFO: Message Type: lapMesgs, Count: 33
+[2025-01-25T18:11:29.600Z] INFO: Message Type: timeInZoneMesgs, Count: 34
+[2025-01-25T18:11:29.600Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.600Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.601Z] WARN: No 'record' messages found in file: 2024-10-11-18-05-07.fit
+[2025-01-25T18:11:29.608Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-11-18-05-07.json
+[2025-01-25T18:11:29.608Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-13-17-54-54.fit
+[2025-01-25T18:11:29.628Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.628Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.628Z] INFO: Message Type: eventMesgs, Count: 7
+[2025-01-25T18:11:29.628Z] INFO: Message Type: deviceInfoMesgs, Count: 20
+[2025-01-25T18:11:29.628Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.628Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.628Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.628Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.628Z] INFO: Message Type: recordMesgs, Count: 1361
+[2025-01-25T18:11:29.628Z] INFO: Message Type: lapMesgs, Count: 1
+[2025-01-25T18:11:29.628Z] INFO: Message Type: timeInZoneMesgs, Count: 2
+[2025-01-25T18:11:29.628Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.628Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.628Z] WARN: No 'record' messages found in file: 2024-10-13-17-54-54.fit
+[2025-01-25T18:11:29.631Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-13-17-54-54.json
+[2025-01-25T18:11:29.631Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-14-17-02-05.fit
+[2025-01-25T18:11:29.658Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.658Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.658Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:29.658Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:29.658Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.658Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.658Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.658Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.658Z] INFO: Message Type: recordMesgs, Count: 805
+[2025-01-25T18:11:29.658Z] INFO: Message Type: gpsMetadataMesgs, Count: 3103
+[2025-01-25T18:11:29.658Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:29.658Z] INFO: Message Type: timeInZoneMesgs, Count: 14
+[2025-01-25T18:11:29.658Z] INFO: Message Type: splitMesgs, Count: 3
+[2025-01-25T18:11:29.658Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:29.658Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.658Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.658Z] WARN: No 'record' messages found in file: 2024-10-14-17-02-05.fit
+[2025-01-25T18:11:29.665Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-14-17-02-05.json
+[2025-01-25T18:11:29.665Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-16-18-19-09.fit
+[2025-01-25T18:11:29.698Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.698Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.698Z] INFO: Message Type: eventMesgs, Count: 51
+[2025-01-25T18:11:29.698Z] INFO: Message Type: deviceInfoMesgs, Count: 104
+[2025-01-25T18:11:29.698Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.698Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.698Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.698Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.698Z] INFO: Message Type: recordMesgs, Count: 2893
+[2025-01-25T18:11:29.698Z] INFO: Message Type: lengthMesgs, Count: 120
+[2025-01-25T18:11:29.698Z] INFO: Message Type: lapMesgs, Count: 25
+[2025-01-25T18:11:29.698Z] INFO: Message Type: timeInZoneMesgs, Count: 26
+[2025-01-25T18:11:29.698Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.698Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.698Z] WARN: No 'record' messages found in file: 2024-10-16-18-19-09.fit
+[2025-01-25T18:11:29.705Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-16-18-19-09.json
+[2025-01-25T18:11:29.706Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-18-16-34-17.fit
+[2025-01-25T18:11:29.760Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.760Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.760Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:29.760Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:29.760Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.760Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.760Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.760Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.760Z] INFO: Message Type: recordMesgs, Count: 931
+[2025-01-25T18:11:29.760Z] INFO: Message Type: gpsMetadataMesgs, Count: 3611
+[2025-01-25T18:11:29.760Z] INFO: Message Type: lapMesgs, Count: 12
+[2025-01-25T18:11:29.760Z] INFO: Message Type: timeInZoneMesgs, Count: 38
+[2025-01-25T18:11:29.760Z] INFO: Message Type: splitMesgs, Count: 25
+[2025-01-25T18:11:29.760Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:29.760Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.760Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.760Z] WARN: No 'record' messages found in file: 2024-10-18-16-34-17.fit
+[2025-01-25T18:11:29.767Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-18-16-34-17.json
+[2025-01-25T18:11:29.768Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-21-17-57-14.fit
+[2025-01-25T18:11:29.799Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.800Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.800Z] INFO: Message Type: eventMesgs, Count: 24
+[2025-01-25T18:11:29.800Z] INFO: Message Type: deviceInfoMesgs, Count: 52
+[2025-01-25T18:11:29.800Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.800Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.800Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.800Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.800Z] INFO: Message Type: recordMesgs, Count: 3624
+[2025-01-25T18:11:29.800Z] INFO: Message Type: lengthMesgs, Count: 140
+[2025-01-25T18:11:29.800Z] INFO: Message Type: lapMesgs, Count: 12
+[2025-01-25T18:11:29.800Z] INFO: Message Type: timeInZoneMesgs, Count: 13
+[2025-01-25T18:11:29.800Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.800Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.800Z] WARN: No 'record' messages found in file: 2024-10-21-17-57-14.fit
+[2025-01-25T18:11:29.806Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-21-17-57-14.json
+[2025-01-25T18:11:29.807Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-22-17-43-24.fit
+[2025-01-25T18:11:29.834Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.835Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.835Z] INFO: Message Type: eventMesgs, Count: 7
+[2025-01-25T18:11:29.835Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:29.835Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.835Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.835Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.835Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.835Z] INFO: Message Type: recordMesgs, Count: 976
+[2025-01-25T18:11:29.835Z] INFO: Message Type: gpsMetadataMesgs, Count: 2690
+[2025-01-25T18:11:29.835Z] INFO: Message Type: lapMesgs, Count: 4
+[2025-01-25T18:11:29.835Z] INFO: Message Type: timeInZoneMesgs, Count: 5
+[2025-01-25T18:11:29.835Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.835Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.835Z] WARN: No 'record' messages found in file: 2024-10-22-17-43-24.fit
+[2025-01-25T18:11:29.846Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-22-17-43-24.json
+[2025-01-25T18:11:29.846Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-23-17-20-00.fit
+[2025-01-25T18:11:29.906Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.906Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.906Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:29.906Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:29.906Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.906Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.906Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.906Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.906Z] INFO: Message Type: recordMesgs, Count: 1030
+[2025-01-25T18:11:29.906Z] INFO: Message Type: gpsMetadataMesgs, Count: 4002
+[2025-01-25T18:11:29.906Z] INFO: Message Type: lapMesgs, Count: 25
+[2025-01-25T18:11:29.906Z] INFO: Message Type: timeInZoneMesgs, Count: 42
+[2025-01-25T18:11:29.906Z] INFO: Message Type: splitMesgs, Count: 16
+[2025-01-25T18:11:29.906Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:29.906Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.906Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.906Z] WARN: No 'record' messages found in file: 2024-10-23-17-20-00.fit
+[2025-01-25T18:11:29.914Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-23-17-20-00.json
+[2025-01-25T18:11:29.915Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-24-18-00-00.fit
+[2025-01-25T18:11:29.934Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.934Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.934Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:29.934Z] INFO: Message Type: deviceInfoMesgs, Count: 10
+[2025-01-25T18:11:29.934Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.934Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.934Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.934Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.934Z] INFO: Message Type: recordMesgs, Count: 865
+[2025-01-25T18:11:29.934Z] INFO: Message Type: lapMesgs, Count: 15
+[2025-01-25T18:11:29.934Z] INFO: Message Type: timeInZoneMesgs, Count: 16
+[2025-01-25T18:11:29.934Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.934Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.934Z] WARN: No 'record' messages found in file: 2024-10-24-18-00-00.fit
+[2025-01-25T18:11:29.938Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-24-18-00-00.json
+[2025-01-25T18:11:29.938Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-25-18-01-16.fit
+[2025-01-25T18:11:29.998Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:29.998Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:29.998Z] INFO: Message Type: eventMesgs, Count: 27
+[2025-01-25T18:11:29.998Z] INFO: Message Type: deviceInfoMesgs, Count: 56
+[2025-01-25T18:11:29.998Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:29.998Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:29.998Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:29.998Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:29.998Z] INFO: Message Type: recordMesgs, Count: 3680
+[2025-01-25T18:11:29.998Z] INFO: Message Type: lengthMesgs, Count: 140
+[2025-01-25T18:11:29.998Z] INFO: Message Type: lapMesgs, Count: 13
+[2025-01-25T18:11:29.998Z] INFO: Message Type: timeInZoneMesgs, Count: 14
+[2025-01-25T18:11:29.998Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:29.998Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:29.998Z] WARN: No 'record' messages found in file: 2024-10-25-18-01-16.fit
+[2025-01-25T18:11:30.013Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-25-18-01-16.json
+[2025-01-25T18:11:30.013Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-26-16-16-57.fit
+[2025-01-25T18:11:30.048Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.048Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.048Z] INFO: Message Type: eventMesgs, Count: 6
+[2025-01-25T18:11:30.048Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:30.048Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.048Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.048Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.048Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.048Z] INFO: Message Type: recordMesgs, Count: 658
+[2025-01-25T18:11:30.048Z] INFO: Message Type: gpsMetadataMesgs, Count: 2712
+[2025-01-25T18:11:30.048Z] INFO: Message Type: lapMesgs, Count: 14
+[2025-01-25T18:11:30.048Z] INFO: Message Type: timeInZoneMesgs, Count: 25
+[2025-01-25T18:11:30.048Z] INFO: Message Type: splitMesgs, Count: 10
+[2025-01-25T18:11:30.048Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:30.048Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.048Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.048Z] WARN: No 'record' messages found in file: 2024-10-26-16-16-57.fit
+[2025-01-25T18:11:30.053Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-26-16-16-57.json
+[2025-01-25T18:11:30.054Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-28-17-11-02.fit
+[2025-01-25T18:11:30.103Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.103Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.103Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:30.103Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:30.103Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.103Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.103Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.103Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.103Z] INFO: Message Type: recordMesgs, Count: 736
+[2025-01-25T18:11:30.103Z] INFO: Message Type: gpsMetadataMesgs, Count: 2928
+[2025-01-25T18:11:30.103Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:30.103Z] INFO: Message Type: timeInZoneMesgs, Count: 12
+[2025-01-25T18:11:30.103Z] INFO: Message Type: splitMesgs, Count: 1
+[2025-01-25T18:11:30.103Z] INFO: Message Type: splitSummaryMesgs, Count: 1
+[2025-01-25T18:11:30.103Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.103Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.103Z] WARN: No 'record' messages found in file: 2024-10-28-17-11-02.fit
+[2025-01-25T18:11:30.112Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-28-17-11-02.json
+[2025-01-25T18:11:30.112Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-10-30-17-48-57.fit
+[2025-01-25T18:11:30.166Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.166Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.166Z] INFO: Message Type: eventMesgs, Count: 41
+[2025-01-25T18:11:30.166Z] INFO: Message Type: deviceInfoMesgs, Count: 84
+[2025-01-25T18:11:30.166Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.166Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.166Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.166Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.166Z] INFO: Message Type: recordMesgs, Count: 3663
+[2025-01-25T18:11:30.166Z] INFO: Message Type: lengthMesgs, Count: 145
+[2025-01-25T18:11:30.166Z] INFO: Message Type: lapMesgs, Count: 23
+[2025-01-25T18:11:30.166Z] INFO: Message Type: timeInZoneMesgs, Count: 24
+[2025-01-25T18:11:30.166Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.166Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.166Z] WARN: No 'record' messages found in file: 2024-10-30-17-48-57.fit
+[2025-01-25T18:11:30.172Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-10-30-17-48-57.json
+[2025-01-25T18:11:30.172Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-01-17-26-37.fit
+[2025-01-25T18:11:30.195Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.195Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.195Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:30.195Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:30.195Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.195Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.195Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.195Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.195Z] INFO: Message Type: recordMesgs, Count: 838
+[2025-01-25T18:11:30.195Z] INFO: Message Type: gpsMetadataMesgs, Count: 3008
+[2025-01-25T18:11:30.195Z] INFO: Message Type: lapMesgs, Count: 11
+[2025-01-25T18:11:30.195Z] INFO: Message Type: timeInZoneMesgs, Count: 18
+[2025-01-25T18:11:30.195Z] INFO: Message Type: splitMesgs, Count: 6
+[2025-01-25T18:11:30.195Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:30.195Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.195Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.195Z] WARN: No 'record' messages found in file: 2024-11-01-17-26-37.fit
+[2025-01-25T18:11:30.200Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-01-17-26-37.json
+[2025-01-25T18:11:30.200Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-03-16-10-26.fit
+[2025-01-25T18:11:30.234Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.234Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.234Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:30.234Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:30.234Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.234Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.234Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.234Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.234Z] INFO: Message Type: recordMesgs, Count: 928
+[2025-01-25T18:11:30.234Z] INFO: Message Type: gpsMetadataMesgs, Count: 3421
+[2025-01-25T18:11:30.234Z] INFO: Message Type: lapMesgs, Count: 18
+[2025-01-25T18:11:30.234Z] INFO: Message Type: timeInZoneMesgs, Count: 39
+[2025-01-25T18:11:30.234Z] INFO: Message Type: splitMesgs, Count: 20
+[2025-01-25T18:11:30.234Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:30.234Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.234Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.234Z] WARN: No 'record' messages found in file: 2024-11-03-16-10-26.fit
+[2025-01-25T18:11:30.241Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-03-16-10-26.json
+[2025-01-25T18:11:30.241Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-05-16-45-14.fit
+[2025-01-25T18:11:30.310Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.310Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.310Z] INFO: Message Type: eventMesgs, Count: 50
+[2025-01-25T18:11:30.310Z] INFO: Message Type: deviceInfoMesgs, Count: 92
+[2025-01-25T18:11:30.310Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.310Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.310Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.310Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.310Z] INFO: Message Type: recordMesgs, Count: 2139
+[2025-01-25T18:11:30.310Z] INFO: Message Type: lengthMesgs, Count: 87
+[2025-01-25T18:11:30.310Z] INFO: Message Type: lapMesgs, Count: 26
+[2025-01-25T18:11:30.310Z] INFO: Message Type: timeInZoneMesgs, Count: 26
+[2025-01-25T18:11:30.310Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.310Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.310Z] WARN: No 'record' messages found in file: 2024-11-05-16-45-14.fit
+[2025-01-25T18:11:30.320Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-05-16-45-14.json
+[2025-01-25T18:11:30.321Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-06-16-03-56.fit
+[2025-01-25T18:11:30.368Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.368Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.368Z] INFO: Message Type: eventMesgs, Count: 6
+[2025-01-25T18:11:30.368Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:30.368Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.368Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.368Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.368Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.368Z] INFO: Message Type: recordMesgs, Count: 776
+[2025-01-25T18:11:30.368Z] INFO: Message Type: gpsMetadataMesgs, Count: 3285
+[2025-01-25T18:11:30.368Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:30.368Z] INFO: Message Type: timeInZoneMesgs, Count: 18
+[2025-01-25T18:11:30.368Z] INFO: Message Type: splitMesgs, Count: 7
+[2025-01-25T18:11:30.368Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:30.368Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.368Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.368Z] WARN: No 'record' messages found in file: 2024-11-06-16-03-56.fit
+[2025-01-25T18:11:30.381Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-06-16-03-56.json
+[2025-01-25T18:11:30.381Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-08-17-40-25.fit
+[2025-01-25T18:11:30.449Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.449Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.449Z] INFO: Message Type: eventMesgs, Count: 66
+[2025-01-25T18:11:30.449Z] INFO: Message Type: deviceInfoMesgs, Count: 132
+[2025-01-25T18:11:30.449Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.449Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.449Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.449Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.449Z] INFO: Message Type: recordMesgs, Count: 3505
+[2025-01-25T18:11:30.449Z] INFO: Message Type: lengthMesgs, Count: 145
+[2025-01-25T18:11:30.449Z] INFO: Message Type: lapMesgs, Count: 35
+[2025-01-25T18:11:30.449Z] INFO: Message Type: timeInZoneMesgs, Count: 34
+[2025-01-25T18:11:30.449Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.449Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.449Z] WARN: No 'record' messages found in file: 2024-11-08-17-40-25.fit
+[2025-01-25T18:11:30.456Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-08-17-40-25.json
+[2025-01-25T18:11:30.456Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-09-16-06-13.fit
+[2025-01-25T18:11:30.480Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.480Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.480Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:30.480Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:30.480Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.480Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.480Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.480Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.480Z] INFO: Message Type: recordMesgs, Count: 865
+[2025-01-25T18:11:30.480Z] INFO: Message Type: gpsMetadataMesgs, Count: 3061
+[2025-01-25T18:11:30.480Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:30.480Z] INFO: Message Type: timeInZoneMesgs, Count: 12
+[2025-01-25T18:11:30.480Z] INFO: Message Type: splitMesgs, Count: 1
+[2025-01-25T18:11:30.480Z] INFO: Message Type: splitSummaryMesgs, Count: 1
+[2025-01-25T18:11:30.480Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.480Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.480Z] WARN: No 'record' messages found in file: 2024-11-09-16-06-13.fit
+[2025-01-25T18:11:30.487Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-09-16-06-13.json
+[2025-01-25T18:11:30.487Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-12-16-51-16.fit
+[2025-01-25T18:11:30.555Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.555Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.555Z] INFO: Message Type: eventMesgs, Count: 60
+[2025-01-25T18:11:30.555Z] INFO: Message Type: deviceInfoMesgs, Count: 124
+[2025-01-25T18:11:30.555Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.555Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.555Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.555Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.555Z] INFO: Message Type: recordMesgs, Count: 3672
+[2025-01-25T18:11:30.555Z] INFO: Message Type: lengthMesgs, Count: 151
+[2025-01-25T18:11:30.555Z] INFO: Message Type: lapMesgs, Count: 30
+[2025-01-25T18:11:30.555Z] INFO: Message Type: timeInZoneMesgs, Count: 31
+[2025-01-25T18:11:30.555Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.555Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.555Z] WARN: No 'record' messages found in file: 2024-11-12-16-51-16.fit
+[2025-01-25T18:11:30.561Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-12-16-51-16.json
+[2025-01-25T18:11:30.561Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-13-16-10-01.fit
+[2025-01-25T18:11:30.591Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.591Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.591Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:30.591Z] INFO: Message Type: deviceInfoMesgs, Count: 14
+[2025-01-25T18:11:30.591Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.591Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.591Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.591Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.591Z] INFO: Message Type: recordMesgs, Count: 811
+[2025-01-25T18:11:30.591Z] INFO: Message Type: gpsMetadataMesgs, Count: 3064
+[2025-01-25T18:11:30.591Z] INFO: Message Type: lapMesgs, Count: 15
+[2025-01-25T18:11:30.591Z] INFO: Message Type: timeInZoneMesgs, Count: 23
+[2025-01-25T18:11:30.591Z] INFO: Message Type: splitMesgs, Count: 7
+[2025-01-25T18:11:30.591Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:30.591Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.591Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.591Z] WARN: No 'record' messages found in file: 2024-11-13-16-10-01.fit
+[2025-01-25T18:11:30.598Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-13-16-10-01.json
+[2025-01-25T18:11:30.598Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-15-17-11-05.fit
+[2025-01-25T18:11:30.658Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.658Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.658Z] INFO: Message Type: eventMesgs, Count: 62
+[2025-01-25T18:11:30.658Z] INFO: Message Type: deviceInfoMesgs, Count: 124
+[2025-01-25T18:11:30.658Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.658Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.658Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.658Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.658Z] INFO: Message Type: recordMesgs, Count: 3695
+[2025-01-25T18:11:30.658Z] INFO: Message Type: lengthMesgs, Count: 159
+[2025-01-25T18:11:30.658Z] INFO: Message Type: lapMesgs, Count: 31
+[2025-01-25T18:11:30.658Z] INFO: Message Type: timeInZoneMesgs, Count: 31
+[2025-01-25T18:11:30.658Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.658Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.658Z] WARN: No 'record' messages found in file: 2024-11-15-17-11-05.fit
+[2025-01-25T18:11:30.670Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-15-17-11-05.json
+[2025-01-25T18:11:30.670Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-18-16-19-21.fit
+[2025-01-25T18:11:30.709Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.709Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.709Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:30.709Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:30.709Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.709Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.709Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.709Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.709Z] INFO: Message Type: recordMesgs, Count: 750
+[2025-01-25T18:11:30.709Z] INFO: Message Type: gpsMetadataMesgs, Count: 2894
+[2025-01-25T18:11:30.709Z] INFO: Message Type: lapMesgs, Count: 11
+[2025-01-25T18:11:30.709Z] INFO: Message Type: timeInZoneMesgs, Count: 15
+[2025-01-25T18:11:30.709Z] INFO: Message Type: splitMesgs, Count: 3
+[2025-01-25T18:11:30.709Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:30.709Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.709Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.709Z] WARN: No 'record' messages found in file: 2024-11-18-16-19-21.fit
+[2025-01-25T18:11:30.715Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-18-16-19-21.json
+[2025-01-25T18:11:30.716Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-21-16-20-42.fit
+[2025-01-25T18:11:30.786Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.787Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.787Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:30.787Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:30.787Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.787Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.787Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.788Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.796Z] INFO: Message Type: recordMesgs, Count: 777
+[2025-01-25T18:11:30.796Z] INFO: Message Type: gpsMetadataMesgs, Count: 3108
+[2025-01-25T18:11:30.796Z] INFO: Message Type: lapMesgs, Count: 11
+[2025-01-25T18:11:30.796Z] INFO: Message Type: timeInZoneMesgs, Count: 15
+[2025-01-25T18:11:30.796Z] INFO: Message Type: splitMesgs, Count: 3
+[2025-01-25T18:11:30.796Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:30.796Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.796Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.796Z] WARN: No 'record' messages found in file: 2024-11-21-16-20-42.fit
+[2025-01-25T18:11:30.811Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-21-16-20-42.json
+[2025-01-25T18:11:30.812Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-22-17-26-32.fit
+[2025-01-25T18:11:30.896Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.896Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.896Z] INFO: Message Type: eventMesgs, Count: 32
+[2025-01-25T18:11:30.896Z] INFO: Message Type: deviceInfoMesgs, Count: 68
+[2025-01-25T18:11:30.896Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.896Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.896Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.896Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.896Z] INFO: Message Type: recordMesgs, Count: 3064
+[2025-01-25T18:11:30.896Z] INFO: Message Type: lengthMesgs, Count: 120
+[2025-01-25T18:11:30.896Z] INFO: Message Type: lapMesgs, Count: 16
+[2025-01-25T18:11:30.896Z] INFO: Message Type: timeInZoneMesgs, Count: 17
+[2025-01-25T18:11:30.896Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.896Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.896Z] WARN: No 'record' messages found in file: 2024-11-22-17-26-32.fit
+[2025-01-25T18:11:30.907Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-22-17-26-32.json
+[2025-01-25T18:11:30.908Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-24-15-59-41.fit
+[2025-01-25T18:11:30.970Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:30.970Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:30.970Z] INFO: Message Type: eventMesgs, Count: 6
+[2025-01-25T18:11:30.970Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:30.970Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:30.970Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:30.970Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:30.970Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:30.970Z] INFO: Message Type: recordMesgs, Count: 832
+[2025-01-25T18:11:30.970Z] INFO: Message Type: gpsMetadataMesgs, Count: 3294
+[2025-01-25T18:11:30.971Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:30.971Z] INFO: Message Type: timeInZoneMesgs, Count: 20
+[2025-01-25T18:11:30.971Z] INFO: Message Type: splitMesgs, Count: 9
+[2025-01-25T18:11:30.971Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:30.971Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:30.971Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:30.971Z] WARN: No 'record' messages found in file: 2024-11-24-15-59-41.fit
+[2025-01-25T18:11:30.983Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-24-15-59-41.json
+[2025-01-25T18:11:30.983Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-26-16-57-07.fit
+[2025-01-25T18:11:31.031Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:31.032Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:31.032Z] INFO: Message Type: eventMesgs, Count: 20
+[2025-01-25T18:11:31.032Z] INFO: Message Type: deviceInfoMesgs, Count: 40
+[2025-01-25T18:11:31.032Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:31.032Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:31.032Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:31.032Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:31.032Z] INFO: Message Type: recordMesgs, Count: 1716
+[2025-01-25T18:11:31.032Z] INFO: Message Type: lengthMesgs, Count: 72
+[2025-01-25T18:11:31.032Z] INFO: Message Type: lapMesgs, Count: 11
+[2025-01-25T18:11:31.032Z] INFO: Message Type: timeInZoneMesgs, Count: 11
+[2025-01-25T18:11:31.032Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:31.032Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:31.032Z] WARN: No 'record' messages found in file: 2024-11-26-16-57-07.fit
+[2025-01-25T18:11:31.038Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-26-16-57-07.json
+[2025-01-25T18:11:31.038Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-11-27-16-08-23.fit
+[2025-01-25T18:11:31.087Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:31.087Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:31.087Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:31.087Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:31.087Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:31.087Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:31.087Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:31.087Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:31.087Z] INFO: Message Type: recordMesgs, Count: 788
+[2025-01-25T18:11:31.087Z] INFO: Message Type: gpsMetadataMesgs, Count: 3037
+[2025-01-25T18:11:31.087Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:31.087Z] INFO: Message Type: timeInZoneMesgs, Count: 18
+[2025-01-25T18:11:31.087Z] INFO: Message Type: splitMesgs, Count: 7
+[2025-01-25T18:11:31.087Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:31.087Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:31.087Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:31.087Z] WARN: No 'record' messages found in file: 2024-11-27-16-08-23.fit
+[2025-01-25T18:11:31.093Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-11-27-16-08-23.json
+[2025-01-25T18:11:31.093Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-12-12-16-23-54.fit
+[2025-01-25T18:11:31.142Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:31.142Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:31.143Z] INFO: Message Type: eventMesgs, Count: 4
+[2025-01-25T18:11:31.143Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:31.143Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:31.143Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:31.143Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:31.143Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:31.143Z] INFO: Message Type: recordMesgs, Count: 788
+[2025-01-25T18:11:31.143Z] INFO: Message Type: gpsMetadataMesgs, Count: 3409
+[2025-01-25T18:11:31.143Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:31.143Z] INFO: Message Type: timeInZoneMesgs, Count: 15
+[2025-01-25T18:11:31.143Z] INFO: Message Type: splitMesgs, Count: 4
+[2025-01-25T18:11:31.143Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:31.143Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:31.143Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:31.143Z] WARN: No 'record' messages found in file: 2024-12-12-16-23-54.fit
+[2025-01-25T18:11:31.149Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-12-12-16-23-54.json
+[2025-01-25T18:11:31.149Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-12-16-16-19-39.fit
+[2025-01-25T18:11:31.177Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:31.178Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:31.178Z] INFO: Message Type: eventMesgs, Count: 2
+[2025-01-25T18:11:31.178Z] INFO: Message Type: deviceInfoMesgs, Count: 11
+[2025-01-25T18:11:31.178Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:31.178Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:31.178Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:31.178Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:31.178Z] INFO: Message Type: recordMesgs, Count: 794
+[2025-01-25T18:11:31.178Z] INFO: Message Type: gpsMetadataMesgs, Count: 2945
+[2025-01-25T18:11:31.178Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:31.178Z] INFO: Message Type: timeInZoneMesgs, Count: 16
+[2025-01-25T18:11:31.178Z] INFO: Message Type: splitMesgs, Count: 5
+[2025-01-25T18:11:31.178Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:31.178Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:31.178Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:31.178Z] WARN: No 'record' messages found in file: 2024-12-16-16-19-39.fit
+[2025-01-25T18:11:31.183Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-12-16-16-19-39.json
+[2025-01-25T18:11:31.183Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-12-18-16-27-46.fit
+[2025-01-25T18:11:31.227Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:31.227Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:31.227Z] INFO: Message Type: eventMesgs, Count: 6
+[2025-01-25T18:11:31.227Z] INFO: Message Type: deviceInfoMesgs, Count: 21
+[2025-01-25T18:11:31.227Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:31.227Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:31.227Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:31.227Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:31.227Z] INFO: Message Type: recordMesgs, Count: 991
+[2025-01-25T18:11:31.227Z] INFO: Message Type: gpsMetadataMesgs, Count: 4031
+[2025-01-25T18:11:31.227Z] INFO: Message Type: lapMesgs, Count: 12
+[2025-01-25T18:11:31.227Z] INFO: Message Type: timeInZoneMesgs, Count: 27
+[2025-01-25T18:11:31.228Z] INFO: Message Type: splitMesgs, Count: 14
+[2025-01-25T18:11:31.228Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:31.228Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:31.228Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:31.228Z] WARN: No 'record' messages found in file: 2024-12-18-16-27-46.fit
+[2025-01-25T18:11:31.235Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-12-18-16-27-46.json
+[2025-01-25T18:11:31.235Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-12-22-15-43-26.fit
+[2025-01-25T18:11:31.281Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:31.281Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:31.281Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:31.281Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:31.281Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:31.281Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:31.281Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:31.281Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:31.281Z] INFO: Message Type: recordMesgs, Count: 732
+[2025-01-25T18:11:31.281Z] INFO: Message Type: gpsMetadataMesgs, Count: 2733
+[2025-01-25T18:11:31.281Z] INFO: Message Type: lapMesgs, Count: 9
+[2025-01-25T18:11:31.281Z] INFO: Message Type: timeInZoneMesgs, Count: 21
+[2025-01-25T18:11:31.281Z] INFO: Message Type: splitMesgs, Count: 11
+[2025-01-25T18:11:31.281Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:31.281Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:31.281Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:31.281Z] WARN: No 'record' messages found in file: 2024-12-22-15-43-26.fit
+[2025-01-25T18:11:31.292Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-12-22-15-43-26.json
+[2025-01-25T18:11:31.292Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2024-12-28-15-56-42.fit
+[2025-01-25T18:11:31.345Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:31.346Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:31.346Z] INFO: Message Type: eventMesgs, Count: 3
+[2025-01-25T18:11:31.346Z] INFO: Message Type: deviceInfoMesgs, Count: 12
+[2025-01-25T18:11:31.346Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:31.346Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:31.346Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:31.346Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:31.346Z] INFO: Message Type: recordMesgs, Count: 826
+[2025-01-25T18:11:31.346Z] INFO: Message Type: gpsMetadataMesgs, Count: 3308
+[2025-01-25T18:11:31.346Z] INFO: Message Type: lapMesgs, Count: 10
+[2025-01-25T18:11:31.346Z] INFO: Message Type: timeInZoneMesgs, Count: 17
+[2025-01-25T18:11:31.346Z] INFO: Message Type: splitMesgs, Count: 6
+[2025-01-25T18:11:31.346Z] INFO: Message Type: splitSummaryMesgs, Count: 2
+[2025-01-25T18:11:31.346Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:31.346Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:31.346Z] WARN: No 'record' messages found in file: 2024-12-28-15-56-42.fit
+[2025-01-25T18:11:31.351Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2024-12-28-15-56-42.json
+[2025-01-25T18:11:31.351Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2025-01-20-16-31-01.fit
+[2025-01-25T18:11:31.375Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:31.375Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:31.375Z] INFO: Message Type: eventMesgs, Count: 12
+[2025-01-25T18:11:31.375Z] INFO: Message Type: deviceInfoMesgs, Count: 28
+[2025-01-25T18:11:31.375Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:31.375Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:31.375Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:31.375Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:31.375Z] INFO: Message Type: recordMesgs, Count: 2252
+[2025-01-25T18:11:31.375Z] INFO: Message Type: lengthMesgs, Count: 80
+[2025-01-25T18:11:31.375Z] INFO: Message Type: lapMesgs, Count: 6
+[2025-01-25T18:11:31.375Z] INFO: Message Type: timeInZoneMesgs, Count: 7
+[2025-01-25T18:11:31.375Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:31.375Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:31.375Z] WARN: No 'record' messages found in file: 2025-01-20-16-31-01.fit
+[2025-01-25T18:11:31.379Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2025-01-20-16-31-01.json
+[2025-01-25T18:11:31.379Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2025-01-21-16-21-20.fit
+[2025-01-25T18:11:31.395Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:31.395Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:31.395Z] INFO: Message Type: eventMesgs, Count: 5
+[2025-01-25T18:11:31.395Z] INFO: Message Type: deviceInfoMesgs, Count: 18
+[2025-01-25T18:11:31.395Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:31.395Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:31.395Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:31.395Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:31.395Z] INFO: Message Type: recordMesgs, Count: 457
+[2025-01-25T18:11:31.395Z] INFO: Message Type: gpsMetadataMesgs, Count: 1532
+[2025-01-25T18:11:31.395Z] INFO: Message Type: lapMesgs, Count: 5
+[2025-01-25T18:11:31.395Z] INFO: Message Type: timeInZoneMesgs, Count: 10
+[2025-01-25T18:11:31.395Z] INFO: Message Type: splitMesgs, Count: 4
+[2025-01-25T18:11:31.395Z] INFO: Message Type: splitSummaryMesgs, Count: 3
+[2025-01-25T18:11:31.395Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:31.395Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:31.395Z] WARN: No 'record' messages found in file: 2025-01-21-16-21-20.fit
+[2025-01-25T18:11:31.399Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2025-01-21-16-21-20.json
+[2025-01-25T18:11:31.399Z] INFO: Processing FIT file: /home/orhan/Dokumente/Garmin/garmin-backend/input/2025-01-24-17-19-13.fit
+[2025-01-25T18:11:31.457Z] INFO: Message Type: fileIdMesgs, Count: 1
+[2025-01-25T18:11:31.457Z] INFO: Message Type: fileCreatorMesgs, Count: 1
+[2025-01-25T18:11:31.457Z] INFO: Message Type: eventMesgs, Count: 19
+[2025-01-25T18:11:31.457Z] INFO: Message Type: deviceInfoMesgs, Count: 40
+[2025-01-25T18:11:31.457Z] INFO: Message Type: deviceSettingsMesgs, Count: 1
+[2025-01-25T18:11:31.457Z] INFO: Message Type: userProfileMesgs, Count: 1
+[2025-01-25T18:11:31.457Z] INFO: Message Type: sportMesgs, Count: 1
+[2025-01-25T18:11:31.457Z] INFO: Message Type: zonesTargetMesgs, Count: 1
+[2025-01-25T18:11:31.457Z] INFO: Message Type: recordMesgs, Count: 3513
+[2025-01-25T18:11:31.457Z] INFO: Message Type: lengthMesgs, Count: 121
+[2025-01-25T18:11:31.457Z] INFO: Message Type: lapMesgs, Count: 9
+[2025-01-25T18:11:31.457Z] INFO: Message Type: timeInZoneMesgs, Count: 10
+[2025-01-25T18:11:31.457Z] INFO: Message Type: sessionMesgs, Count: 1
+[2025-01-25T18:11:31.457Z] INFO: Message Type: activityMesgs, Count: 1
+[2025-01-25T18:11:31.457Z] WARN: No 'record' messages found in file: 2025-01-24-17-19-13.fit
+[2025-01-25T18:11:31.465Z] INFO: Saved JSON file: /home/orhan/Dokumente/Garmin/garmin-backend/output/json/2025-01-24-17-19-13.json
+[2025-01-25T18:11:31.465Z] INFO: All FIT files have been processed and saved to JSON.

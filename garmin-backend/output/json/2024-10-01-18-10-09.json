@@ -1,0 +1,481 @@
+{
+  "fileName": "2024-10-01-18-10-09.fit",
+  "messages": {
+    "fileIdMesgs": [
+      {
+        "serialNumber": 3311454252,
+        "timeCreated": "2024-10-01T16:10:09.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "type": "activity",
+        "garminProduct": "fenix6"
+      }
+    ],
+    "fileCreatorMesgs": [
+      {
+        "softwareVersion": 2700
+      }
+    ],
+    "eventMesgs": [
+      {
+        "timestamp": "2024-10-01T16:10:09.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:10.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      }
+    ],
+    "deviceInfoMesgs": [
+      {
+        "timestamp": "2024-10-01T16:10:09.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:09.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:09.000Z",
+        "manufacturer": "garmin",
+        "product": 4197,
+        "softwareVersion": 6.6,
+        "deviceIndex": 2,
+        "deviceType": 0,
+        "sourceType": "local",
+        "garminProduct": 4197,
+        "localDeviceType": "gps"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:09.000Z",
+        "deviceIndex": 3,
+        "deviceType": 3,
+        "sourceType": "local",
+        "localDeviceType": "accelerometer"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:09.000Z",
+        "deviceIndex": 4,
+        "deviceType": 8,
+        "sourceType": "local",
+        "localDeviceType": 8
+      },
+      {
+        "timestamp": "2024-10-01T16:10:09.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 5,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:09.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 6,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:10.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:10.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:10.000Z",
+        "manufacturer": "garmin",
+        "product": 4197,
+        "softwareVersion": 6.6,
+        "deviceIndex": 2,
+        "deviceType": 0,
+        "sourceType": "local",
+        "garminProduct": 4197,
+        "localDeviceType": "gps"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:10.000Z",
+        "deviceIndex": 3,
+        "deviceType": 3,
+        "sourceType": "local",
+        "localDeviceType": "accelerometer"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:10.000Z",
+        "deviceIndex": 4,
+        "deviceType": 8,
+        "sourceType": "local",
+        "localDeviceType": 8
+      },
+      {
+        "timestamp": "2024-10-01T16:10:10.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 5,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-10-01T16:10:10.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 6,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      }
+    ],
+    "deviceSettingsMesgs": [
+      {
+        "utcOffset": 0,
+        "timeOffset": 7200,
+        "autoActivityDetect": 2147483647,
+        "autosyncMinSteps": 2000,
+        "autosyncMinTime": 240,
+        "activeTimeZone": 0,
+        "timeMode": "hour12",
+        "timeZoneOffset": 0,
+        "backlightMode": "autoBrightness",
+        "activityTrackerEnabled": 1,
+        "moveAlertEnabled": 0,
+        "dateMode": "dayMonth",
+        "mountingSide": "left",
+        "lactateThresholdAutodetectEnabled": 1
+      }
+    ],
+    "userProfileMesgs": [
+      {
+        "wakeTime": 32400,
+        "sleepTime": 3600,
+        "weight": 99.5,
+        "gender": "male",
+        "height": 1.89,
+        "language": "turkish",
+        "elevSetting": "metric",
+        "weightSetting": "metric",
+        "restingHeartRate": 68,
+        "hrSetting": "max",
+        "speedSetting": "metric",
+        "distSetting": "metric",
+        "activityClass": "levelMax",
+        "positionSetting": "degreeMinuteSecond",
+        "temperatureSetting": "metric",
+        "heightSetting": "metric",
+        "depthSetting": "statute"
+      }
+    ],
+    "sportMesgs": [
+      {
+        "name": "Koşu",
+        "sport": "running",
+        "subSport": "generic"
+      }
+    ],
+    "zonesTargetMesgs": [
+      {
+        "maxHeartRate": 186,
+        "thresholdHeartRate": 0,
+        "hrCalcType": "percentMaxHr",
+        "pwrCalcType": "percentFtp"
+      }
+    ],
+    "recordMesgs": [
+      {
+        "timestamp": "2024-10-01T16:10:09.000Z",
+        "positionLat": 608851781,
+        "positionLong": 78818612,
+        "distance": 0.2,
+        "enhancedSpeed": 0,
+        "enhancedAltitude": 97.39999999999998,
+        "cycleLength16": 0,
+        "heartRate": 98,
+        "cadence": 0,
+        "temperature": 29,
+        "fractionalCadence": 0
+      },
+      {
+        "timestamp": "2024-10-01T16:10:10.000Z",
+        "positionLat": 608851794,
+        "positionLong": 78818606,
+        "distance": 0.31,
+        "enhancedSpeed": 0,
+        "enhancedAltitude": 97.20000000000005,
+        "cycleLength16": 0,
+        "heartRate": 98,
+        "cadence": 0,
+        "temperature": 29,
+        "fractionalCadence": 0
+      }
+    ],
+    "gpsMetadataMesgs": [
+      {
+        "enhancedAltitude": 102.79999999999995,
+        "enhancedSpeed": 0
+      },
+      {
+        "enhancedAltitude": 102.79999999999995,
+        "enhancedSpeed": 0
+      },
+      {
+        "enhancedAltitude": 102.79999999999995,
+        "enhancedSpeed": 0
+      },
+      {
+        "enhancedAltitude": 103,
+        "enhancedSpeed": 0
+      },
+      {
+        "enhancedAltitude": 103,
+        "enhancedSpeed": 0
+      }
+    ],
+    "lapMesgs": [
+      {
+        "timestamp": "2024-10-01T16:10:14.000Z",
+        "startTime": "2024-10-01T16:10:09.000Z",
+        "startPositionLat": 608851781,
+        "startPositionLong": 78818612,
+        "endPositionLat": 608851794,
+        "endPositionLong": 78818606,
+        "totalElapsedTime": 0.914,
+        "totalTimerTime": 0.914,
+        "totalDistance": 0.31,
+        "totalCycles": 0,
+        "enhancedAvgSpeed": 0.339,
+        "enhancedMaxSpeed": 0,
+        "enhancedMinAltitude": 97.20000000000005,
+        "enhancedMaxAltitude": 97.39999999999998,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 0,
+        "totalCalories": 0,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "totalAscent": 0,
+        "totalDescent": 0,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 98,
+        "maxHeartRate": 98,
+        "avgCadence": 0,
+        "maxCadence": 0,
+        "lapTrigger": "sessionEnd",
+        "sport": "running",
+        "subSport": "generic",
+        "avgTemperature": 29,
+        "maxTemperature": 29,
+        "avgFractionalCadence": 0,
+        "maxFractionalCadence": 0,
+        "minTemperature": 29,
+        "totalFractionalAscent": 0,
+        "totalFractionalDescent": 0,
+        "totalStrides": 0,
+        "avgRunningCadence": 0,
+        "maxRunningCadence": 0
+      }
+    ],
+    "timeInZoneMesgs": [
+      {
+        "timestamp": "2024-10-01T16:10:14.000Z",
+        "timeInHrZone": [
+          0,
+          0.914,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 0,
+        "hrZoneHighBoundary": [
+          93,
+          112,
+          130,
+          151,
+          167,
+          186
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 186,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timeInHrZone": [
+          0,
+          258,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "referenceMesg": "split",
+        "referenceIndex": 0
+      },
+      {
+        "timestamp": "2024-10-01T16:10:14.000Z",
+        "timeInHrZone": [
+          0,
+          0.914,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "referenceMesg": "session",
+        "referenceIndex": 0,
+        "hrZoneHighBoundary": [
+          93,
+          112,
+          130,
+          151,
+          167,
+          186
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 186,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      }
+    ],
+    "splitMesgs": [
+      {
+        "totalElapsedTime": 5.824,
+        "totalTimerTime": 0.86,
+        "totalDistance": 0.31,
+        "avgSpeed": 0.36,
+        "startTime": "2024-10-01T16:10:09.000Z",
+        "startPositionLat": 608851781,
+        "startPositionLong": 78818612,
+        "endPositionLat": 608851865,
+        "endPositionLong": 78818637,
+        "maxSpeed": 0,
+        "avgVertSpeed": 0,
+        "endTime": "2024-10-01T16:10:10.000Z",
+        "totalCalories": 0,
+        "startElevation": 97.39999999999998,
+        "messageIndex": 0,
+        "totalAscent": 0,
+        "totalDescent": 0,
+        "splitType": "rwdStand"
+      }
+    ],
+    "splitSummaryMesgs": [
+      {
+        "totalTimerTime": 0.86,
+        "totalDistance": 0.31,
+        "avgSpeed": 0.36,
+        "maxSpeed": 0,
+        "avgVertSpeed": 0,
+        "totalCalories": 0,
+        "messageIndex": 0,
+        "numSplits": 1,
+        "totalAscent": 0,
+        "totalDescent": 0,
+        "splitType": "rwdStand",
+        "avgHeartRate": 98,
+        "maxHeartRate": 98
+      }
+    ],
+    "sessionMesgs": [
+      {
+        "timestamp": "2024-10-01T16:10:14.000Z",
+        "startTime": "2024-10-01T16:10:09.000Z",
+        "startPositionLat": 608851781,
+        "startPositionLong": 78818612,
+        "totalElapsedTime": 0.914,
+        "totalTimerTime": 0.914,
+        "totalDistance": 0.31,
+        "necLat": 608851794,
+        "necLong": 78818612,
+        "swcLat": 608851781,
+        "swcLong": 78818606,
+        "endPositionLat": 608851794,
+        "endPositionLong": 78818606,
+        "sportProfileName": "Koşu",
+        "enhancedAvgSpeed": 0.339,
+        "enhancedMaxSpeed": 0,
+        "trainingLoadPeak": 0.0384674072265625,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 0,
+        "totalCalories": 0,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "totalAscent": 0,
+        "totalDescent": 0,
+        "firstLapIndex": 0,
+        "numLaps": 1,
+        "event": "lap",
+        "eventType": "stop",
+        "sport": "running",
+        "subSport": "generic",
+        "avgHeartRate": 98,
+        "maxHeartRate": 98,
+        "totalTrainingEffect": 0,
+        "trigger": "activityEnd",
+        "avgTemperature": 29,
+        "maxTemperature": 29,
+        "totalAnaerobicTrainingEffect": 0,
+        "minTemperature": 29,
+        "totalFractionalAscent": 0,
+        "totalFractionalDescent": 0
+      }
+    ],
+    "activityMesgs": [
+      {
+        "timestamp": "2024-10-01T16:10:14.000Z",
+        "totalTimerTime": 0.914,
+        "localTimestamp": 1096740614,
+        "numSessions": 1,
+        "type": "manual",
+        "event": "activity",
+        "eventType": "stop"
+      }
+    ]
+  }
+}

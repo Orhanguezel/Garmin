@@ -1,0 +1,6101 @@
+{
+  "fileName": "2024-09-17-16-41-54.fit",
+  "messages": {
+    "fileIdMesgs": [
+      {
+        "serialNumber": 3311454252,
+        "timeCreated": "2024-09-17T14:41:54.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "type": "activity",
+        "garminProduct": "fenix6"
+      }
+    ],
+    "fileCreatorMesgs": [
+      {
+        "softwareVersion": 2700
+      }
+    ],
+    "eventMesgs": [
+      {
+        "timestamp": "2024-09-17T14:41:54.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "start",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      },
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "data": 0,
+        "event": "timer",
+        "eventType": "stopAll",
+        "eventGroup": 0,
+        "timerTrigger": "manual"
+      }
+    ],
+    "deviceInfoMesgs": [
+      {
+        "timestamp": "2024-09-17T14:41:54.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-17T14:41:54.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-17T14:41:54.000Z",
+        "deviceIndex": 2,
+        "deviceType": 8,
+        "sourceType": "local",
+        "localDeviceType": 8
+      },
+      {
+        "timestamp": "2024-09-17T14:41:54.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 3,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-17T14:41:54.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 4,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      },
+      {
+        "timestamp": "2024-09-17T14:42:01.000Z",
+        "manufacturer": "garmin",
+        "product": 4197,
+        "softwareVersion": 6.6,
+        "deviceIndex": 5,
+        "deviceType": 0,
+        "sourceType": "local",
+        "garminProduct": 4197,
+        "localDeviceType": "gps"
+      },
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "serialNumber": 3311454252,
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": "creator",
+        "sourceType": "local",
+        "garminProduct": "fenix6"
+      },
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "manufacturer": "garmin",
+        "product": 3290,
+        "softwareVersion": 27,
+        "deviceIndex": 1,
+        "deviceType": 4,
+        "sourceType": "local",
+        "garminProduct": "fenix6",
+        "localDeviceType": "barometer"
+      },
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "manufacturer": "garmin",
+        "product": 4197,
+        "softwareVersion": 6.6,
+        "deviceIndex": 5,
+        "deviceType": 0,
+        "sourceType": "local",
+        "garminProduct": 4197,
+        "localDeviceType": "gps"
+      },
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "deviceIndex": 2,
+        "deviceType": 8,
+        "sourceType": "local",
+        "localDeviceType": 8
+      },
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "softwareVersion": 1,
+        "deviceIndex": 3,
+        "deviceType": 10,
+        "sourceType": "local",
+        "localDeviceType": "whr"
+      },
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "manufacturer": "garmin",
+        "product": 3295,
+        "softwareVersion": 22.1,
+        "deviceIndex": 4,
+        "deviceType": 12,
+        "sourceType": "local",
+        "garminProduct": 3295,
+        "localDeviceType": "sensorHub"
+      }
+    ],
+    "deviceSettingsMesgs": [
+      {
+        "utcOffset": 0,
+        "timeOffset": 7200,
+        "autoActivityDetect": 2147483647,
+        "autosyncMinSteps": 2000,
+        "autosyncMinTime": 240,
+        "activeTimeZone": 0,
+        "timeMode": "hour12",
+        "timeZoneOffset": 0,
+        "backlightMode": "autoBrightness",
+        "activityTrackerEnabled": 1,
+        "moveAlertEnabled": 0,
+        "dateMode": "dayMonth",
+        "mountingSide": "left",
+        "lactateThresholdAutodetectEnabled": 1
+      }
+    ],
+    "userProfileMesgs": [
+      {
+        "wakeTime": 32400,
+        "sleepTime": 3600,
+        "weight": 85.8,
+        "gender": "male",
+        "height": 1.89,
+        "language": "turkish",
+        "elevSetting": "metric",
+        "weightSetting": "metric",
+        "restingHeartRate": 68,
+        "hrSetting": "max",
+        "speedSetting": "metric",
+        "distSetting": "metric",
+        "activityClass": "levelMax",
+        "positionSetting": "degreeMinuteSecond",
+        "temperatureSetting": "metric",
+        "heightSetting": "metric",
+        "depthSetting": "statute"
+      }
+    ],
+    "sportMesgs": [
+      {
+        "name": "Yol Bisikleti",
+        "sport": "cycling",
+        "subSport": "road"
+      }
+    ],
+    "zonesTargetMesgs": [
+      {
+        "functionalThresholdPower": 255,
+        "maxHeartRate": 181,
+        "thresholdHeartRate": 0,
+        "hrCalcType": "percentMaxHr",
+        "pwrCalcType": "percentFtp"
+      }
+    ],
+    "recordMesgs": [
+      {
+        "timestamp": "2024-09-17T14:41:54.000Z",
+        "distance": 0,
+        "enhancedAltitude": 72.20000000000005,
+        "heartRate": 73,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:41:55.000Z",
+        "distance": 0,
+        "enhancedAltitude": 72.20000000000005,
+        "heartRate": 73,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:41:56.000Z",
+        "distance": 0,
+        "enhancedAltitude": 72.20000000000005,
+        "heartRate": 70,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:41:58.000Z",
+        "distance": 0,
+        "enhancedAltitude": 72.39999999999998,
+        "heartRate": 74,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:01.000Z",
+        "positionLat": 608849472,
+        "positionLong": 79820891,
+        "distance": 0,
+        "enhancedSpeed": 0,
+        "enhancedAltitude": 74,
+        "heartRate": 74,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:03.000Z",
+        "positionLat": 608850836,
+        "positionLong": 79819592,
+        "distance": 5.09,
+        "enhancedSpeed": 3.34,
+        "enhancedAltitude": 74,
+        "heartRate": 74,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:04.000Z",
+        "positionLat": 608851510,
+        "positionLong": 79820487,
+        "distance": 13.19,
+        "enhancedSpeed": 3.34,
+        "enhancedAltitude": 72.20000000000005,
+        "heartRate": 78,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:05.000Z",
+        "positionLat": 608851744,
+        "positionLong": 79820558,
+        "distance": 15.26,
+        "enhancedSpeed": 4.003,
+        "enhancedAltitude": 73,
+        "heartRate": 74,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:06.000Z",
+        "positionLat": 608852005,
+        "positionLong": 79820548,
+        "distance": 17.4,
+        "enhancedSpeed": 4.003,
+        "enhancedAltitude": 73.60000000000002,
+        "heartRate": 74,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:07.000Z",
+        "positionLat": 608852419,
+        "positionLong": 79820362,
+        "distance": 20.12,
+        "enhancedSpeed": 4.413,
+        "enhancedAltitude": 73.79999999999995,
+        "heartRate": 77,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:08.000Z",
+        "positionLat": 608852782,
+        "positionLong": 79820086,
+        "distance": 22.14,
+        "enhancedSpeed": 4.413,
+        "enhancedAltitude": 73.79999999999995,
+        "heartRate": 80,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:09.000Z",
+        "positionLat": 608853301,
+        "positionLong": 79820303,
+        "distance": 26.95,
+        "enhancedSpeed": 4.432,
+        "enhancedAltitude": 74.20000000000005,
+        "heartRate": 77,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:10.000Z",
+        "positionLat": 608853955,
+        "positionLong": 79820918,
+        "distance": 34.04,
+        "enhancedSpeed": 4.432,
+        "enhancedAltitude": 75,
+        "heartRate": 75,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:12.000Z",
+        "positionLat": 608855196,
+        "positionLong": 79823262,
+        "distance": 51.12,
+        "enhancedSpeed": 4.413,
+        "enhancedAltitude": 76.39999999999998,
+        "heartRate": 75,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:13.000Z",
+        "positionLat": 608855302,
+        "positionLong": 79824076,
+        "distance": 55.7,
+        "enhancedSpeed": 4.273,
+        "enhancedAltitude": 76.60000000000002,
+        "heartRate": 75,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:17.000Z",
+        "positionLat": 608854587,
+        "positionLong": 79827217,
+        "distance": 75.36,
+        "enhancedSpeed": 4.432,
+        "enhancedAltitude": 76.60000000000002,
+        "heartRate": 72,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:19.000Z",
+        "positionLat": 608854159,
+        "positionLong": 79828857,
+        "distance": 85.77,
+        "enhancedSpeed": 4.432,
+        "enhancedAltitude": 77.20000000000005,
+        "heartRate": 70,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:21.000Z",
+        "positionLat": 608853846,
+        "positionLong": 79829697,
+        "distance": 91.48,
+        "enhancedSpeed": 4.525,
+        "enhancedAltitude": 77.39999999999998,
+        "heartRate": 69,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:23.000Z",
+        "positionLat": 608853376,
+        "positionLong": 79831177,
+        "distance": 101.21,
+        "enhancedSpeed": 4.665,
+        "enhancedAltitude": 77.60000000000002,
+        "heartRate": 70,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:25.000Z",
+        "positionLat": 608852721,
+        "positionLong": 79832922,
+        "distance": 113.13,
+        "enhancedSpeed": 4.824,
+        "enhancedAltitude": 78.39999999999998,
+        "heartRate": 74,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:28.000Z",
+        "positionLat": 608851977,
+        "positionLong": 79835324,
+        "distance": 128.84,
+        "enhancedSpeed": 5.011,
+        "enhancedAltitude": 79.39999999999998,
+        "heartRate": 75,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:29.000Z",
+        "positionLat": 608851838,
+        "positionLong": 79836137,
+        "distance": 133.72,
+        "enhancedSpeed": 5.057,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 76,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:33.000Z",
+        "positionLat": 608850947,
+        "positionLong": 79839654,
+        "distance": 155.97,
+        "enhancedSpeed": 5.291,
+        "enhancedAltitude": 80.60000000000002,
+        "heartRate": 76,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:36.000Z",
+        "positionLat": 608850388,
+        "positionLong": 79841544,
+        "distance": 168.24,
+        "enhancedSpeed": 5.654,
+        "enhancedAltitude": 80.60000000000002,
+        "heartRate": 76,
+        "temperature": 30
+      },
+      {
+        "timestamp": "2024-09-17T14:42:39.000Z",
+        "positionLat": 608849559,
+        "positionLong": 79844449,
+        "distance": 186.99,
+        "enhancedSpeed": 5.925,
+        "enhancedAltitude": 81.60000000000002,
+        "heartRate": 79,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:41.000Z",
+        "positionLat": 608848983,
+        "positionLong": 79846239,
+        "distance": 198.81,
+        "enhancedSpeed": 5.925,
+        "enhancedAltitude": 81.60000000000002,
+        "heartRate": 83,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:42.000Z",
+        "positionLat": 608848537,
+        "positionLong": 79847061,
+        "distance": 205.1,
+        "enhancedSpeed": 5.925,
+        "enhancedAltitude": 81.60000000000002,
+        "heartRate": 83,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:44.000Z",
+        "positionLat": 608847626,
+        "positionLong": 79848546,
+        "distance": 217.18,
+        "enhancedSpeed": 5.16,
+        "enhancedAltitude": 81.60000000000002,
+        "heartRate": 85,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:46.000Z",
+        "positionLat": 608846675,
+        "positionLong": 79849602,
+        "distance": 228.01,
+        "enhancedSpeed": 4.787,
+        "enhancedAltitude": 81.79999999999995,
+        "heartRate": 86,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:47.000Z",
+        "positionLat": 608846136,
+        "positionLong": 79849818,
+        "distance": 233.19,
+        "enhancedSpeed": 4.787,
+        "enhancedAltitude": 82.20000000000005,
+        "heartRate": 85,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:48.000Z",
+        "positionLat": 608845613,
+        "positionLong": 79849969,
+        "distance": 238.15,
+        "enhancedSpeed": 5.16,
+        "enhancedAltitude": 82.39999999999998,
+        "heartRate": 86,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:50.000Z",
+        "positionLat": 608844383,
+        "positionLong": 79850046,
+        "distance": 249.59,
+        "enhancedSpeed": 5.16,
+        "enhancedAltitude": 82.60000000000002,
+        "heartRate": 86,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:52.000Z",
+        "positionLat": 608843013,
+        "positionLong": 79849658,
+        "distance": 262.55,
+        "enhancedSpeed": 6.158,
+        "enhancedAltitude": 82.60000000000002,
+        "heartRate": 87,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:54.000Z",
+        "positionLat": 608841501,
+        "positionLong": 79848945,
+        "distance": 277.23,
+        "enhancedSpeed": 6.737,
+        "enhancedAltitude": 82.79999999999995,
+        "heartRate": 90,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:56.000Z",
+        "positionLat": 608840023,
+        "positionLong": 79847980,
+        "distance": 292.13,
+        "enhancedSpeed": 7.269,
+        "enhancedAltitude": 82.60000000000002,
+        "heartRate": 93,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:42:57.000Z",
+        "positionLat": 608839270,
+        "positionLong": 79847514,
+        "distance": 299.67,
+        "enhancedSpeed": 7.269,
+        "enhancedAltitude": 82.79999999999995,
+        "heartRate": 94,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:00.000Z",
+        "positionLat": 608837024,
+        "positionLong": 79846704,
+        "distance": 321.09,
+        "enhancedSpeed": 6.793,
+        "enhancedAltitude": 82.79999999999995,
+        "heartRate": 99,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:04.000Z",
+        "positionLat": 608834168,
+        "positionLong": 79845351,
+        "distance": 348.88,
+        "enhancedSpeed": 6.793,
+        "enhancedAltitude": 83.60000000000002,
+        "heartRate": 99,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:06.000Z",
+        "positionLat": 608832967,
+        "positionLong": 79844630,
+        "distance": 360.86,
+        "enhancedSpeed": 6.681,
+        "enhancedAltitude": 83.79999999999995,
+        "heartRate": 102,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:07.000Z",
+        "positionLat": 608832292,
+        "positionLong": 79844199,
+        "distance": 367.64,
+        "enhancedSpeed": 6.662,
+        "enhancedAltitude": 84,
+        "heartRate": 105,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:09.000Z",
+        "positionLat": 608830934,
+        "positionLong": 79843334,
+        "distance": 381.29,
+        "enhancedSpeed": 6.662,
+        "enhancedAltitude": 84,
+        "heartRate": 108,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:11.000Z",
+        "positionLat": 608829546,
+        "positionLong": 79842485,
+        "distance": 395.16,
+        "enhancedSpeed": 6.662,
+        "enhancedAltitude": 84,
+        "heartRate": 111,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:12.000Z",
+        "positionLat": 608828834,
+        "positionLong": 79842091,
+        "distance": 402.19,
+        "enhancedSpeed": 6.69,
+        "enhancedAltitude": 84.20000000000005,
+        "heartRate": 107,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:13.000Z",
+        "positionLat": 608828129,
+        "positionLong": 79841665,
+        "distance": 409.22,
+        "enhancedSpeed": 6.774,
+        "enhancedAltitude": 84,
+        "heartRate": 110,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:15.000Z",
+        "positionLat": 608826798,
+        "positionLong": 79841055,
+        "distance": 422.14,
+        "enhancedSpeed": 6.681,
+        "enhancedAltitude": 84.20000000000005,
+        "heartRate": 112,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:16.000Z",
+        "positionLat": 608826145,
+        "positionLong": 79840905,
+        "distance": 428.26,
+        "enhancedSpeed": 6.83,
+        "enhancedAltitude": 84.39999999999998,
+        "heartRate": 111,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:17.000Z",
+        "positionLat": 608825441,
+        "positionLong": 79840693,
+        "distance": 434.93,
+        "enhancedSpeed": 6.83,
+        "enhancedAltitude": 84.39999999999998,
+        "heartRate": 112,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:18.000Z",
+        "positionLat": 608824748,
+        "positionLong": 79840560,
+        "distance": 441.43,
+        "enhancedSpeed": 6.83,
+        "enhancedAltitude": 84.39999999999998,
+        "heartRate": 112,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:19.000Z",
+        "positionLat": 608824101,
+        "positionLong": 79840304,
+        "distance": 447.57,
+        "enhancedSpeed": 6.83,
+        "enhancedAltitude": 84.60000000000002,
+        "heartRate": 111,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:20.000Z",
+        "positionLat": 608823506,
+        "positionLong": 79839862,
+        "distance": 453.69,
+        "enhancedSpeed": 6.681,
+        "enhancedAltitude": 84.60000000000002,
+        "heartRate": 112,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:26.000Z",
+        "positionLat": 608819401,
+        "positionLong": 79836346,
+        "distance": 497.23,
+        "enhancedSpeed": 7.53,
+        "enhancedAltitude": 84,
+        "heartRate": 114,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:31.000Z",
+        "positionLat": 608815578,
+        "positionLong": 79833023,
+        "distance": 537.87,
+        "enhancedSpeed": 8.668,
+        "enhancedAltitude": 82.20000000000005,
+        "heartRate": 115,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:32.000Z",
+        "positionLat": 608814757,
+        "positionLong": 79832303,
+        "distance": 546.62,
+        "enhancedSpeed": 8.799,
+        "enhancedAltitude": 82,
+        "heartRate": 114,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:36.000Z",
+        "positionLat": 608811188,
+        "positionLong": 79829578,
+        "distance": 583.54,
+        "enhancedSpeed": 9.695,
+        "enhancedAltitude": 81,
+        "heartRate": 115,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:38.000Z",
+        "positionLat": 608809244,
+        "positionLong": 79828140,
+        "distance": 603.55,
+        "enhancedSpeed": 10.114,
+        "enhancedAltitude": 80.79999999999995,
+        "heartRate": 116,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:40.000Z",
+        "positionLat": 608807201,
+        "positionLong": 79826787,
+        "distance": 624.19,
+        "enhancedSpeed": 10.301,
+        "enhancedAltitude": 79.79999999999995,
+        "heartRate": 117,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:42.000Z",
+        "positionLat": 608805071,
+        "positionLong": 79825528,
+        "distance": 645.39,
+        "enhancedSpeed": 10.114,
+        "enhancedAltitude": 78.79999999999995,
+        "heartRate": 115,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:44.000Z",
+        "positionLat": 608802862,
+        "positionLong": 79824363,
+        "distance": 667.09,
+        "enhancedSpeed": 10.301,
+        "enhancedAltitude": 78.20000000000005,
+        "heartRate": 115,
+        "temperature": 29
+      },
+      {
+        "timestamp": "2024-09-17T14:43:47.000Z",
+        "positionLat": 608799762,
+        "positionLong": 79822979,
+        "distance": 697.12,
+        "enhancedSpeed": 9.769,
+        "enhancedAltitude": 77.39999999999998,
+        "heartRate": 116,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:43:49.000Z",
+        "positionLat": 608798073,
+        "positionLong": 79822479,
+        "distance": 713.14,
+        "enhancedSpeed": 8.146,
+        "enhancedAltitude": 76.20000000000005,
+        "heartRate": 117,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:43:51.000Z",
+        "positionLat": 608796740,
+        "positionLong": 79822190,
+        "distance": 725.68,
+        "enhancedSpeed": 6.298,
+        "enhancedAltitude": 75.79999999999995,
+        "heartRate": 120,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:43:52.000Z",
+        "positionLat": 608795917,
+        "positionLong": 79821962,
+        "distance": 733.47,
+        "enhancedSpeed": 6.503,
+        "enhancedAltitude": 75.79999999999995,
+        "heartRate": 120,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:43:54.000Z",
+        "positionLat": 608794487,
+        "positionLong": 79821431,
+        "distance": 747.15,
+        "enhancedSpeed": 6.877,
+        "enhancedAltitude": 75.79999999999995,
+        "heartRate": 119,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:43:58.000Z",
+        "positionLat": 608791234,
+        "positionLong": 79820182,
+        "distance": 778.37,
+        "enhancedSpeed": 7.94,
+        "enhancedAltitude": 76.20000000000005,
+        "heartRate": 118,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:02.000Z",
+        "positionLat": 608787920,
+        "positionLong": 79819446,
+        "distance": 809.6,
+        "enhancedSpeed": 7.922,
+        "enhancedAltitude": 76.79999999999995,
+        "heartRate": 119,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:04.000Z",
+        "positionLat": 608786181,
+        "positionLong": 79819353,
+        "distance": 825.81,
+        "enhancedSpeed": 7.94,
+        "enhancedAltitude": 77,
+        "heartRate": 119,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:08.000Z",
+        "positionLat": 608782745,
+        "positionLong": 79819064,
+        "distance": 857.88,
+        "enhancedSpeed": 8.024,
+        "enhancedAltitude": 77.20000000000005,
+        "heartRate": 115,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:10.000Z",
+        "positionLat": 608781156,
+        "positionLong": 79818970,
+        "distance": 872.72,
+        "enhancedSpeed": 7.101,
+        "enhancedAltitude": 77.39999999999998,
+        "heartRate": 115,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:12.000Z",
+        "positionLat": 608779762,
+        "positionLong": 79818945,
+        "distance": 885.71,
+        "enhancedSpeed": 6.261,
+        "enhancedAltitude": 77.79999999999995,
+        "heartRate": 113,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:14.000Z",
+        "positionLat": 608778436,
+        "positionLong": 79818985,
+        "distance": 898.07,
+        "enhancedSpeed": 6,
+        "enhancedAltitude": 78.20000000000005,
+        "heartRate": 113,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:15.000Z",
+        "positionLat": 608777762,
+        "positionLong": 79818994,
+        "distance": 904.35,
+        "enhancedSpeed": 6,
+        "enhancedAltitude": 78.60000000000002,
+        "heartRate": 112,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:18.000Z",
+        "positionLat": 608775801,
+        "positionLong": 79819175,
+        "distance": 922.64,
+        "enhancedSpeed": 6.084,
+        "enhancedAltitude": 79.20000000000005,
+        "heartRate": 113,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:21.000Z",
+        "positionLat": 608773833,
+        "positionLong": 79819402,
+        "distance": 941.05,
+        "enhancedSpeed": 5.981,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 113,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:23.000Z",
+        "positionLat": 608772639,
+        "positionLong": 79819525,
+        "distance": 952.17,
+        "enhancedSpeed": 5.916,
+        "enhancedAltitude": 79.79999999999995,
+        "heartRate": 114,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:25.000Z",
+        "positionLat": 608771496,
+        "positionLong": 79819607,
+        "distance": 962.83,
+        "enhancedSpeed": 5.785,
+        "enhancedAltitude": 80,
+        "heartRate": 114,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:28.000Z",
+        "positionLat": 608769954,
+        "positionLong": 79819592,
+        "distance": 977.19,
+        "enhancedSpeed": 4.759,
+        "enhancedAltitude": 80.20000000000005,
+        "heartRate": 116,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:30.000Z",
+        "positionLat": 608768807,
+        "positionLong": 79819530,
+        "distance": 987.86,
+        "enhancedSpeed": 5.123,
+        "enhancedAltitude": 80.20000000000005,
+        "heartRate": 118,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:32.000Z",
+        "positionLat": 608767718,
+        "positionLong": 79819381,
+        "distance": 998.02,
+        "enhancedSpeed": 4.973,
+        "enhancedAltitude": 80,
+        "heartRate": 115,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:37.000Z",
+        "positionLat": 608765054,
+        "positionLong": 79818425,
+        "distance": 1023.46,
+        "enhancedSpeed": 5.067,
+        "enhancedAltitude": 79.79999999999995,
+        "heartRate": 117,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:41.000Z",
+        "positionLat": 608762924,
+        "positionLong": 79817408,
+        "distance": 1044.19,
+        "enhancedSpeed": 4.544,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 116,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:42.000Z",
+        "positionLat": 608762678,
+        "positionLong": 79817218,
+        "distance": 1046.72,
+        "enhancedSpeed": 2.902,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 116,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:45.000Z",
+        "positionLat": 608762291,
+        "positionLong": 79816863,
+        "distance": 1050.96,
+        "enhancedSpeed": 1.409,
+        "enhancedAltitude": 79.39999999999998,
+        "heartRate": 115,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:46.000Z",
+        "positionLat": 608762279,
+        "positionLong": 79816532,
+        "distance": 1052.84,
+        "enhancedSpeed": 1.708,
+        "enhancedAltitude": 79.39999999999998,
+        "heartRate": 115,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:50.000Z",
+        "positionLat": 608761701,
+        "positionLong": 79814779,
+        "distance": 1064.77,
+        "enhancedSpeed": 3.546,
+        "enhancedAltitude": 79.20000000000005,
+        "heartRate": 115,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:54.000Z",
+        "positionLat": 608760171,
+        "positionLong": 79813013,
+        "distance": 1082.39,
+        "enhancedSpeed": 4.945,
+        "enhancedAltitude": 78.60000000000002,
+        "heartRate": 117,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:55.000Z",
+        "positionLat": 608759648,
+        "positionLong": 79812528,
+        "distance": 1088.04,
+        "enhancedSpeed": 5.673,
+        "enhancedAltitude": 78.39999999999998,
+        "heartRate": 117,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:44:59.000Z",
+        "positionLat": 608757314,
+        "positionLong": 79810512,
+        "distance": 1112.82,
+        "enhancedSpeed": 5.673,
+        "enhancedAltitude": 78.39999999999998,
+        "heartRate": 120,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:45:00.000Z",
+        "positionLat": 608756755,
+        "positionLong": 79809872,
+        "distance": 1119.22,
+        "enhancedSpeed": 5.692,
+        "enhancedAltitude": 78.39999999999998,
+        "heartRate": 120,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:45:01.000Z",
+        "positionLat": 608756297,
+        "positionLong": 79809076,
+        "distance": 1125.55,
+        "enhancedSpeed": 5.776,
+        "enhancedAltitude": 78.60000000000002,
+        "heartRate": 121,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:45:02.000Z",
+        "positionLat": 608755798,
+        "positionLong": 79808212,
+        "distance": 1132.42,
+        "enhancedSpeed": 6.587,
+        "enhancedAltitude": 78.60000000000002,
+        "heartRate": 121,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:45:04.000Z",
+        "positionLat": 608754525,
+        "positionLong": 79806554,
+        "distance": 1147.72,
+        "enhancedSpeed": 7.735,
+        "enhancedAltitude": 78.39999999999998,
+        "heartRate": 121,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:45:05.000Z",
+        "positionLat": 608753759,
+        "positionLong": 79805871,
+        "distance": 1155.9,
+        "enhancedSpeed": 7.894,
+        "enhancedAltitude": 77.79999999999995,
+        "heartRate": 120,
+        "temperature": 28
+      },
+      {
+        "timestamp": "2024-09-17T14:45:08.000Z",
+        "positionLat": 608751312,
+        "positionLong": 79804084,
+        "distance": 1181,
+        "enhancedSpeed": 8.416,
+        "enhancedAltitude": 77.60000000000002,
+        "heartRate": 122,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:10.000Z",
+        "positionLat": 608749626,
+        "positionLong": 79803113,
+        "distance": 1197.73,
+        "enhancedSpeed": 8.192,
+        "enhancedAltitude": 77.79999999999995,
+        "heartRate": 120,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:14.000Z",
+        "positionLat": 608746330,
+        "positionLong": 79801490,
+        "distance": 1229.9,
+        "enhancedSpeed": 7.968,
+        "enhancedAltitude": 77.20000000000005,
+        "heartRate": 120,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:16.000Z",
+        "positionLat": 608744735,
+        "positionLong": 79800724,
+        "distance": 1245.44,
+        "enhancedSpeed": 7.856,
+        "enhancedAltitude": 76.79999999999995,
+        "heartRate": 120,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:22.000Z",
+        "positionLat": 608739565,
+        "positionLong": 79799491,
+        "distance": 1294.38,
+        "enhancedSpeed": 7.968,
+        "enhancedAltitude": 77,
+        "heartRate": 118,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:27.000Z",
+        "positionLat": 608735460,
+        "positionLong": 79800067,
+        "distance": 1332.86,
+        "enhancedSpeed": 7.082,
+        "enhancedAltitude": 78.39999999999998,
+        "heartRate": 118,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:28.000Z",
+        "positionLat": 608734614,
+        "positionLong": 79800396,
+        "distance": 1340.98,
+        "enhancedSpeed": 6.867,
+        "enhancedAltitude": 78.79999999999995,
+        "heartRate": 118,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:29.000Z",
+        "positionLat": 608734079,
+        "positionLong": 79800551,
+        "distance": 1346.05,
+        "enhancedSpeed": 6.457,
+        "enhancedAltitude": 79.39999999999998,
+        "heartRate": 118,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:31.000Z",
+        "positionLat": 608732728,
+        "positionLong": 79800807,
+        "distance": 1358.73,
+        "enhancedSpeed": 6.345,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 118,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:34.000Z",
+        "positionLat": 608730656,
+        "positionLong": 79801182,
+        "distance": 1378.18,
+        "enhancedSpeed": 6.466,
+        "enhancedAltitude": 80.20000000000005,
+        "heartRate": 117,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:36.000Z",
+        "positionLat": 608729301,
+        "positionLong": 79801505,
+        "distance": 1390.95,
+        "enhancedSpeed": 6.42,
+        "enhancedAltitude": 80,
+        "heartRate": 116,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:39.000Z",
+        "positionLat": 608727213,
+        "positionLong": 79801774,
+        "distance": 1410.48,
+        "enhancedSpeed": 6.382,
+        "enhancedAltitude": 79.79999999999995,
+        "heartRate": 114,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:42.000Z",
+        "positionLat": 608725079,
+        "positionLong": 79802043,
+        "distance": 1430.44,
+        "enhancedSpeed": 6.466,
+        "enhancedAltitude": 79.79999999999995,
+        "heartRate": 111,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:46.000Z",
+        "positionLat": 608722424,
+        "positionLong": 79802393,
+        "distance": 1455.27,
+        "enhancedSpeed": 6.382,
+        "enhancedAltitude": 80.39999999999998,
+        "heartRate": 110,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:47.000Z",
+        "positionLat": 608721793,
+        "positionLong": 79802387,
+        "distance": 1461.15,
+        "enhancedSpeed": 6.382,
+        "enhancedAltitude": 80.79999999999995,
+        "heartRate": 111,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:49.000Z",
+        "positionLat": 608720557,
+        "positionLong": 79802257,
+        "distance": 1472.69,
+        "enhancedSpeed": 6.046,
+        "enhancedAltitude": 81,
+        "heartRate": 111,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:54.000Z",
+        "positionLat": 608717461,
+        "positionLong": 79801745,
+        "distance": 1501.74,
+        "enhancedSpeed": 5.925,
+        "enhancedAltitude": 81,
+        "heartRate": 111,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:57.000Z",
+        "positionLat": 608715444,
+        "positionLong": 79800981,
+        "distance": 1521.08,
+        "enhancedSpeed": 5.925,
+        "enhancedAltitude": 81,
+        "heartRate": 111,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:45:59.000Z",
+        "positionLat": 608714097,
+        "positionLong": 79800456,
+        "distance": 1534,
+        "enhancedSpeed": 6.177,
+        "enhancedAltitude": 81.20000000000005,
+        "heartRate": 114,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:01.000Z",
+        "positionLat": 608712710,
+        "positionLong": 79799890,
+        "distance": 1547.35,
+        "enhancedSpeed": 6.457,
+        "enhancedAltitude": 81.20000000000005,
+        "heartRate": 117,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:05.000Z",
+        "positionLat": 608709658,
+        "positionLong": 79798484,
+        "distance": 1577,
+        "enhancedSpeed": 6.625,
+        "enhancedAltitude": 80.79999999999995,
+        "heartRate": 116,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:06.000Z",
+        "positionLat": 608708867,
+        "positionLong": 79798149,
+        "distance": 1584.63,
+        "enhancedSpeed": 7.437,
+        "enhancedAltitude": 80.79999999999995,
+        "heartRate": 119,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:09.000Z",
+        "positionLat": 608706597,
+        "positionLong": 79797131,
+        "distance": 1606.62,
+        "enhancedSpeed": 7.959,
+        "enhancedAltitude": 80.60000000000002,
+        "heartRate": 122,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:10.000Z",
+        "positionLat": 608705768,
+        "positionLong": 79796774,
+        "distance": 1614.62,
+        "enhancedSpeed": 7.978,
+        "enhancedAltitude": 80.60000000000002,
+        "heartRate": 124,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:12.000Z",
+        "positionLat": 608704072,
+        "positionLong": 79796090,
+        "distance": 1630.95,
+        "enhancedSpeed": 7.959,
+        "enhancedAltitude": 80.39999999999998,
+        "heartRate": 127,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:17.000Z",
+        "positionLat": 608699647,
+        "positionLong": 79794368,
+        "distance": 1673.43,
+        "enhancedSpeed": 8.332,
+        "enhancedAltitude": 79.79999999999995,
+        "heartRate": 127,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:18.000Z",
+        "positionLat": 608698721,
+        "positionLong": 79794087,
+        "distance": 1682.22,
+        "enhancedSpeed": 8.426,
+        "enhancedAltitude": 79.39999999999998,
+        "heartRate": 126,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:21.000Z",
+        "positionLat": 608695884,
+        "positionLong": 79793533,
+        "distance": 1708.88,
+        "enhancedSpeed": 8.65,
+        "enhancedAltitude": 79.20000000000005,
+        "heartRate": 130,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:22.000Z",
+        "positionLat": 608694904,
+        "positionLong": 79793407,
+        "distance": 1718.04,
+        "enhancedSpeed": 8.687,
+        "enhancedAltitude": 79.20000000000005,
+        "heartRate": 125,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:24.000Z",
+        "positionLat": 608692947,
+        "positionLong": 79793013,
+        "distance": 1736.44,
+        "enhancedSpeed": 8.79,
+        "enhancedAltitude": 79.39999999999998,
+        "heartRate": 125,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:29.000Z",
+        "positionLat": 608688000,
+        "positionLong": 79792196,
+        "distance": 1782.82,
+        "enhancedSpeed": 9.181,
+        "enhancedAltitude": 79,
+        "heartRate": 122,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:32.000Z",
+        "positionLat": 608684869,
+        "positionLong": 79791541,
+        "distance": 1812.27,
+        "enhancedSpeed": 9.2,
+        "enhancedAltitude": 79.20000000000005,
+        "heartRate": 122,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:37.000Z",
+        "positionLat": 608679884,
+        "positionLong": 79790337,
+        "distance": 1859.24,
+        "enhancedSpeed": 9.284,
+        "enhancedAltitude": 79,
+        "heartRate": 121,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:39.000Z",
+        "positionLat": 608678109,
+        "positionLong": 79789621,
+        "distance": 1876.31,
+        "enhancedSpeed": 9.284,
+        "enhancedAltitude": 79,
+        "heartRate": 120,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:40.000Z",
+        "positionLat": 608677130,
+        "positionLong": 79789287,
+        "distance": 1885.64,
+        "enhancedSpeed": 9.377,
+        "enhancedAltitude": 79,
+        "heartRate": 119,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:44.000Z",
+        "positionLat": 608672997,
+        "positionLong": 79788328,
+        "distance": 1924.57,
+        "enhancedSpeed": 9.508,
+        "enhancedAltitude": 79.39999999999998,
+        "heartRate": 120,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:47.000Z",
+        "positionLat": 608669956,
+        "positionLong": 79787455,
+        "distance": 1953.39,
+        "enhancedSpeed": 9.517,
+        "enhancedAltitude": 80.60000000000002,
+        "heartRate": 120,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:51.000Z",
+        "positionLat": 608665872,
+        "positionLong": 79785967,
+        "distance": 1992.46,
+        "enhancedSpeed": 9.508,
+        "enhancedAltitude": 81,
+        "heartRate": 123,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:52.000Z",
+        "positionLat": 608665127,
+        "positionLong": 79785696,
+        "distance": 1999.58,
+        "enhancedSpeed": 9.489,
+        "enhancedAltitude": 81,
+        "heartRate": 122,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:54.000Z",
+        "positionLat": 608663122,
+        "positionLong": 79784957,
+        "distance": 2018.78,
+        "enhancedSpeed": 9.489,
+        "enhancedAltitude": 81,
+        "heartRate": 121,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:57.000Z",
+        "positionLat": 608660144,
+        "positionLong": 79783741,
+        "distance": 2047.46,
+        "enhancedSpeed": 9.508,
+        "enhancedAltitude": 80.79999999999995,
+        "heartRate": 120,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:46:59.000Z",
+        "positionLat": 608657873,
+        "positionLong": 79783124,
+        "distance": 2068.96,
+        "enhancedSpeed": 9.592,
+        "enhancedAltitude": 80.60000000000002,
+        "heartRate": 120,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:47:01.000Z",
+        "positionLat": 608655600,
+        "positionLong": 79782834,
+        "distance": 2090.19,
+        "enhancedSpeed": 10.516,
+        "enhancedAltitude": 80.20000000000005,
+        "heartRate": 121,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:47:04.000Z",
+        "positionLat": 608652196,
+        "positionLong": 79782054,
+        "distance": 2122.26,
+        "enhancedSpeed": 10.544,
+        "enhancedAltitude": 79,
+        "heartRate": 122,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:47:07.000Z",
+        "positionLat": 608648692,
+        "positionLong": 79781176,
+        "distance": 2155.31,
+        "enhancedSpeed": 10.516,
+        "enhancedAltitude": 77.39999999999998,
+        "heartRate": 121,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:47:09.000Z",
+        "positionLat": 608646619,
+        "positionLong": 79780724,
+        "distance": 2174.82,
+        "enhancedSpeed": 10.646,
+        "enhancedAltitude": 76,
+        "heartRate": 118,
+        "temperature": 27
+      },
+      {
+        "timestamp": "2024-09-17T14:47:15.000Z",
+        "positionLat": 608639652,
+        "positionLong": 79779280,
+        "distance": 2240.34,
+        "enhancedSpeed": 10.656,
+        "enhancedAltitude": 75.20000000000005,
+        "heartRate": 119,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:17.000Z",
+        "positionLat": 608637547,
+        "positionLong": 79778912,
+        "distance": 2260.08,
+        "enhancedSpeed": 9.779,
+        "enhancedAltitude": 75.39999999999998,
+        "heartRate": 116,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:18.000Z",
+        "positionLat": 608636547,
+        "positionLong": 79778831,
+        "distance": 2269.42,
+        "enhancedSpeed": 9.387,
+        "enhancedAltitude": 75.60000000000002,
+        "heartRate": 116,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:22.000Z",
+        "positionLat": 608633051,
+        "positionLong": 79779248,
+        "distance": 2302.14,
+        "enhancedSpeed": 7.716,
+        "enhancedAltitude": 75.79999999999995,
+        "heartRate": 116,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:23.000Z",
+        "positionLat": 608632243,
+        "positionLong": 79779386,
+        "distance": 2309.71,
+        "enhancedSpeed": 7.688,
+        "enhancedAltitude": 76.20000000000005,
+        "heartRate": 115,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:30.000Z",
+        "positionLat": 608626644,
+        "positionLong": 79779841,
+        "distance": 2361.99,
+        "enhancedSpeed": 7.688,
+        "enhancedAltitude": 76.60000000000002,
+        "heartRate": 117,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:32.000Z",
+        "positionLat": 608625048,
+        "positionLong": 79780125,
+        "distance": 2376.96,
+        "enhancedSpeed": 7.642,
+        "enhancedAltitude": 77,
+        "heartRate": 118,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:37.000Z",
+        "positionLat": 608621096,
+        "positionLong": 79781079,
+        "distance": 2414.23,
+        "enhancedSpeed": 7.381,
+        "enhancedAltitude": 77.39999999999998,
+        "heartRate": 120,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:40.000Z",
+        "positionLat": 608618783,
+        "positionLong": 79781627,
+        "distance": 2436.03,
+        "enhancedSpeed": 7.166,
+        "enhancedAltitude": 77.39999999999998,
+        "heartRate": 123,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:42.000Z",
+        "positionLat": 608617309,
+        "positionLong": 79782166,
+        "distance": 2450.14,
+        "enhancedSpeed": 7.119,
+        "enhancedAltitude": 77.39999999999998,
+        "heartRate": 126,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:44.000Z",
+        "positionLat": 608616119,
+        "positionLong": 79782683,
+        "distance": 2461.64,
+        "enhancedSpeed": 5.263,
+        "enhancedAltitude": 77.79999999999995,
+        "heartRate": 128,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:47.000Z",
+        "positionLat": 608614926,
+        "positionLong": 79782905,
+        "distance": 2472.73,
+        "enhancedSpeed": 3.359,
+        "enhancedAltitude": 78,
+        "heartRate": 131,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:49.000Z",
+        "positionLat": 608613978,
+        "positionLong": 79783388,
+        "distance": 2481.97,
+        "enhancedSpeed": 5.272,
+        "enhancedAltitude": 77.60000000000002,
+        "heartRate": 131,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:51.000Z",
+        "positionLat": 608612848,
+        "positionLong": 79783851,
+        "distance": 2492.85,
+        "enhancedSpeed": 5.272,
+        "enhancedAltitude": 77,
+        "heartRate": 131,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:52.000Z",
+        "positionLat": 608612299,
+        "positionLong": 79784073,
+        "distance": 2498.12,
+        "enhancedSpeed": 5.272,
+        "enhancedAltitude": 77,
+        "heartRate": 131,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:54.000Z",
+        "positionLat": 608611233,
+        "positionLong": 79784279,
+        "distance": 2508.12,
+        "enhancedSpeed": 5.291,
+        "enhancedAltitude": 77,
+        "heartRate": 131,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:56.000Z",
+        "positionLat": 608609825,
+        "positionLong": 79784312,
+        "distance": 2521.25,
+        "enhancedSpeed": 5.393,
+        "enhancedAltitude": 77,
+        "heartRate": 132,
+        "temperature": 26
+      },
+      {
+        "timestamp": "2024-09-17T14:47:59.000Z",
+        "positionLat": 608607921,
+        "positionLong": 79784003,
+        "distance": 2539.09,
+        "enhancedSpeed": 5.813,
+        "enhancedAltitude": 77.79999999999995,
+        "heartRate": 135,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:00.000Z",
+        "positionLat": 608607271,
+        "positionLong": 79783823,
+        "distance": 2545.23,
+        "enhancedSpeed": 5.822,
+        "enhancedAltitude": 78.20000000000005,
+        "heartRate": 136,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:02.000Z",
+        "positionLat": 608606105,
+        "positionLong": 79783544,
+        "distance": 2556.22,
+        "enhancedSpeed": 5.888,
+        "enhancedAltitude": 78.39999999999998,
+        "heartRate": 138,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:06.000Z",
+        "positionLat": 608603326,
+        "positionLong": 79783590,
+        "distance": 2582.14,
+        "enhancedSpeed": 6.009,
+        "enhancedAltitude": 79,
+        "heartRate": 141,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:07.000Z",
+        "positionLat": 608602651,
+        "positionLong": 79783505,
+        "distance": 2588.45,
+        "enhancedSpeed": 6.009,
+        "enhancedAltitude": 79.20000000000005,
+        "heartRate": 141,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:08.000Z",
+        "positionLat": 608602101,
+        "positionLong": 79783432,
+        "distance": 2593.59,
+        "enhancedSpeed": 6.121,
+        "enhancedAltitude": 79.20000000000005,
+        "heartRate": 141,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:17.000Z",
+        "positionLat": 608595402,
+        "positionLong": 79782252,
+        "distance": 2656.43,
+        "enhancedSpeed": 6.634,
+        "enhancedAltitude": 79.79999999999995,
+        "heartRate": 140,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:22.000Z",
+        "positionLat": 608592002,
+        "positionLong": 79781667,
+        "distance": 2688.31,
+        "enhancedSpeed": 6.643,
+        "enhancedAltitude": 80.20000000000005,
+        "heartRate": 140,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:24.000Z",
+        "positionLat": 608590685,
+        "positionLong": 79781571,
+        "distance": 2700.6,
+        "enhancedSpeed": 6.634,
+        "enhancedAltitude": 80.20000000000005,
+        "heartRate": 141,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:28.000Z",
+        "positionLat": 608587878,
+        "positionLong": 79780855,
+        "distance": 2727.06,
+        "enhancedSpeed": 6.354,
+        "enhancedAltitude": 80.20000000000005,
+        "heartRate": 142,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:29.000Z",
+        "positionLat": 608587349,
+        "positionLong": 79780687,
+        "distance": 2732.09,
+        "enhancedSpeed": 6.28,
+        "enhancedAltitude": 80,
+        "heartRate": 142,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:35.000Z",
+        "positionLat": 608583083,
+        "positionLong": 79779813,
+        "distance": 2772.19,
+        "enhancedSpeed": 6.755,
+        "enhancedAltitude": 79.79999999999995,
+        "heartRate": 141,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:36.000Z",
+        "positionLat": 608582286,
+        "positionLong": 79779692,
+        "distance": 2779.64,
+        "enhancedSpeed": 6.569,
+        "enhancedAltitude": 79.79999999999995,
+        "heartRate": 141,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:37.000Z",
+        "positionLat": 608581470,
+        "positionLong": 79779570,
+        "distance": 2787.28,
+        "enhancedSpeed": 6.634,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 141,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:40.000Z",
+        "positionLat": 608579270,
+        "positionLong": 79779106,
+        "distance": 2807.91,
+        "enhancedSpeed": 6.69,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 141,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:44.000Z",
+        "positionLat": 608576575,
+        "positionLong": 79777707,
+        "distance": 2834.39,
+        "enhancedSpeed": 6.718,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 142,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:51.000Z",
+        "positionLat": 608571438,
+        "positionLong": 79774656,
+        "distance": 2885.54,
+        "enhancedSpeed": 7.017,
+        "enhancedAltitude": 80,
+        "heartRate": 144,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:53.000Z",
+        "positionLat": 608570223,
+        "positionLong": 79773879,
+        "distance": 2897.76,
+        "enhancedSpeed": 7.017,
+        "enhancedAltitude": 80.20000000000005,
+        "heartRate": 144,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:55.000Z",
+        "positionLat": 608568657,
+        "positionLong": 79773076,
+        "distance": 2913.09,
+        "enhancedSpeed": 7.222,
+        "enhancedAltitude": 80.60000000000002,
+        "heartRate": 144,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:48:56.000Z",
+        "positionLat": 608567906,
+        "positionLong": 79772659,
+        "distance": 2920.51,
+        "enhancedSpeed": 7.231,
+        "enhancedAltitude": 80.60000000000002,
+        "heartRate": 143,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:02.000Z",
+        "positionLat": 608563039,
+        "positionLong": 79769868,
+        "distance": 2968.76,
+        "enhancedSpeed": 8.64,
+        "enhancedAltitude": 80.39999999999998,
+        "heartRate": 142,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:09.000Z",
+        "positionLat": 608556636,
+        "positionLong": 79766056,
+        "distance": 3032.55,
+        "enhancedSpeed": 8.799,
+        "enhancedAltitude": 80.79999999999995,
+        "heartRate": 143,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:16.000Z",
+        "positionLat": 608550780,
+        "positionLong": 79763227,
+        "distance": 3089.66,
+        "enhancedSpeed": 8.332,
+        "enhancedAltitude": 81.20000000000005,
+        "heartRate": 145,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:17.000Z",
+        "positionLat": 608549926,
+        "positionLong": 79762917,
+        "distance": 3097.83,
+        "enhancedSpeed": 8.332,
+        "enhancedAltitude": 81.39999999999998,
+        "heartRate": 145,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:20.000Z",
+        "positionLat": 608547657,
+        "positionLong": 79762185,
+        "distance": 3119.4,
+        "enhancedSpeed": 8.024,
+        "enhancedAltitude": 82.39999999999998,
+        "heartRate": 148,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:21.000Z",
+        "positionLat": 608546888,
+        "positionLong": 79761921,
+        "distance": 3126.74,
+        "enhancedSpeed": 7.287,
+        "enhancedAltitude": 82.60000000000002,
+        "heartRate": 149,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:22.000Z",
+        "positionLat": 608546176,
+        "positionLong": 79761621,
+        "distance": 3133.58,
+        "enhancedSpeed": 7.119,
+        "enhancedAltitude": 82.60000000000002,
+        "heartRate": 149,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:23.000Z",
+        "positionLat": 608545464,
+        "positionLong": 79761349,
+        "distance": 3140.34,
+        "enhancedSpeed": 6.541,
+        "enhancedAltitude": 82.60000000000002,
+        "heartRate": 149,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:24.000Z",
+        "positionLat": 608544778,
+        "positionLong": 79761056,
+        "distance": 3146.97,
+        "enhancedSpeed": 6.541,
+        "enhancedAltitude": 82.79999999999995,
+        "heartRate": 149,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:27.000Z",
+        "positionLat": 608542624,
+        "positionLong": 79759777,
+        "distance": 3168.42,
+        "enhancedSpeed": 7.287,
+        "enhancedAltitude": 83,
+        "heartRate": 150,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:28.000Z",
+        "positionLat": 608541918,
+        "positionLong": 79759041,
+        "distance": 3176.29,
+        "enhancedSpeed": 7.119,
+        "enhancedAltitude": 83,
+        "heartRate": 150,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:36.000Z",
+        "positionLat": 608536580,
+        "positionLong": 79752512,
+        "distance": 3239.19,
+        "enhancedSpeed": 7.726,
+        "enhancedAltitude": 82.79999999999995,
+        "heartRate": 151,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:49:41.000Z",
+        "positionLat": 608532954,
+        "positionLong": 79748345,
+        "distance": 3280.94,
+        "enhancedSpeed": 8.258,
+        "enhancedAltitude": 83.60000000000002,
+        "heartRate": 153,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:49:42.000Z",
+        "positionLat": 608532215,
+        "positionLong": 79747584,
+        "distance": 3289.15,
+        "enhancedSpeed": 8.258,
+        "enhancedAltitude": 83.79999999999995,
+        "heartRate": 153,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:49:47.000Z",
+        "positionLat": 608528647,
+        "positionLong": 79744524,
+        "distance": 3327.04,
+        "enhancedSpeed": 7.418,
+        "enhancedAltitude": 83.20000000000005,
+        "heartRate": 152,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:49:51.000Z",
+        "positionLat": 608525511,
+        "positionLong": 79741941,
+        "distance": 3359.97,
+        "enhancedSpeed": 7.81,
+        "enhancedAltitude": 82.60000000000002,
+        "heartRate": 153,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:49:53.000Z",
+        "positionLat": 608524186,
+        "positionLong": 79740808,
+        "distance": 3374.01,
+        "enhancedSpeed": 7.707,
+        "enhancedAltitude": 82.39999999999998,
+        "heartRate": 153,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:49:56.000Z",
+        "positionLat": 608521624,
+        "positionLong": 79739220,
+        "distance": 3399.67,
+        "enhancedSpeed": 8.827,
+        "enhancedAltitude": 81.60000000000002,
+        "heartRate": 155,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:49:58.000Z",
+        "positionLat": 608519616,
+        "positionLong": 79738101,
+        "distance": 3419.51,
+        "enhancedSpeed": 9.984,
+        "enhancedAltitude": 81.20000000000005,
+        "heartRate": 155,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:01.000Z",
+        "positionLat": 608516445,
+        "positionLong": 79736183,
+        "distance": 3451.16,
+        "enhancedSpeed": 10.59,
+        "enhancedAltitude": 80.60000000000002,
+        "heartRate": 156,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:05.000Z",
+        "positionLat": 608512064,
+        "positionLong": 79733521,
+        "distance": 3494.91,
+        "enhancedSpeed": 10.59,
+        "enhancedAltitude": 80.60000000000002,
+        "heartRate": 157,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:11.000Z",
+        "positionLat": 608505338,
+        "positionLong": 79729760,
+        "distance": 3561.42,
+        "enhancedSpeed": 10.936,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 159,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:13.000Z",
+        "positionLat": 608503176,
+        "positionLong": 79728559,
+        "distance": 3582.77,
+        "enhancedSpeed": 10.936,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 160,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:14.000Z",
+        "positionLat": 608502105,
+        "positionLong": 79727880,
+        "distance": 3593.53,
+        "enhancedSpeed": 10.842,
+        "enhancedAltitude": 79.60000000000002,
+        "heartRate": 160,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:18.000Z",
+        "positionLat": 608497835,
+        "positionLong": 79725174,
+        "distance": 3636.4,
+        "enhancedSpeed": 10.674,
+        "enhancedAltitude": 79.39999999999998,
+        "heartRate": 161,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:20.000Z",
+        "positionLat": 608495682,
+        "positionLong": 79724123,
+        "distance": 3657.39,
+        "enhancedSpeed": 10.618,
+        "enhancedAltitude": 79.39999999999998,
+        "heartRate": 161,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:23.000Z",
+        "positionLat": 608492499,
+        "positionLong": 79722279,
+        "distance": 3688.97,
+        "enhancedSpeed": 10.525,
+        "enhancedAltitude": 78.39999999999998,
+        "heartRate": 161,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:26.000Z",
+        "positionLat": 608489507,
+        "positionLong": 79720786,
+        "distance": 3718.19,
+        "enhancedSpeed": 10.506,
+        "enhancedAltitude": 77.39999999999998,
+        "heartRate": 162,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:29.000Z",
+        "positionLat": 608486536,
+        "positionLong": 79718945,
+        "distance": 3747.94,
+        "enhancedSpeed": 10.068,
+        "enhancedAltitude": 76.20000000000005,
+        "heartRate": 163,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:50:32.000Z",
+        "positionLat": 608483610,
+        "positionLong": 79717046,
+        "distance": 3777.43,
+        "enhancedSpeed": 9.928,
+        "enhancedAltitude": 75.39999999999998,
+        "heartRate": 162,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:33.000Z",
+        "positionLat": 608482622,
+        "positionLong": 79716417,
+        "distance": 3787.33,
+        "enhancedSpeed": 9.891,
+        "enhancedAltitude": 75,
+        "heartRate": 162,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:36.000Z",
+        "positionLat": 608479727,
+        "positionLong": 79714709,
+        "distance": 3816.14,
+        "enhancedSpeed": 9.741,
+        "enhancedAltitude": 73.79999999999995,
+        "heartRate": 163,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:38.000Z",
+        "positionLat": 608477660,
+        "positionLong": 79713727,
+        "distance": 3836.25,
+        "enhancedSpeed": 9.741,
+        "enhancedAltitude": 72.39999999999998,
+        "heartRate": 163,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:41.000Z",
+        "positionLat": 608474447,
+        "positionLong": 79712051,
+        "distance": 3867.82,
+        "enhancedSpeed": 9.956,
+        "enhancedAltitude": 72,
+        "heartRate": 163,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:43.000Z",
+        "positionLat": 608472401,
+        "positionLong": 79710697,
+        "distance": 3888.49,
+        "enhancedSpeed": 10.217,
+        "enhancedAltitude": 71.79999999999995,
+        "heartRate": 164,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:45.000Z",
+        "positionLat": 608470117,
+        "positionLong": 79709323,
+        "distance": 3911.26,
+        "enhancedSpeed": 10.301,
+        "enhancedAltitude": 71.39999999999998,
+        "heartRate": 164,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:47.000Z",
+        "positionLat": 608468239,
+        "positionLong": 79708109,
+        "distance": 3930.2,
+        "enhancedSpeed": 10.301,
+        "enhancedAltitude": 70.60000000000002,
+        "heartRate": 164,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:48.000Z",
+        "positionLat": 608467202,
+        "positionLong": 79707618,
+        "distance": 3940.29,
+        "enhancedSpeed": 10.301,
+        "enhancedAltitude": 70.20000000000005,
+        "heartRate": 164,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:53.000Z",
+        "positionLat": 608462351,
+        "positionLong": 79704679,
+        "distance": 3988.7,
+        "enhancedSpeed": 9.881,
+        "enhancedAltitude": 69.20000000000005,
+        "heartRate": 166,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:54.000Z",
+        "positionLat": 608461455,
+        "positionLong": 79704040,
+        "distance": 3997.85,
+        "enhancedSpeed": 9.284,
+        "enhancedAltitude": 68.79999999999995,
+        "heartRate": 166,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:56.000Z",
+        "positionLat": 608459802,
+        "positionLong": 79702677,
+        "distance": 4015.23,
+        "enhancedSpeed": 8.799,
+        "enhancedAltitude": 67.60000000000002,
+        "heartRate": 166,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:57.000Z",
+        "positionLat": 608458973,
+        "positionLong": 79701958,
+        "distance": 4024.03,
+        "enhancedSpeed": 8.845,
+        "enhancedAltitude": 67.20000000000005,
+        "heartRate": 166,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:50:59.000Z",
+        "positionLat": 608457359,
+        "positionLong": 79700627,
+        "distance": 4040.96,
+        "enhancedSpeed": 8.855,
+        "enhancedAltitude": 67,
+        "heartRate": 165,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:01.000Z",
+        "positionLat": 608455980,
+        "positionLong": 79698812,
+        "distance": 4057.67,
+        "enhancedSpeed": 8.37,
+        "enhancedAltitude": 67,
+        "heartRate": 165,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:02.000Z",
+        "positionLat": 608455338,
+        "positionLong": 79697953,
+        "distance": 4065.44,
+        "enhancedSpeed": 7.67,
+        "enhancedAltitude": 67,
+        "heartRate": 164,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:04.000Z",
+        "positionLat": 608454040,
+        "positionLong": 79696951,
+        "distance": 4078.89,
+        "enhancedSpeed": 6.578,
+        "enhancedAltitude": 67.60000000000002,
+        "heartRate": 164,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:05.000Z",
+        "positionLat": 608453466,
+        "positionLong": 79696630,
+        "distance": 4084.46,
+        "enhancedSpeed": 6.046,
+        "enhancedAltitude": 68,
+        "heartRate": 163,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:07.000Z",
+        "positionLat": 608452543,
+        "positionLong": 79696466,
+        "distance": 4093.06,
+        "enhancedSpeed": 3.882,
+        "enhancedAltitude": 68.20000000000005,
+        "heartRate": 163,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:11.000Z",
+        "positionLat": 608450840,
+        "positionLong": 79695608,
+        "distance": 4109.73,
+        "enhancedSpeed": 4.367,
+        "enhancedAltitude": 68.60000000000002,
+        "heartRate": 162,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:12.000Z",
+        "positionLat": 608450317,
+        "positionLong": 79695452,
+        "distance": 4114.69,
+        "enhancedSpeed": 4.768,
+        "enhancedAltitude": 68.60000000000002,
+        "heartRate": 162,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:13.000Z",
+        "positionLat": 608449747,
+        "positionLong": 79695388,
+        "distance": 4120.02,
+        "enhancedSpeed": 4.768,
+        "enhancedAltitude": 68.79999999999995,
+        "heartRate": 162,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:14.000Z",
+        "positionLat": 608449141,
+        "positionLong": 79695277,
+        "distance": 4125.68,
+        "enhancedSpeed": 5.374,
+        "enhancedAltitude": 68.79999999999995,
+        "heartRate": 162,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:16.000Z",
+        "positionLat": 608447892,
+        "positionLong": 79694554,
+        "distance": 4138.03,
+        "enhancedSpeed": 6.205,
+        "enhancedAltitude": 69.60000000000002,
+        "heartRate": 162,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:17.000Z",
+        "positionLat": 608447230,
+        "positionLong": 79694128,
+        "distance": 4144.69,
+        "enhancedSpeed": 6.531,
+        "enhancedAltitude": 70,
+        "heartRate": 162,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:19.000Z",
+        "positionLat": 608445824,
+        "positionLong": 79693363,
+        "distance": 4158.53,
+        "enhancedSpeed": 6.951,
+        "enhancedAltitude": 71,
+        "heartRate": 161,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:21.000Z",
+        "positionLat": 608444367,
+        "positionLong": 79692538,
+        "distance": 4172.95,
+        "enhancedSpeed": 7.315,
+        "enhancedAltitude": 72.39999999999998,
+        "heartRate": 161,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:22.000Z",
+        "positionLat": 608443609,
+        "positionLong": 79692093,
+        "distance": 4180.49,
+        "enhancedSpeed": 7.353,
+        "enhancedAltitude": 72.79999999999995,
+        "heartRate": 162,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:25.000Z",
+        "positionLat": 608441267,
+        "positionLong": 79690702,
+        "distance": 4203.81,
+        "enhancedSpeed": 7.838,
+        "enhancedAltitude": 73.60000000000002,
+        "heartRate": 161,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:29.000Z",
+        "positionLat": 608438028,
+        "positionLong": 79689102,
+        "distance": 4235.45,
+        "enhancedSpeed": 7.707,
+        "enhancedAltitude": 74.79999999999995,
+        "heartRate": 161,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:35.000Z",
+        "positionLat": 608432784,
+        "positionLong": 79685971,
+        "distance": 4287.74,
+        "enhancedSpeed": 8.239,
+        "enhancedAltitude": 75.79999999999995,
+        "heartRate": 158,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:36.000Z",
+        "positionLat": 608432084,
+        "positionLong": 79685495,
+        "distance": 4294.84,
+        "enhancedSpeed": 8.426,
+        "enhancedAltitude": 76.20000000000005,
+        "heartRate": 158,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:38.000Z",
+        "positionLat": 608430105,
+        "positionLong": 79684349,
+        "distance": 4314.43,
+        "enhancedSpeed": 8.594,
+        "enhancedAltitude": 77,
+        "heartRate": 158,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:41.000Z",
+        "positionLat": 608427665,
+        "positionLong": 79682617,
+        "distance": 4339.35,
+        "enhancedSpeed": 8.873,
+        "enhancedAltitude": 77.39999999999998,
+        "heartRate": 158,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:42.000Z",
+        "positionLat": 608426796,
+        "positionLong": 79682007,
+        "distance": 4348.2,
+        "enhancedSpeed": 8.873,
+        "enhancedAltitude": 77.39999999999998,
+        "heartRate": 158,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:45.000Z",
+        "positionLat": 608424287,
+        "positionLong": 79680330,
+        "distance": 4373.55,
+        "enhancedSpeed": 8.799,
+        "enhancedAltitude": 76.60000000000002,
+        "heartRate": 157,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:49.000Z",
+        "positionLat": 608421038,
+        "positionLong": 79677963,
+        "distance": 4406.88,
+        "enhancedSpeed": 8.472,
+        "enhancedAltitude": 75.79999999999995,
+        "heartRate": 159,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:51.000Z",
+        "positionLat": 608419412,
+        "positionLong": 79676984,
+        "distance": 4423.07,
+        "enhancedSpeed": 8.407,
+        "enhancedAltitude": 75.39999999999998,
+        "heartRate": 159,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:53.000Z",
+        "positionLat": 608417825,
+        "positionLong": 79675542,
+        "distance": 4440.1,
+        "enhancedSpeed": 8.295,
+        "enhancedAltitude": 74.79999999999995,
+        "heartRate": 159,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:55.000Z",
+        "positionLat": 608416057,
+        "positionLong": 79674119,
+        "distance": 4458.59,
+        "enhancedSpeed": 8.295,
+        "enhancedAltitude": 74.39999999999998,
+        "heartRate": 158,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:56.000Z",
+        "positionLat": 608415243,
+        "positionLong": 79673652,
+        "distance": 4466.66,
+        "enhancedSpeed": 8.286,
+        "enhancedAltitude": 74,
+        "heartRate": 158,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:51:57.000Z",
+        "positionLat": 608414592,
+        "positionLong": 79673259,
+        "distance": 4473.15,
+        "enhancedSpeed": 8.136,
+        "enhancedAltitude": 73.60000000000002,
+        "heartRate": 158,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:01.000Z",
+        "positionLat": 608411584,
+        "positionLong": 79671250,
+        "distance": 4503.54,
+        "enhancedSpeed": 7.95,
+        "enhancedAltitude": 72.39999999999998,
+        "heartRate": 157,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:03.000Z",
+        "positionLat": 608410030,
+        "positionLong": 79669885,
+        "distance": 4520.12,
+        "enhancedSpeed": 7.623,
+        "enhancedAltitude": 71.79999999999995,
+        "heartRate": 156,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:04.000Z",
+        "positionLat": 608409384,
+        "positionLong": 79669142,
+        "distance": 4527.52,
+        "enhancedSpeed": 7.605,
+        "enhancedAltitude": 71.20000000000005,
+        "heartRate": 156,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:08.000Z",
+        "positionLat": 608406635,
+        "positionLong": 79667167,
+        "distance": 4555.65,
+        "enhancedSpeed": 7.409,
+        "enhancedAltitude": 69.60000000000002,
+        "heartRate": 153,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:12.000Z",
+        "positionLat": 608403510,
+        "positionLong": 79665050,
+        "distance": 4587.27,
+        "enhancedSpeed": 7.409,
+        "enhancedAltitude": 68.39999999999998,
+        "heartRate": 152,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:15.000Z",
+        "positionLat": 608401360,
+        "positionLong": 79662942,
+        "distance": 4610.75,
+        "enhancedSpeed": 7.418,
+        "enhancedAltitude": 67,
+        "heartRate": 152,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:17.000Z",
+        "positionLat": 608400104,
+        "positionLong": 79662198,
+        "distance": 4623.24,
+        "enhancedSpeed": 6.69,
+        "enhancedAltitude": 66.20000000000005,
+        "heartRate": 150,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:19.000Z",
+        "positionLat": 608398639,
+        "positionLong": 79661117,
+        "distance": 4638.27,
+        "enhancedSpeed": 6.989,
+        "enhancedAltitude": 66,
+        "heartRate": 148,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:20.000Z",
+        "positionLat": 608398261,
+        "positionLong": 79660712,
+        "distance": 4642.49,
+        "enhancedSpeed": 7.091,
+        "enhancedAltitude": 65.79999999999995,
+        "heartRate": 147,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:21.000Z",
+        "positionLat": 608397649,
+        "positionLong": 79660153,
+        "distance": 4649.08,
+        "enhancedSpeed": 7.091,
+        "enhancedAltitude": 65.79999999999995,
+        "heartRate": 145,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:23.000Z",
+        "positionLat": 608396020,
+        "positionLong": 79659181,
+        "distance": 4665.2,
+        "enhancedSpeed": 7.091,
+        "enhancedAltitude": 65.79999999999995,
+        "heartRate": 143,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:25.000Z",
+        "positionLat": 608394298,
+        "positionLong": 79657805,
+        "distance": 4683.17,
+        "enhancedSpeed": 7.996,
+        "enhancedAltitude": 64.60000000000002,
+        "heartRate": 143,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:28.000Z",
+        "positionLat": 608391694,
+        "positionLong": 79655759,
+        "distance": 4710.3,
+        "enhancedSpeed": 8.379,
+        "enhancedAltitude": 64,
+        "heartRate": 143,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:30.000Z",
+        "positionLat": 608390119,
+        "positionLong": 79654547,
+        "distance": 4726.55,
+        "enhancedSpeed": 7.996,
+        "enhancedAltitude": 64,
+        "heartRate": 143,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:33.000Z",
+        "positionLat": 608388077,
+        "positionLong": 79652614,
+        "distance": 4748.69,
+        "enhancedSpeed": 7.996,
+        "enhancedAltitude": 63.39999999999998,
+        "heartRate": 143,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:38.000Z",
+        "positionLat": 608385093,
+        "positionLong": 79647808,
+        "distance": 4787.37,
+        "enhancedSpeed": 7.185,
+        "enhancedAltitude": 62.799999999999955,
+        "heartRate": 141,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:39.000Z",
+        "positionLat": 608384481,
+        "positionLong": 79647259,
+        "distance": 4793.92,
+        "enhancedSpeed": 7.166,
+        "enhancedAltitude": 63,
+        "heartRate": 139,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:40.000Z",
+        "positionLat": 608383970,
+        "positionLong": 79646583,
+        "distance": 4800.06,
+        "enhancedSpeed": 6.438,
+        "enhancedAltitude": 63.39999999999998,
+        "heartRate": 140,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:42.000Z",
+        "positionLat": 608383302,
+        "positionLong": 79645307,
+        "distance": 4809.77,
+        "enhancedSpeed": 5.104,
+        "enhancedAltitude": 64.60000000000002,
+        "heartRate": 140,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:45.000Z",
+        "positionLat": 608381991,
+        "positionLong": 79644592,
+        "distance": 4822.59,
+        "enhancedSpeed": 4.161,
+        "enhancedAltitude": 66.60000000000002,
+        "heartRate": 139,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:46.000Z",
+        "positionLat": 608381564,
+        "positionLong": 79644611,
+        "distance": 4826.49,
+        "enhancedSpeed": 4.133,
+        "enhancedAltitude": 67.39999999999998,
+        "heartRate": 138,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:47.000Z",
+        "positionLat": 608381148,
+        "positionLong": 79644465,
+        "distance": 4830.41,
+        "enhancedSpeed": 4.161,
+        "enhancedAltitude": 68.60000000000002,
+        "heartRate": 138,
+        "temperature": 25
+      },
+      {
+        "timestamp": "2024-09-17T14:52:50.000Z",
+        "positionLat": 608379822,
+        "positionLong": 79643562,
+        "distance": 4843.86,
+        "enhancedSpeed": 5.16,
+        "enhancedAltitude": 70.20000000000005,
+        "heartRate": 137,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:52:51.000Z",
+        "positionLat": 608379294,
+        "positionLong": 79643168,
+        "distance": 4849.31,
+        "enhancedSpeed": 5.561,
+        "enhancedAltitude": 71,
+        "heartRate": 136,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:52:52.000Z",
+        "positionLat": 608378720,
+        "positionLong": 79642746,
+        "distance": 4855.2,
+        "enhancedSpeed": 5.822,
+        "enhancedAltitude": 71.39999999999998,
+        "heartRate": 135,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:52:54.000Z",
+        "positionLat": 608377481,
+        "positionLong": 79641768,
+        "distance": 4868.07,
+        "enhancedSpeed": 6.485,
+        "enhancedAltitude": 72,
+        "heartRate": 133,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:52:56.000Z",
+        "positionLat": 608376197,
+        "positionLong": 79640724,
+        "distance": 4881.53,
+        "enhancedSpeed": 6.727,
+        "enhancedAltitude": 72.60000000000002,
+        "heartRate": 134,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:52:57.000Z",
+        "positionLat": 608375518,
+        "positionLong": 79640118,
+        "distance": 4888.79,
+        "enhancedSpeed": 7.017,
+        "enhancedAltitude": 72.79999999999995,
+        "heartRate": 134,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:52:58.000Z",
+        "positionLat": 608374815,
+        "positionLong": 79639541,
+        "distance": 4896.17,
+        "enhancedSpeed": 7.325,
+        "enhancedAltitude": 73.20000000000005,
+        "heartRate": 134,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:52:59.000Z",
+        "positionLat": 608373922,
+        "positionLong": 79638818,
+        "distance": 4905.52,
+        "enhancedSpeed": 7.558,
+        "enhancedAltitude": 74,
+        "heartRate": 134,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:00.000Z",
+        "positionLat": 608373282,
+        "positionLong": 79638396,
+        "distance": 4911.99,
+        "enhancedSpeed": 8.034,
+        "enhancedAltitude": 74.20000000000005,
+        "heartRate": 135,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:02.000Z",
+        "positionLat": 608371578,
+        "positionLong": 79637393,
+        "distance": 4928.92,
+        "enhancedSpeed": 8.528,
+        "enhancedAltitude": 74.60000000000002,
+        "heartRate": 135,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:03.000Z",
+        "positionLat": 608370547,
+        "positionLong": 79636636,
+        "distance": 4939.49,
+        "enhancedSpeed": 8.706,
+        "enhancedAltitude": 74.60000000000002,
+        "heartRate": 135,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:07.000Z",
+        "positionLat": 608366976,
+        "positionLong": 79633983,
+        "distance": 4976.25,
+        "enhancedSpeed": 9.956,
+        "enhancedAltitude": 74.79999999999995,
+        "heartRate": 135,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:10.000Z",
+        "positionLat": 608364104,
+        "positionLong": 79631512,
+        "distance": 5006.72,
+        "enhancedSpeed": 10.226,
+        "enhancedAltitude": 74.39999999999998,
+        "heartRate": 135,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:13.000Z",
+        "positionLat": 608361023,
+        "positionLong": 79629224,
+        "distance": 5038.42,
+        "enhancedSpeed": 10.217,
+        "enhancedAltitude": 74.20000000000005,
+        "heartRate": 134,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:19.000Z",
+        "positionLat": 608354902,
+        "positionLong": 79624284,
+        "distance": 5102.45,
+        "enhancedSpeed": 10.553,
+        "enhancedAltitude": 73.79999999999995,
+        "heartRate": 138,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:20.000Z",
+        "positionLat": 608353917,
+        "positionLong": 79623498,
+        "distance": 5112.74,
+        "enhancedSpeed": 10.553,
+        "enhancedAltitude": 73.60000000000002,
+        "heartRate": 138,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:26.000Z",
+        "positionLat": 608348266,
+        "positionLong": 79618457,
+        "distance": 5173.19,
+        "enhancedSpeed": 10.217,
+        "enhancedAltitude": 73.20000000000005,
+        "heartRate": 138,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:28.000Z",
+        "positionLat": 608346358,
+        "positionLong": 79616842,
+        "distance": 5193.34,
+        "enhancedSpeed": 9.219,
+        "enhancedAltitude": 73.39999999999998,
+        "heartRate": 137,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:31.000Z",
+        "positionLat": 608344074,
+        "positionLong": 79614985,
+        "distance": 5217.25,
+        "enhancedSpeed": 8.295,
+        "enhancedAltitude": 74.60000000000002,
+        "heartRate": 138,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:32.000Z",
+        "positionLat": 608343249,
+        "positionLong": 79614086,
+        "distance": 5226.58,
+        "enhancedSpeed": 8.118,
+        "enhancedAltitude": 75.39999999999998,
+        "heartRate": 137,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:33.000Z",
+        "positionLat": 608342757,
+        "positionLong": 79613527,
+        "distance": 5232.21,
+        "enhancedSpeed": 7.343,
+        "enhancedAltitude": 75.60000000000002,
+        "heartRate": 137,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:34.000Z",
+        "positionLat": 608342134,
+        "positionLong": 79613057,
+        "distance": 5238.58,
+        "enhancedSpeed": 6.849,
+        "enhancedAltitude": 75.60000000000002,
+        "heartRate": 138,
+        "temperature": 24
+      },
+      {
+        "timestamp": "2024-09-17T14:53:35.000Z",
+        "positionLat": 608341530,
+        "positionLong": 79612766,
+        "distance": 5244.47,
+        "enhancedSpeed": 6.158,
+        "enhancedAltitude": 75.60000000000002,
+        "heartRate": 138,
+        "temperature": 24
+      }
+    ],
+    "gpsMetadataMesgs": [
+      {
+        "enhancedAltitude": 90.60000000000002,
+        "enhancedSpeed": 0
+      },
+      {
+        "enhancedAltitude": 65.39999999999998,
+        "enhancedSpeed": 0
+      },
+      {
+        "enhancedAltitude": 65,
+        "enhancedSpeed": 3.342
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 3.342
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.004
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.004
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.42
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.42
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.435
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.435
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.435
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.42
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.276
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.42
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.435
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.435
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.435
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.435
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.435
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.53
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.53
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.674
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.678
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.825
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 4.828
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 4.907
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 5.013
+      },
+      {
+        "enhancedAltitude": 66.60000000000002,
+        "enhancedSpeed": 5.066
+      },
+      {
+        "enhancedAltitude": 66.60000000000002,
+        "enhancedSpeed": 5.237
+      },
+      {
+        "enhancedAltitude": 66.60000000000002,
+        "enhancedSpeed": 5.282
+      },
+      {
+        "enhancedAltitude": 66.79999999999995,
+        "enhancedSpeed": 5.289
+      },
+      {
+        "enhancedAltitude": 66.79999999999995,
+        "enhancedSpeed": 5.293
+      },
+      {
+        "enhancedAltitude": 67,
+        "enhancedSpeed": 5.513
+      },
+      {
+        "enhancedAltitude": 67,
+        "enhancedSpeed": 5.513
+      },
+      {
+        "enhancedAltitude": 67,
+        "enhancedSpeed": 5.661
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 5.677
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 5.769
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 5.932
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 5.932
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 5.932
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 5.932
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 5.932
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 5.166
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 4.886
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 4.789
+      },
+      {
+        "enhancedAltitude": 67.79999999999995,
+        "enhancedSpeed": 4.789
+      },
+      {
+        "enhancedAltitude": 67.79999999999995,
+        "enhancedSpeed": 5.166
+      },
+      {
+        "enhancedAltitude": 67.79999999999995,
+        "enhancedSpeed": 5.166
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 5.166
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 5.621
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 6.161
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 6.591
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 6.737
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 7.14
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 7.272
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 7.272
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 7.231
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 6.835
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 6.794
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 6.794
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 6.794
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 6.794
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 6.794
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 6.681
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 6.681
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 6.667
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 6.667
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 6.667
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 6.667
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 6.667
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 6.695
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 6.777
+      },
+      {
+        "enhancedAltitude": 67.79999999999995,
+        "enhancedSpeed": 6.777
+      },
+      {
+        "enhancedAltitude": 67.79999999999995,
+        "enhancedSpeed": 6.682
+      },
+      {
+        "enhancedAltitude": 68,
+        "enhancedSpeed": 6.839
+      },
+      {
+        "enhancedAltitude": 68,
+        "enhancedSpeed": 6.839
+      },
+      {
+        "enhancedAltitude": 68.20000000000005,
+        "enhancedSpeed": 6.839
+      },
+      {
+        "enhancedAltitude": 68.20000000000005,
+        "enhancedSpeed": 6.839
+      },
+      {
+        "enhancedAltitude": 68.20000000000005,
+        "enhancedSpeed": 6.682
+      },
+      {
+        "enhancedAltitude": 68.20000000000005,
+        "enhancedSpeed": 6.591
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 6.591
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 6.591
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 6.591
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 7.267
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 7.53
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 7.751
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 7.92
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 8.193
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 8.517
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 8.673
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 8.803
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 8.86
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 9.063
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 9.401
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 9.701
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 10
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 10.122
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 10.284
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 10.304
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 10
+      },
+      {
+        "enhancedAltitude": 68.20000000000005,
+        "enhancedSpeed": 10.122
+      },
+      {
+        "enhancedAltitude": 67.79999999999995,
+        "enhancedSpeed": 10.284
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 10.304
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 10.304
+      },
+      {
+        "enhancedAltitude": 66.79999999999995,
+        "enhancedSpeed": 10.304
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 9.776
+      },
+      {
+        "enhancedAltitude": 66,
+        "enhancedSpeed": 8.733
+      },
+      {
+        "enhancedAltitude": 65.79999999999995,
+        "enhancedSpeed": 8.155
+      },
+      {
+        "enhancedAltitude": 65.39999999999998,
+        "enhancedSpeed": 6.298
+      },
+      {
+        "enhancedAltitude": 65.20000000000005,
+        "enhancedSpeed": 6.298
+      },
+      {
+        "enhancedAltitude": 65,
+        "enhancedSpeed": 6.511
+      },
+      {
+        "enhancedAltitude": 64.79999999999995,
+        "enhancedSpeed": 6.52
+      },
+      {
+        "enhancedAltitude": 64.60000000000002,
+        "enhancedSpeed": 6.877
+      },
+      {
+        "enhancedAltitude": 64.39999999999998,
+        "enhancedSpeed": 7.068
+      },
+      {
+        "enhancedAltitude": 64.39999999999998,
+        "enhancedSpeed": 7.638
+      },
+      {
+        "enhancedAltitude": 64.20000000000005,
+        "enhancedSpeed": 7.923
+      },
+      {
+        "enhancedAltitude": 64,
+        "enhancedSpeed": 7.949
+      },
+      {
+        "enhancedAltitude": 64,
+        "enhancedSpeed": 8.028
+      },
+      {
+        "enhancedAltitude": 63.799999999999955,
+        "enhancedSpeed": 7.638
+      },
+      {
+        "enhancedAltitude": 63.60000000000002,
+        "enhancedSpeed": 7.923
+      },
+      {
+        "enhancedAltitude": 63.60000000000002,
+        "enhancedSpeed": 7.923
+      },
+      {
+        "enhancedAltitude": 63.39999999999998,
+        "enhancedSpeed": 7.923
+      },
+      {
+        "enhancedAltitude": 63.200000000000045,
+        "enhancedSpeed": 7.949
+      },
+      {
+        "enhancedAltitude": 63.200000000000045,
+        "enhancedSpeed": 8.028
+      },
+      {
+        "enhancedAltitude": 63,
+        "enhancedSpeed": 8.028
+      },
+      {
+        "enhancedAltitude": 63,
+        "enhancedSpeed": 8.028
+      },
+      {
+        "enhancedAltitude": 62.799999999999955,
+        "enhancedSpeed": 8.028
+      },
+      {
+        "enhancedAltitude": 62.799999999999955,
+        "enhancedSpeed": 7.908
+      },
+      {
+        "enhancedAltitude": 62.799999999999955,
+        "enhancedSpeed": 7.103
+      },
+      {
+        "enhancedAltitude": 62.799999999999955,
+        "enhancedSpeed": 6.685
+      },
+      {
+        "enhancedAltitude": 63,
+        "enhancedSpeed": 6.266
+      },
+      {
+        "enhancedAltitude": 63,
+        "enhancedSpeed": 6.084
+      },
+      {
+        "enhancedAltitude": 63,
+        "enhancedSpeed": 6.007
+      },
+      {
+        "enhancedAltitude": 63.200000000000045,
+        "enhancedSpeed": 6.007
+      },
+      {
+        "enhancedAltitude": 63.200000000000045,
+        "enhancedSpeed": 6.349
+      },
+      {
+        "enhancedAltitude": 63.39999999999998,
+        "enhancedSpeed": 6.266
+      },
+      {
+        "enhancedAltitude": 63.39999999999998,
+        "enhancedSpeed": 6.089
+      },
+      {
+        "enhancedAltitude": 63.60000000000002,
+        "enhancedSpeed": 6.084
+      },
+      {
+        "enhancedAltitude": 63.799999999999955,
+        "enhancedSpeed": 6.007
+      },
+      {
+        "enhancedAltitude": 64,
+        "enhancedSpeed": 5.982
+      },
+      {
+        "enhancedAltitude": 64.39999999999998,
+        "enhancedSpeed": 5.972
+      },
+      {
+        "enhancedAltitude": 64.79999999999995,
+        "enhancedSpeed": 5.921
+      },
+      {
+        "enhancedAltitude": 65.20000000000005,
+        "enhancedSpeed": 5.901
+      },
+      {
+        "enhancedAltitude": 65.60000000000002,
+        "enhancedSpeed": 5.793
+      },
+      {
+        "enhancedAltitude": 65.79999999999995,
+        "enhancedSpeed": 5.55
+      },
+      {
+        "enhancedAltitude": 66,
+        "enhancedSpeed": 5.479
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 4.759
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 5.153
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 5.128
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 5.071
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 4.979
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 4.979
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 4.979
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 4.979
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 4.979
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 5.071
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 5.567
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 5.304
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 5.304
+      },
+      {
+        "enhancedAltitude": 66,
+        "enhancedSpeed": 4.547
+      },
+      {
+        "enhancedAltitude": 65.79999999999995,
+        "enhancedSpeed": 2.902
+      },
+      {
+        "enhancedAltitude": 65.79999999999995,
+        "enhancedSpeed": 2.03
+      },
+      {
+        "enhancedAltitude": 65.60000000000002,
+        "enhancedSpeed": 1.417
+      },
+      {
+        "enhancedAltitude": 65.60000000000002,
+        "enhancedSpeed": 1.417
+      },
+      {
+        "enhancedAltitude": 65.60000000000002,
+        "enhancedSpeed": 1.716
+      },
+      {
+        "enhancedAltitude": 65.60000000000002,
+        "enhancedSpeed": 2.12
+      },
+      {
+        "enhancedAltitude": 65.60000000000002,
+        "enhancedSpeed": 2.394
+      },
+      {
+        "enhancedAltitude": 65.60000000000002,
+        "enhancedSpeed": 3.431
+      },
+      {
+        "enhancedAltitude": 65.60000000000002,
+        "enhancedSpeed": 3.551
+      },
+      {
+        "enhancedAltitude": 65.79999999999995,
+        "enhancedSpeed": 3.705
+      },
+      {
+        "enhancedAltitude": 65.79999999999995,
+        "enhancedSpeed": 4.198
+      },
+      {
+        "enhancedAltitude": 65.79999999999995,
+        "enhancedSpeed": 4.266
+      },
+      {
+        "enhancedAltitude": 66,
+        "enhancedSpeed": 4.953
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 5.681
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 5.698
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 5.778
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 6.042
+      },
+      {
+        "enhancedAltitude": 66.60000000000002,
+        "enhancedSpeed": 5.681
+      },
+      {
+        "enhancedAltitude": 66.60000000000002,
+        "enhancedSpeed": 5.698
+      },
+      {
+        "enhancedAltitude": 66.79999999999995,
+        "enhancedSpeed": 5.778
+      },
+      {
+        "enhancedAltitude": 66.79999999999995,
+        "enhancedSpeed": 6.587
+      },
+      {
+        "enhancedAltitude": 66.79999999999995,
+        "enhancedSpeed": 6.919
+      },
+      {
+        "enhancedAltitude": 66.79999999999995,
+        "enhancedSpeed": 7.741
+      },
+      {
+        "enhancedAltitude": 66.79999999999995,
+        "enhancedSpeed": 7.898
+      },
+      {
+        "enhancedAltitude": 66.60000000000002,
+        "enhancedSpeed": 8.423
+      },
+      {
+        "enhancedAltitude": 66.20000000000005,
+        "enhancedSpeed": 8.467
+      },
+      {
+        "enhancedAltitude": 66,
+        "enhancedSpeed": 8.423
+      },
+      {
+        "enhancedAltitude": 65.79999999999995,
+        "enhancedSpeed": 8.355
+      },
+      {
+        "enhancedAltitude": 65.39999999999998,
+        "enhancedSpeed": 8.195
+      },
+      {
+        "enhancedAltitude": 65.39999999999998,
+        "enhancedSpeed": 7.898
+      },
+      {
+        "enhancedAltitude": 65.20000000000005,
+        "enhancedSpeed": 7.898
+      },
+      {
+        "enhancedAltitude": 65.20000000000005,
+        "enhancedSpeed": 7.974
+      },
+      {
+        "enhancedAltitude": 65.20000000000005,
+        "enhancedSpeed": 7.974
+      },
+      {
+        "enhancedAltitude": 65.20000000000005,
+        "enhancedSpeed": 7.974
+      },
+      {
+        "enhancedAltitude": 65.39999999999998,
+        "enhancedSpeed": 7.858
+      },
+      {
+        "enhancedAltitude": 65.79999999999995,
+        "enhancedSpeed": 7.858
+      },
+      {
+        "enhancedAltitude": 66,
+        "enhancedSpeed": 7.858
+      },
+      {
+        "enhancedAltitude": 66.39999999999998,
+        "enhancedSpeed": 7.858
+      },
+      {
+        "enhancedAltitude": 66.60000000000002,
+        "enhancedSpeed": 7.858
+      },
+      {
+        "enhancedAltitude": 66.79999999999995,
+        "enhancedSpeed": 7.974
+      },
+      {
+        "enhancedAltitude": 67,
+        "enhancedSpeed": 7.974
+      },
+      {
+        "enhancedAltitude": 67.20000000000005,
+        "enhancedSpeed": 8.007
+      },
+      {
+        "enhancedAltitude": 67.39999999999998,
+        "enhancedSpeed": 8.007
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 8.007
+      },
+      {
+        "enhancedAltitude": 67.60000000000002,
+        "enhancedSpeed": 7.243
+      },
+      {
+        "enhancedAltitude": 67.79999999999995,
+        "enhancedSpeed": 7.088
+      },
+      {
+        "enhancedAltitude": 68,
+        "enhancedSpeed": 6.875
+      },
+      {
+        "enhancedAltitude": 68,
+        "enhancedSpeed": 6.46
+      },
+      {
+        "enhancedAltitude": 68,
+        "enhancedSpeed": 6.346
+      },
+      {
+        "enhancedAltitude": 68.20000000000005,
+        "enhancedSpeed": 6.346
+      },
+      {
+        "enhancedAltitude": 68.39999999999998,
+        "enhancedSpeed": 6.368
+      },
+      {
+        "enhancedAltitude": 68.79999999999995,
+        "enhancedSpeed": 6.47
+      },
+      {
+        "enhancedAltitude": 69.20000000000005,
+        "enhancedSpeed": 6.47
+      },
+      {
+        "enhancedAltitude": 69.60000000000002,
+        "enhancedSpeed": 6.46
+      },
+      {
+        "enhancedAltitude": 69.79999999999995,
+        "enhancedSpeed": 6.421
+      },
+      {
+        "enhancedAltitude": 70.20000000000005,
+        "enhancedSpeed": 6.421
+      },
+      {
+        "enhancedAltitude": 70.39999999999998,
+        "enhancedSpeed": 6.39
+      },
+      {
+        "enhancedAltitude": 70.79999999999995,
+        "enhancedSpeed": 6.39
+      },
+      {
+        "enhancedAltitude": 71,
+        "enhancedSpeed": 6.421
+      },
+      {
+        "enhancedAltitude": 71.39999999999998,
+        "enhancedSpeed": 6.45
+      },
+      {
+        "enhancedAltitude": 71.60000000000002,
+        "enhancedSpeed": 6.47
+      },
+      {
+        "enhancedAltitude": 71.79999999999995,
+        "enhancedSpeed": 6.47
+      },
+      {
+        "enhancedAltitude": 72,
+        "enhancedSpeed": 6.45
+      },
+      {
+        "enhancedAltitude": 72.20000000000005,
+        "enhancedSpeed": 6.421
+      },
+      {
+        "enhancedAltitude": 72.39999999999998,
+        "enhancedSpeed": 6.39
+      },
+      {
+        "enhancedAltitude": 72.60000000000002,
+        "enhancedSpeed": 6.39
+      },
+      {
+        "enhancedAltitude": 72.79999999999995,
+        "enhancedSpeed": 6.234
+      },
+      {
+        "enhancedAltitude": 73,
+        "enhancedSpeed": 6.052
+      },
+      {
+        "enhancedAltitude": 73.20000000000005,
+        "enhancedSpeed": 5.979
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 5.945
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 5.93
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 5.93
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 5.93
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 5.93
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 5.93
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 5.93
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 6.086
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 6.181
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 6.209
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 6.463
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 6.499
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 6.587
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 6.627
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 6.629
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 7.444
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 7.69
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 7.96
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.964
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.984
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 7.69
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 7.96
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 7.964
+      },
+      {
+        "enhancedAltitude": 73.20000000000005,
+        "enhancedSpeed": 7.984
+      },
+      {
+        "enhancedAltitude": 73.20000000000005,
+        "enhancedSpeed": 8.093
+      },
+      {
+        "enhancedAltitude": 73,
+        "enhancedSpeed": 8.244
+      },
+      {
+        "enhancedAltitude": 73,
+        "enhancedSpeed": 8.336
+      },
+      {
+        "enhancedAltitude": 73,
+        "enhancedSpeed": 8.433
+      },
+      {
+        "enhancedAltitude": 73,
+        "enhancedSpeed": 8.497
+      },
+      {
+        "enhancedAltitude": 73,
+        "enhancedSpeed": 8.61
+      },
+      {
+        "enhancedAltitude": 73,
+        "enhancedSpeed": 8.657
+      },
+      {
+        "enhancedAltitude": 73,
+        "enhancedSpeed": 8.693
+      },
+      {
+        "enhancedAltitude": 73,
+        "enhancedSpeed": 8.698
+      },
+      {
+        "enhancedAltitude": 73,
+        "enhancedSpeed": 8.792
+      },
+      {
+        "enhancedAltitude": 73.20000000000005,
+        "enhancedSpeed": 8.823
+      },
+      {
+        "enhancedAltitude": 73.20000000000005,
+        "enhancedSpeed": 8.892
+      },
+      {
+        "enhancedAltitude": 73.20000000000005,
+        "enhancedSpeed": 8.983
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 9.145
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 9.186
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 9.194
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 9.201
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 9.201
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 9.255
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 9.255
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 9.255
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 9.285
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 9.285
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 9.288
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 9.288
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 9.383
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 9.407
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 9.417
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 9.463
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 9.515
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 9.52
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 9.52
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 9.52
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 9.52
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 9.52
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 9.52
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 9.51
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 9.496
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 9.496
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 9.496
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 9.496
+      },
+      {
+        "enhancedAltitude": 75,
+        "enhancedSpeed": 9.496
+      },
+      {
+        "enhancedAltitude": 75,
+        "enhancedSpeed": 9.51
+      },
+      {
+        "enhancedAltitude": 75,
+        "enhancedSpeed": 9.51
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 9.601
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.026
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.516
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.551
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 10.551
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 10.551
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 10.509
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 10.516
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 10.516
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 10.551
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 10.65
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 10.653
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 10.66
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 10.66
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.66
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 10.66
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 10.66
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 10.592
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 9.781
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 9.394
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 8.84
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 8.186
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 7.887
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 7.724
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.691
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.724
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 7.887
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 7.874
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 7.806
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 7.727
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 7.724
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 7.691
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 7.666
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 7.645
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 7.562
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 7.55
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 7.515
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 7.381
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 7.381
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 7.254
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 7.233
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 7.167
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 7.142
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 7.127
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 6.795
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 5.27
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 4.467
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 4.128
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 3.359
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 4.128
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 5.274
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 5.274
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 5.274
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 5.274
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 5.274
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 5.294
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 5.348
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 5.394
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 5.535
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 5.683
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 5.815
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 5.823
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 5.834
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 5.89
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 5.892
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 5.921
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 6.001
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 6.01
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 6.011
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 6.13
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 6.205
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 6.254
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 6.295
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 6.357
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 6.462
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 6.49
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 6.529
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 6.62
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 6.637
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 6.649
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 6.649
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 6.649
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 6.649
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 6.649
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 6.649
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 6.637
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 6.577
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.535
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.354
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.354
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.288
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.288
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 6.288
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.288
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.354
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.42
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.756
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.57
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 6.638
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 6.696
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 6.696
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 6.696
+      },
+      {
+        "enhancedAltitude": 75,
+        "enhancedSpeed": 6.696
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 6.696
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 6.703
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 6.723
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 6.723
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 6.723
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 6.723
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 6.723
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 6.918
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 7.013
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 7.025
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 7.025
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 7.025
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 7.025
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 7.231
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 7.232
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 7.239
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 7.901
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 8.113
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 8.391
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 8.538
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.644
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.78
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.391
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.538
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.644
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.78
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.802
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.802
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.802
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.802
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.802
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.78
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.03
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 8.34
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 8.339
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 8.336
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 8.131
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 8.12
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 8.03
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 7.295
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 7.122
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 6.549
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.549
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 6.931
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 7.288
+      },
+      {
+        "enhancedAltitude": 73.39999999999998,
+        "enhancedSpeed": 7.288
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 7.122
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 7.122
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 7.122
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.122
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.225
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.285
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.288
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.494
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.733
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.825
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 8.013
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 8.076
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 8.265
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 8.265
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 8.265
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 8.265
+      },
+      {
+        "enhancedAltitude": 73.60000000000002,
+        "enhancedSpeed": 8.265
+      },
+      {
+        "enhancedAltitude": 73.79999999999995,
+        "enhancedSpeed": 7.712
+      },
+      {
+        "enhancedAltitude": 74,
+        "enhancedSpeed": 7.42
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 7.42
+      },
+      {
+        "enhancedAltitude": 74.20000000000005,
+        "enhancedSpeed": 7.643
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 7.898
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 7.828
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 7.817
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 7.712
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 7.712
+      },
+      {
+        "enhancedAltitude": 75,
+        "enhancedSpeed": 7.712
+      },
+      {
+        "enhancedAltitude": 75,
+        "enhancedSpeed": 8.216
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 8.83
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 9.455
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 9.985
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.16
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.486
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 10.595
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 10.688
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 10.727
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 10.486
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.595
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.688
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.727
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.754
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.843
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.939
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.939
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.939
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.939
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.843
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.843
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.802
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.69
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.682
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.644
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.627
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.627
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.593
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.527
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.527
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.513
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.513
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.338
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.149
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.075
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 10.055
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 9.989
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 9.929
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 9.899
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 9.782
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 9.745
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 9.745
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 9.745
+      },
+      {
+        "enhancedAltitude": 77,
+        "enhancedSpeed": 9.745
+      },
+      {
+        "enhancedAltitude": 77,
+        "enhancedSpeed": 9.745
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 9.745
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 9.963
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 10.074
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 10.22
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 10.22
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 10.302
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 10.302
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 10.302
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 10.302
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 10.26
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 10.22
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 10.197
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 10.127
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 9.882
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 9.29
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 8.861
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 8.802
+      },
+      {
+        "enhancedAltitude": 77,
+        "enhancedSpeed": 8.853
+      },
+      {
+        "enhancedAltitude": 77,
+        "enhancedSpeed": 8.72
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 8.861
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.853
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 8.37
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 7.674
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 7.378
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 6.578
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 6.047
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 5.404
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 3.884
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 3.884
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 4.032
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 4.293
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 4.37
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 4.77
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 4.77
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 5.383
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 6.202
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 6.211
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 6.535
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 6.955
+      },
+      {
+        "enhancedAltitude": 77,
+        "enhancedSpeed": 6.955
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 7.056
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 7.316
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 7.354
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 7.544
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 7.839
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 7.839
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 7.714
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 7.544
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 7.706
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 7.714
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 7.839
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 7.845
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 8.022
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 8.089
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 8.099
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 8.246
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 8.435
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 8.58
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 8.603
+      },
+      {
+        "enhancedAltitude": 77,
+        "enhancedSpeed": 8.782
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 8.803
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 8.879
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 8.879
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.879
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.879
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 8.803
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 8.803
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 8.542
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 8.536
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 8.476
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 8.431
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 8.41
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 8.304
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 8.304
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.304
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.304
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.29
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.139
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 8.054
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 8.006
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 7.956
+      },
+      {
+        "enhancedAltitude": 77,
+        "enhancedSpeed": 7.956
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 7.861
+      },
+      {
+        "enhancedAltitude": 77.60000000000002,
+        "enhancedSpeed": 7.628
+      },
+      {
+        "enhancedAltitude": 77.79999999999995,
+        "enhancedSpeed": 7.61
+      },
+      {
+        "enhancedAltitude": 78,
+        "enhancedSpeed": 7.554
+      },
+      {
+        "enhancedAltitude": 78.20000000000005,
+        "enhancedSpeed": 7.483
+      },
+      {
+        "enhancedAltitude": 78.39999999999998,
+        "enhancedSpeed": 7.426
+      },
+      {
+        "enhancedAltitude": 78.39999999999998,
+        "enhancedSpeed": 7.414
+      },
+      {
+        "enhancedAltitude": 78.60000000000002,
+        "enhancedSpeed": 7.414
+      },
+      {
+        "enhancedAltitude": 78.60000000000002,
+        "enhancedSpeed": 7.414
+      },
+      {
+        "enhancedAltitude": 78.60000000000002,
+        "enhancedSpeed": 7.414
+      },
+      {
+        "enhancedAltitude": 78.60000000000002,
+        "enhancedSpeed": 7.414
+      },
+      {
+        "enhancedAltitude": 78.60000000000002,
+        "enhancedSpeed": 7.426
+      },
+      {
+        "enhancedAltitude": 78.60000000000002,
+        "enhancedSpeed": 7.426
+      },
+      {
+        "enhancedAltitude": 78.79999999999995,
+        "enhancedSpeed": 7.426
+      },
+      {
+        "enhancedAltitude": 79,
+        "enhancedSpeed": 6.694
+      },
+      {
+        "enhancedAltitude": 79.20000000000005,
+        "enhancedSpeed": 6.694
+      },
+      {
+        "enhancedAltitude": 79.20000000000005,
+        "enhancedSpeed": 6.992
+      },
+      {
+        "enhancedAltitude": 79.60000000000002,
+        "enhancedSpeed": 6.992
+      },
+      {
+        "enhancedAltitude": 79.79999999999995,
+        "enhancedSpeed": 7.098
+      },
+      {
+        "enhancedAltitude": 80,
+        "enhancedSpeed": 7.098
+      },
+      {
+        "enhancedAltitude": 80,
+        "enhancedSpeed": 7.098
+      },
+      {
+        "enhancedAltitude": 80.20000000000005,
+        "enhancedSpeed": 7.098
+      },
+      {
+        "enhancedAltitude": 80.39999999999998,
+        "enhancedSpeed": 7.662
+      },
+      {
+        "enhancedAltitude": 80.39999999999998,
+        "enhancedSpeed": 7.997
+      },
+      {
+        "enhancedAltitude": 80.60000000000002,
+        "enhancedSpeed": 8.432
+      },
+      {
+        "enhancedAltitude": 80.60000000000002,
+        "enhancedSpeed": 8.432
+      },
+      {
+        "enhancedAltitude": 80.39999999999998,
+        "enhancedSpeed": 8.385
+      },
+      {
+        "enhancedAltitude": 80,
+        "enhancedSpeed": 7.997
+      },
+      {
+        "enhancedAltitude": 79.60000000000002,
+        "enhancedSpeed": 7.997
+      },
+      {
+        "enhancedAltitude": 79.39999999999998,
+        "enhancedSpeed": 7.997
+      },
+      {
+        "enhancedAltitude": 79.39999999999998,
+        "enhancedSpeed": 7.997
+      },
+      {
+        "enhancedAltitude": 79.20000000000005,
+        "enhancedSpeed": 7.997
+      },
+      {
+        "enhancedAltitude": 79.20000000000005,
+        "enhancedSpeed": 7.997
+      },
+      {
+        "enhancedAltitude": 79,
+        "enhancedSpeed": 7.887
+      },
+      {
+        "enhancedAltitude": 79,
+        "enhancedSpeed": 7.534
+      },
+      {
+        "enhancedAltitude": 79,
+        "enhancedSpeed": 7.512
+      },
+      {
+        "enhancedAltitude": 79,
+        "enhancedSpeed": 7.185
+      },
+      {
+        "enhancedAltitude": 78.79999999999995,
+        "enhancedSpeed": 7.168
+      },
+      {
+        "enhancedAltitude": 78.60000000000002,
+        "enhancedSpeed": 6.445
+      },
+      {
+        "enhancedAltitude": 78.60000000000002,
+        "enhancedSpeed": 5.89
+      },
+      {
+        "enhancedAltitude": 78.20000000000005,
+        "enhancedSpeed": 5.111
+      },
+      {
+        "enhancedAltitude": 78,
+        "enhancedSpeed": 4.564
+      },
+      {
+        "enhancedAltitude": 78,
+        "enhancedSpeed": 4.212
+      },
+      {
+        "enhancedAltitude": 77.79999999999995,
+        "enhancedSpeed": 4.169
+      },
+      {
+        "enhancedAltitude": 77.60000000000002,
+        "enhancedSpeed": 4.137
+      },
+      {
+        "enhancedAltitude": 77.60000000000002,
+        "enhancedSpeed": 4.169
+      },
+      {
+        "enhancedAltitude": 77.60000000000002,
+        "enhancedSpeed": 4.564
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 4.564
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 5.165
+      },
+      {
+        "enhancedAltitude": 77.39999999999998,
+        "enhancedSpeed": 5.563
+      },
+      {
+        "enhancedAltitude": 77.20000000000005,
+        "enhancedSpeed": 5.828
+      },
+      {
+        "enhancedAltitude": 77,
+        "enhancedSpeed": 6.225
+      },
+      {
+        "enhancedAltitude": 76.79999999999995,
+        "enhancedSpeed": 6.49
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 6.618
+      },
+      {
+        "enhancedAltitude": 76.60000000000002,
+        "enhancedSpeed": 6.736
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 7.025
+      },
+      {
+        "enhancedAltitude": 76.39999999999998,
+        "enhancedSpeed": 7.328
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 7.563
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.035
+      },
+      {
+        "enhancedAltitude": 76.20000000000005,
+        "enhancedSpeed": 8.103
+      },
+      {
+        "enhancedAltitude": 76,
+        "enhancedSpeed": 8.532
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 8.709
+      },
+      {
+        "enhancedAltitude": 75.79999999999995,
+        "enhancedSpeed": 9.013
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 9.453
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 9.641
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 9.957
+      },
+      {
+        "enhancedAltitude": 75.60000000000002,
+        "enhancedSpeed": 10.014
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.224
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.234
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 9.957
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.014
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.224
+      },
+      {
+        "enhancedAltitude": 75.39999999999998,
+        "enhancedSpeed": 10.234
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.379
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.534
+      },
+      {
+        "enhancedAltitude": 75.20000000000005,
+        "enhancedSpeed": 10.558
+      },
+      {
+        "enhancedAltitude": 75,
+        "enhancedSpeed": 10.558
+      },
+      {
+        "enhancedAltitude": 75,
+        "enhancedSpeed": 10.558
+      },
+      {
+        "enhancedAltitude": 75,
+        "enhancedSpeed": 10.558
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 10.558
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 10.534
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 10.447
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 10.44
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 10.227
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 10.225
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 9.466
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 9.226
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 8.958
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 8.66
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 8.296
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 8.121
+      },
+      {
+        "enhancedAltitude": 74.39999999999998,
+        "enhancedSpeed": 7.353
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 6.856
+      },
+      {
+        "enhancedAltitude": 74.60000000000002,
+        "enhancedSpeed": 6.167
+      },
+      {
+        "enhancedAltitude": 74.79999999999995,
+        "enhancedSpeed": 5.603
+      }
+    ],
+    "lapMesgs": [
+      {
+        "timestamp": "2024-09-17T14:53:10.000Z",
+        "startTime": "2024-09-17T14:41:54.000Z",
+        "startPositionLat": 608849472,
+        "startPositionLong": 79820891,
+        "endPositionLat": 608364104,
+        "endPositionLong": 79631512,
+        "totalElapsedTime": 674.24,
+        "totalTimerTime": 674.24,
+        "totalDistance": 5000,
+        "enhancedAvgSpeed": 7.416,
+        "enhancedMaxSpeed": 10.936,
+        "enhancedMinAltitude": 62.799999999999955,
+        "enhancedMaxAltitude": 85.39999999999998,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 0,
+        "totalCalories": 137,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "totalAscent": 47,
+        "totalDescent": 46,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 129,
+        "maxHeartRate": 167,
+        "lapTrigger": "distance",
+        "sport": "cycling",
+        "subSport": "road",
+        "avgTemperature": 26,
+        "maxTemperature": 30,
+        "minTemperature": 24,
+        "totalFractionalAscent": 0.98,
+        "totalFractionalDescent": 0.37
+      },
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "startTime": "2024-09-17T14:53:11.000Z",
+        "startPositionLat": 608363086,
+        "startPositionLong": 79630749,
+        "endPositionLat": 608341530,
+        "endPositionLong": 79612766,
+        "totalElapsedTime": 26.561,
+        "totalTimerTime": 26.561,
+        "totalDistance": 244.47,
+        "enhancedAvgSpeed": 9.204,
+        "enhancedMaxSpeed": 10.553,
+        "enhancedMinAltitude": 73,
+        "enhancedMaxAltitude": 75.60000000000002,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 1,
+        "totalCalories": 6,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "totalAscent": 1,
+        "totalDescent": 1,
+        "event": "lap",
+        "eventType": "stop",
+        "avgHeartRate": 137,
+        "maxHeartRate": 138,
+        "lapTrigger": "sessionEnd",
+        "sport": "cycling",
+        "subSport": "road",
+        "avgTemperature": 24,
+        "maxTemperature": 24,
+        "minTemperature": 24,
+        "totalFractionalAscent": 0.72,
+        "totalFractionalDescent": 0.19
+      }
+    ],
+    "timeInZoneMesgs": [
+      {
+        "timestamp": "2024-09-17T14:53:10.000Z",
+        "timeInHrZone": [
+          59.889,
+          16.002,
+          264.996,
+          148.001,
+          146.003,
+          39.998,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 0,
+        "hrZoneHighBoundary": [
+          91,
+          109,
+          127,
+          145,
+          163,
+          181
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 181,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "timeInHrZone": [
+          0,
+          0,
+          0,
+          24.994,
+          0,
+          0,
+          0
+        ],
+        "referenceMesg": "lap",
+        "referenceIndex": 1,
+        "hrZoneHighBoundary": [
+          91,
+          109,
+          127,
+          145,
+          163,
+          181
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 181,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      },
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "timeInHrZone": [
+          59.889,
+          16.002,
+          264.996,
+          172.995,
+          146.003,
+          39.998,
+          0
+        ],
+        "referenceMesg": "session",
+        "referenceIndex": 0,
+        "hrZoneHighBoundary": [
+          91,
+          109,
+          127,
+          145,
+          163,
+          181
+        ],
+        "hrCalcType": "percentMaxHr",
+        "maxHeartRate": 181,
+        "restingHeartRate": 68,
+        "thresholdHeartRate": 0
+      }
+    ],
+    "sessionMesgs": [
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "startTime": "2024-09-17T14:41:54.000Z",
+        "startPositionLat": 608849472,
+        "startPositionLong": 79820891,
+        "totalElapsedTime": 700.801,
+        "totalTimerTime": 700.801,
+        "totalDistance": 5244.47,
+        "necLat": 608855302,
+        "necLong": 79850046,
+        "swcLat": 608341530,
+        "swcLong": 79612766,
+        "endPositionLat": 608341530,
+        "endPositionLong": 79612766,
+        "sportProfileName": "Yol Bisikleti",
+        "enhancedAvgSpeed": 7.484,
+        "enhancedMaxSpeed": 10.936,
+        "trainingLoadPeak": 37.92958068847656,
+        "totalGrit": null,
+        "avgFlow": null,
+        "messageIndex": 0,
+        "totalCalories": 143,
+        "avgSpeed": 65.535,
+        "maxSpeed": 65.535,
+        "totalAscent": 48,
+        "totalDescent": 47,
+        "firstLapIndex": 0,
+        "numLaps": 2,
+        "event": "lap",
+        "eventType": "stop",
+        "sport": "cycling",
+        "subSport": "road",
+        "avgHeartRate": 129,
+        "maxHeartRate": 167,
+        "totalTrainingEffect": 2,
+        "trigger": "activityEnd",
+        "avgTemperature": 26,
+        "maxTemperature": 30,
+        "totalAnaerobicTrainingEffect": 0.3,
+        "minTemperature": 24,
+        "totalFractionalAscent": 0.14,
+        "totalFractionalDescent": 0.56
+      }
+    ],
+    "activityMesgs": [
+      {
+        "timestamp": "2024-09-17T14:53:36.000Z",
+        "totalTimerTime": 700.801,
+        "localTimestamp": 1095526416,
+        "numSessions": 1,
+        "type": "manual",
+        "event": "activity",
+        "eventType": "stop"
+      }
+    ]
+  }
+}

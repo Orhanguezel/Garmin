@@ -3,18 +3,23 @@
   "version": "1.0.0",
   "description": "Bluetooth ve Garmin API ile veri çekme backend",
   "main": "src/server.js",
+  "type": "module",
   "scripts": {
     "start": "node src/server.js",
-    "dev": "nodemon src/server.js"
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@garmin/fitsdk": "^21.161.0",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "fit-decoder": "^1.0.5",
     "fit-file-parser": "^1.21.0",
     "mongoose": "^8.9.5",
-    "node-ble": "^1.13.0",
+    "node-ble": "^0.0.0",
     "swagger-ui-express": "^5.0.1",
     "uuid": "^11.0.5",
+    "winston": "^3.17.0",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
