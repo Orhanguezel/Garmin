@@ -1,13 +1,11 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
-const activitySchema = new mongoose.Schema({
-  timestamp: { type: Date, required: true },
-  heartRate: { type: Number, required: false },
-  distance: { type: Number, required: false },
-  speed: { type: Number, required: false },
-  calories: { type: Number, required: false },
+const ActivitySchema = new mongoose.Schema({
+  timestamp: { type: Date, required: true, unique: true },
+  distance: { type: Number, default: 0 },
+  speed: { type: Number, default: 0 },
+  heart_rate: { type: Number, default: 0 },
+  calories: { type: Number, default: 0 },
 });
 
-export default mongoose.model('Activity', activitySchema);
-
-
+export default mongoose.model("Activity", ActivitySchema);

@@ -4,7 +4,7 @@ info:
   description: Garmin cihazından aktiviteleri işleyen ve analiz eden API
   version: 1.0.0
 servers:
-  - url: http://localhost:3000
+  - url: http://localhost:3001
 paths:
   /api/activity/{fileName}:
     get:
@@ -24,12 +24,12 @@ paths:
               schema:
                 type: object
                 properties:
-                  fileName:
+                  message:
                     type: string
-                    description: FIT dosyasının adı
-                  processedData:
-                    type: object
-                    description: İşlenen aktivite verileri
+                  activities:
+                    type: array
+                    items:
+                      type: object
         '404':
           description: FIT dosyası bulunamadı
         '500':
@@ -44,16 +44,25 @@ paths:
           content:
             application/json:
               schema:
-                type: array
-                items:
-                  type: object
-                  properties:
-                    fileName:
-                      type: string
-                      description: FIT dosyasının adı
-                    processedData:
+                type: object
+                properties:
+                  message:
+                    type: string
+                  results:
+                    type: array
+                    items:
                       type: object
-                      description: İşlenen aktivite verileri
+                      properties:
+                        file:
+                          type: string
+                          description: FIT dosyasının adı
+                        status:
+                          type: string
+                          description: Dosya işleme durumu
+                        activities:
+                          type: array
+                          items:
+                            type: object
         '500':
           description: Sunucu hatası
 
@@ -100,6 +109,15 @@ paths:
       responses:
         '201':
           description: FIT dosyası başarıyla yüklendi ve işlendi
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                  fileName:
+                    type: string
         '400':
           description: Geçersiz dosya formatı
         '500':
@@ -118,6 +136,13 @@ paths:
       responses:
         '200':
           description: FIT dosyası başarıyla silindi
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
         '404':
           description: FIT dosyası bulunamadı
         '500':
@@ -145,4 +170,3 @@ paths:
           description: FIT dosyası bulunamadı
         '500':
           description: Sunucu hatası
-

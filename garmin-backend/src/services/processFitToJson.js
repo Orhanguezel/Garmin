@@ -3,6 +3,11 @@ import fs from "fs/promises";
 import path from "path";
 import { Decoder, Stream } from "@garmin/fitsdk";
 
+/**
+ * Converts a single FIT file to JSON format and saves it.
+ * @param {string} filePath - Full path to the FIT file.
+ * @param {string} outputDir - Directory to save the JSON output.
+ */
 export const convertFitToJson = async (filePath, outputDir) => {
   try {
     logger.info(`Processing FIT file: ${filePath}`);
@@ -16,6 +21,7 @@ export const convertFitToJson = async (filePath, outputDir) => {
     }
 
     const decoder = new Decoder(stream);
+
     if (!decoder.checkIntegrity()) {
       logger.error(`File ${path.basename(filePath)} failed integrity check.`);
       return;
@@ -23,7 +29,6 @@ export const convertFitToJson = async (filePath, outputDir) => {
 
     const { messages, errors } = decoder.read();
 
-    // Log all message types and their counts
     Object.entries(messages).forEach(([messageType, messageData]) => {
       logger.info(
         `Message Type: ${messageType}, Count: ${
@@ -33,7 +38,9 @@ export const convertFitToJson = async (filePath, outputDir) => {
     });
 
     if (!messages.record) {
-      logger.warn(`No 'record' messages found in file: ${path.basename(filePath)}`);
+      logger.warn(
+        `No 'record' messages found in file: ${path.basename(filePath)}`
+      );
     }
 
     const jsonOutput = {
@@ -41,7 +48,11 @@ export const convertFitToJson = async (filePath, outputDir) => {
       messages,
     };
 
-    const outputFilePath = path.join(outputDir, `${path.basename(filePath, ".fit")}.json`);
+    const outputFilePath = path.join(
+      outputDir,
+      `${path.basename(filePath, ".fit")}.json`
+    );
+
     await fs.writeFile(outputFilePath, JSON.stringify(jsonOutput, null, 2));
     logger.info(`Saved JSON file: ${outputFilePath}`);
   } catch (error) {
@@ -49,6 +60,11 @@ export const convertFitToJson = async (filePath, outputDir) => {
   }
 };
 
+/**
+ * Converts all FIT files in a directory to JSON format and saves them.
+ * @param {string} inputDir - Directory containing FIT files.
+ * @param {string} outputDir - Directory to save the JSON outputs.
+ */
 export const convertAllFitToJson = async (inputDir, outputDir) => {
   try {
     logger.info(`Reading FIT files from directory: ${inputDir}`);
@@ -75,8 +91,7 @@ export const convertAllFitToJson = async (inputDir, outputDir) => {
   }
 };
 
-
-// Test the function by running it with appropriate input and output paths
+// Test the function
 (async () => {
   const inputDir = "/home/orhan/Dokumente/Garmin/garmin-backend/input";
   const outputDir = "/home/orhan/Dokumente/Garmin/garmin-backend/output/json";

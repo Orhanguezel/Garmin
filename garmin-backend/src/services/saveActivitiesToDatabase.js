@@ -26,7 +26,7 @@ export const saveActivitiesToDatabase = async (jsonDirPath) => {
       try {
         const jsonData = JSON.parse(await fs.readFile(filePath, "utf-8"));
 
-        if (!Array.isArray(jsonData.messages.record)) {
+        if (!Array.isArray(jsonData.messages?.record)) {
           logger.warn(`File ${file} does not contain valid 'record' messages.`);
           continue;
         }
@@ -44,19 +44,19 @@ export const saveActivitiesToDatabase = async (jsonDirPath) => {
           continue;
         }
 
-        for (const activity of activities) {
-          try {
-            const exists = await Activity.findOne({ timestamp: activity.timestamp });
-            if (!exists) {
-              await Activity.create(activity);
-              logger.info(`Activity with timestamp ${activity.timestamp} saved successfully.`);
-            } else {
-              logger.info(`Activity with timestamp ${activity.timestamp} already exists.`);
-            }
-          } catch (dbError) {
-            logger.error(`Error saving activity to MongoDB: ${dbError.message}`);
-          }
-        }
+        // Perform a bulkWrite operation for better performance
+        const bulkOps = activities.map((activity) => ({
+          updateOne: {
+            filter: { timestamp: activity.timestamp },
+            update: { $set: activity },
+            upsert: true,
+          },
+        }));
+
+        const result = await Activity.bulkWrite(bulkOps);
+        logger.info(
+          `Processed file: ${file} | Matched: ${result.matchedCount}, Inserted: ${result.upsertedCount}, Modified: ${result.modifiedCount}`
+        );
       } catch (fileError) {
         logger.error(`Error processing JSON file ${file}: ${fileError.message}`);
       }

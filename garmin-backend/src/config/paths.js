@@ -2,5 +2,7 @@
 import path from "path";
 
 
-export const ACTIVITY_FILES_DIR = path.resolve("src/ActivityFiles");
+export const JSON_FILES_DIR = "/home/orhan/Dokumente/Garmin/garmin-backend/output/json";
+
+
 
